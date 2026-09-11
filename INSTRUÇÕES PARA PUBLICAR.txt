@@ -1,0 +1,17 @@
+Gere o arquivo MD em https://blogsaber.streamlit.app/
+
+Salve o arquivo .md na pasta C:\blog-saber\src\data\post\
+
+Abra o PowerShell
+
+# 1. Entre na pasta definitiva do blog
+Set-Location "C:\blog-saber"
+
+# 2. Adicione o novo artigo ao controle de versão do Git
+git add .
+
+# 3. Crie o commit com uma mensagem descritiva
+git commit -m "Publica novo artigo: O Dinheiro da Poupanca Esta Sumindo"
+
+# 4. Envie para o GitHub (o que dispara o deploy automático no Cloudflare)
+git push
