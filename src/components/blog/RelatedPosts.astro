@@ -1,6 +1,5 @@
 ---
 import { fetchPosts } from '~/utils/blog';
-import Item from '~/components/blog/ListItem.astro';
 import type { Post } from '~/types';
 
 export interface Props {
@@ -9,48 +8,90 @@ export interface Props {
 
 const { post } = Astro.props;
 
+// Puxa 100% do acervo de artigos
 const allPosts = await fetchPosts();
-const otherPosts = allPosts.filter((p) => p.permalink !== post.permalink);
 
-const poolSize = Math.min(15, otherPosts.length);
-const poolPosts = otherPosts.sort(() => Math.random() - 0.5).slice(0, poolSize);
+// Remove o artigo que o leitor já está lendo no momento
+const candidatePosts = allPosts.filter((p) => (p.slug || p.permalink) !== (post.slug || post.permalink));
+
+// Mapeia os dados essenciais para o sorteio no cliente (payload ultra-leve)
+const postsPayload = candidatePosts.map((p) => ({
+  title: p.title,
+  slug: p.slug || p.permalink,
+}));
+
+// Fallback estático inicial de 3 posts caso o JS esteja desativado
+const initialFallback = candidatePosts.slice(0, 3);
 ---
 
-{poolPosts.length > 0 && (
-  <div class="mx-auto max-w-5xl px-4 sm:px-6 mt-12 mb-20 pt-10 border-t border-gray-200 dark:border-slate-800">
-    <h3 class="text-2xl sm:text-3xl font-bold font-heading dark:text-slate-200 mb-8 text-center">
-      Continue Explorando
-    </h3>
-    
-    <div id="related-posts-grid" class="grid gap-6 sm:grid-gap-8 md:grid-cols-3">
-      {poolPosts.map((poolPost) => (
-        <div class="related-card hidden bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex-col justify-between">
-          <Item post={poolPost} />
-        </div>
-      ))}
-    </div>
-  </div>
-)}
+<div class="mx-auto max-w-5xl px-4 sm:px-6 mt-12 mb-20 pt-10 border-t border-gray-200 dark:border-slate-800">
+  <h3 class="text-2xl sm:text-3xl font-bold font-heading dark:text-slate-200 mb-8 text-center">
+    Continue Explorando
+  </h3>
 
-<script>
-  document.addEventListener('astro:page-load', () => {
+  <div class="grid gap-6 sm:grid-gap-8 md:grid-cols-3" id="related-posts-grid">
+    {initialFallback.map((item) => (
+      <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between">
+        <article class="flex flex-col h-full">
+          <div class="flex flex-col justify-between flex-1">
+            <header>
+              <h2 class="font-bold font-heading dark:text-slate-200 leading-snug mb-2 sm:text-xl text-lg">
+                <a
+                  class="hover:text-primary dark:hover:text-blue-400 transition duration-200"
+                  href={`/blog/${item.slug}`}
+                >
+                  {item.title}
+                </a>
+              </h2>
+            </header>
+          </div>
+        </article>
+      </div>
+    ))}
+  </div>
+</div>
+
+<script is:inline define:vars={{ postsPayload }}>
+  function randomizeRelatedArticles() {
+    if (!Array.isArray(postsPayload) || postsPayload.length === 0) return;
+
     const grid = document.getElementById('related-posts-grid');
     if (!grid) return;
 
-    const cards = Array.from(grid.querySelectorAll('.related-card'));
-    if (cards.length === 0) return;
+    // Embaralha 100% do acervo usando o algoritmo Fisher-Yates
+    const pool = [...postsPayload];
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
 
-    cards.forEach(card => {
-      card.classList.add('hidden');
-      card.classList.remove('flex');
-    });
+    // Pega as 3 primeiras do baralho 100% embaralhado
+    const selectedPosts = pool.slice(0, 3);
 
-    const shuffled = cards.sort(() => Math.random() - 0.5);
+    // Injeta os cards com rotas diretas (/blog/slug) sem risco de 404
+    grid.innerHTML = selectedPosts
+      .map((item) => `
+        <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between">
+          <article class="flex flex-col h-full">
+            <div class="flex flex-col justify-between flex-1">
+              <header>
+                <h2 class="font-bold font-heading dark:text-slate-200 leading-snug mb-2 sm:text-xl text-lg">
+                  <a
+                    class="hover:text-primary dark:hover:text-blue-400 transition duration-200"
+                    href="/blog/${item.slug}"
+                  >
+                    ${item.title}
+                  </a>
+                </h2>
+              </header>
+            </div>
+          </article>
+        </div>
+      `)
+      .join('');
+  }
 
-    const selected = shuffled.slice(0, 3);
-    selected.forEach(card => {
-      card.classList.remove('hidden');
-      card.classList.add('flex');
-    });
-  });
+  // Dispara no carregamento inicial e na troca de páginas do Astro (View Transitions)
+  randomizeRelatedArticles();
+  document.addEventListener('astro:page-load', randomizeRelatedArticles);
 </script>
