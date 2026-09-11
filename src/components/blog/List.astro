@@ -1,0 +1,18 @@
+---
+import type { Post } from '~/types';
+import Item from '~/components/blog/ListItem.astro';
+
+interface Props {
+  posts: Array<Post>;
+}
+
+const { posts } = Astro.props;
+---
+
+<div class="grid gap-6 sm:grid-gap-8 md:grid-cols-2 lg:grid-cols-3">
+  {posts.map((post) => (
+    <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between">
+      <Item post={post} />
+    </div>
+  ))}
+</div>

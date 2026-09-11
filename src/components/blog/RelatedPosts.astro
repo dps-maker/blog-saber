@@ -1,0 +1,56 @@
+---
+import { fetchPosts } from '~/utils/blog';
+import Item from '~/components/blog/ListItem.astro';
+import type { Post } from '~/types';
+
+export interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+
+const allPosts = await fetchPosts();
+const otherPosts = allPosts.filter((p) => p.permalink !== post.permalink);
+
+const poolSize = Math.min(15, otherPosts.length);
+const poolPosts = otherPosts.sort(() => Math.random() - 0.5).slice(0, poolSize);
+---
+
+{poolPosts.length > 0 && (
+  <div class="mx-auto max-w-5xl px-4 sm:px-6 mt-12 mb-20 pt-10 border-t border-gray-200 dark:border-slate-800">
+    <h3 class="text-2xl sm:text-3xl font-bold font-heading dark:text-slate-200 mb-8 text-center">
+      Continue Explorando
+    </h3>
+    
+    <div id="related-posts-grid" class="grid gap-6 sm:grid-gap-8 md:grid-cols-3">
+      {poolPosts.map((poolPost) => (
+        <div class="related-card hidden bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex-col justify-between">
+          <Item post={poolPost} />
+        </div>
+      ))}
+    </div>
+  </div>
+)}
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    const grid = document.getElementById('related-posts-grid');
+    if (!grid) return;
+
+    const cards = Array.from(grid.querySelectorAll('.related-card'));
+    if (cards.length === 0) return;
+
+    cards.forEach(card => {
+      card.classList.add('hidden');
+      card.classList.remove('flex');
+    });
+
+    const shuffled = cards.sort(() => Math.random() - 0.5);
+
+    const selected = shuffled.slice(0, 3);
+    selected.forEach(card => {
+      card.classList.remove('hidden');
+      card.classList.add('flex');
+    });
+  });
+</script>

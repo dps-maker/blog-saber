@@ -1,0 +1,11 @@
+site:
+  name: 'Imobiliária Saber'
+  site: 'https://saber.imb.br'
+  base: '/'
+  trailingSlash: false
+
+apps:
+  blog:
+    isEnabled: true
+    pathname: 'blog'
+    postsPerPage: 200

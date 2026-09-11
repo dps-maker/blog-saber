@@ -1,0 +1,98 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+import Layout from '~/layouts/PageLayout.astro';
+import BlogList from '~/components/blog/List.astro';
+import Headline from '~/components/blog/Headline.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Image from '~/components/common/Image.astro';
+import { getPermalink } from '~/utils/permalinks';
+
+import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogList({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page } = Astro.props as Props;
+const currentPage = page.currentPage ?? 1;
+
+// Separa o primeiro post para ser o Destaque (Hero)
+const [featuredPost, ...regularPosts] = page.data;
+
+// AGRUPAMENTO AUTOMÁTICO (Efeito Prateleira Temática)
+const postsByCategory = regularPosts.reduce((acc, post) => {
+  const catTitle = post.category?.title || 'Insights Estratégicos';
+  if (!acc[catTitle]) acc[catTitle] = [];
+  acc[catTitle].push(post);
+  return acc;
+}, {});
+
+const metadata = {
+  title: `Inteligência Imobiliária${currentPage > 1 ? ` — Página ${currentPage}` : ''}`,
+  description: 'Guias e análises exclusivas do mercado imobiliário.',
+  robots: {
+    index: blogListRobots?.index && currentPage === 1,
+    follow: blogListRobots?.follow,
+  },
+  openGraph: { type: 'blog' },
+};
+---
+
+<Layout metadata={metadata}>
+  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-6xl">
+    <div class="text-center mb-8">
+      <a href="https://saber.imb.br" class="text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors">
+        ← Voltar para o Início
+      </a>
+    </div>
+
+    <Headline subtitle="Guias estratégicos, análises de mercado e oportunidades de investimento.">
+      Inteligência Imobiliária
+    </Headline>
+
+    {/* DESTAQUE PRINCIPAL (O GATILHO) */}
+    {currentPage === 1 && featuredPost && (
+      <div class="mb-16 pb-12 border-b border-gray-200 dark:border-slate-800">
+        <div class="grid md:grid-cols-2 gap-8 items-center bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 shadow-sm">
+          {featuredPost.image && (
+            <a href={getPermalink(featuredPost.permalink, 'post')} class="relative block group overflow-hidden rounded-xl bg-gray-400 dark:bg-slate-700 aspect-video">
+              <Image src={featuredPost.image} class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-300" widths={[600, 900]} sizes="(max-width: 900px) 600px, 900px" alt={featuredPost.title} loading="eager" decoding="async" />
+            </a>
+          )}
+          <div class="flex flex-col justify-center">
+            <span class="text-xs font-bold uppercase tracking-wider text-blue-600 dark:text-blue-400 mb-2">Leitura Obrigatória</span>
+            <h2 class="text-2xl sm:text-3xl font-bold font-heading mb-4 dark:text-slate-100 leading-tight">
+              <a class="hover:text-primary dark:hover:text-blue-400 transition duration-200" href={getPermalink(featuredPost.permalink, 'post')}>{featuredPost.title}</a>
+            </h2>
+            {featuredPost.excerpt && <p class="text-muted dark:text-slate-400 text-base sm:text-lg mb-6 line-clamp-3">{featuredPost.excerpt}</p>}
+            <div>
+              <a href={getPermalink(featuredPost.permalink, 'post')} class="btn btn-primary px-5 py-2.5 text-sm font-semibold">Iniciar Análise →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    )}
+    
+    {/* PRATELEIRAS TEMÁTICAS (O LOOP) */}
+    {currentPage === 1 ? (
+      Object.entries(postsByCategory).map(([category, posts]) => (
+        <div class="mb-16">
+          <div class="flex justify-between items-center mb-6 border-b border-gray-200 dark:border-slate-800 pb-2">
+            <h3 class="text-2xl font-bold font-heading dark:text-slate-200">{category}</h3>
+          </div>
+          {/* Exibe apenas os 3 primeiros posts da categoria para não sobrecarregar */}
+          <BlogList posts={(posts as any[]).slice(0, 3)} />
+        </div>
+      ))
+    ) : (
+      <BlogList posts={page.data} />
+    )}
+    
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+  </section>
+</Layout>
