@@ -11,7 +11,7 @@ Set-Location "C:\blog-saber"
 git add .
 
 # 3. Crie o commit com uma mensagem descritiva
-git commit -m "Publica novo artigo: O Dinheiro da Poupanca Esta Sumindo"
+git commit -m "nova postagem"
 
 # 4. Envie para o GitHub (o que dispara o deploy automático no Cloudflare)
 git push
