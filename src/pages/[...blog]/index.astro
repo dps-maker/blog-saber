@@ -2,10 +2,7 @@
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 
 import Layout from '~/layouts/PageLayout.astro';
-import Item from '~/components/blog/ListItem.astro';
-
 import { fetchPosts } from '~/utils/blog';
-import { getPermalink } from '~/utils/permalinks';
 
 export const prerender = true;
 
@@ -21,8 +18,16 @@ export const getStaticPaths = (async () => {
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
-// Carrega todas as postagens no build para gerar os elementos HTML
+// Busca o acervo completo no build
 const allPosts = await fetchPosts();
+
+// Mapeia apenas os dados essenciais para o sorteio no cliente
+const postsPayload = allPosts.map((p) => ({
+  title: p.title,
+  slug: p.slug || p.permalink,
+  publishDate: p.publishDate ? new Date(p.publishDate).toLocaleDateString('pt-BR') : '',
+  category: p.category?.title || 'Análise',
+}));
 
 const metadata = {
   title: 'Inteligência Imobiliária',
@@ -51,94 +56,85 @@ const metadata = {
       </div>
     </header>
 
-    {/* 1. DESTAQUE PRINCIPAL: Itens gerados no build com classe 'hidden' */}
-    <div class="mb-16 pb-12 border-b border-gray-200 dark:border-slate-800" id="featured-container">
-      {allPosts.map((post, index) => (
-        <div
-          class="featured-post-item hidden grid md:grid-cols-2 gap-8 items-center bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 shadow-sm"
-          data-post-index={index}
-        >
+    {/* CONTAINER 1: POST DE DESTAQUE */}
+    <div class="mb-16 pb-12 border-b border-gray-200 dark:border-slate-800" id="featured-slot"></div>
+
+    {/* CONTAINER 2: GRADE DE 3 POSTS */}
+    <div class="mb-16">
+      <div class="flex justify-between items-center mb-6 pb-2 border-b border-gray-200 dark:border-slate-800">
+        <h3 class="text-2xl font-bold font-heading dark:text-slate-200">Insights Estratégicos</h3>
+      </div>
+      <div class="grid gap-6 sm:grid-gap-8 md:grid-cols-2 lg:grid-cols-3" id="grid-slot"></div>
+    </div>
+  </section>
+
+  {/* SCRIPT DINÂMICO CLIENT-SIDE */}
+  <script is:inline define:vars={{ postsPayload }}>
+    function initRandomPosts() {
+      if (!Array.isArray(postsPayload) || postsPayload.length === 0) return;
+
+      const featuredContainer = document.getElementById('featured-slot');
+      const gridContainer = document.getElementById('grid-slot');
+
+      if (!featuredContainer || !gridContainer) return;
+
+      // Embaralhamento Fisher-Yates
+      const shuffled = [...postsPayload];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+
+      // 1. Renderiza o Destaque Principal
+      const featured = shuffled[0];
+      const featuredUrl = `/blog/${featured.slug}`;
+      featuredContainer.innerHTML = `
+        <div class="grid md:grid-cols-2 gap-8 items-center bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 shadow-sm">
           <div class="flex flex-col justify-center">
             <span class="text-xs font-bold text-blue-600 dark:text-blue-400 uppercase tracking-wider mb-2">
               Leitura Obrigatória
             </span>
             <h2 class="text-2xl sm:text-3xl font-bold font-heading leading-tight mb-4 dark:text-slate-100">
-              <a
-                href={getPermalink(post.permalink, 'post')}
-                class="hover:text-primary dark:hover:text-blue-400 transition duration-200"
-              >
-                {post.title}
+              <a href="${featuredUrl}" class="hover:text-primary dark:hover:text-blue-400 transition duration-200">
+                ${featured.title}
               </a>
             </h2>
             <div>
-              <a
-                href={getPermalink(post.permalink, 'post')}
-                class="btn btn-primary text-sm font-semibold px-5 py-2.5"
-              >
+              <a href="${featuredUrl}" class="btn btn-primary text-sm font-semibold px-5 py-2.5">
                 Iniciar Análise →
               </a>
             </div>
           </div>
         </div>
-      ))}
-    </div>
+      `;
 
-    {/* 2. GRADE DE 3 POSTS: Itens secundários também gerados com classe 'hidden' */}
-    <div class="mb-16">
-      <div class="flex justify-between items-center mb-6 pb-2 border-b border-gray-200 dark:border-slate-800">
-        <h3 class="text-2xl font-bold font-heading dark:text-slate-200">Insights Estratégicos</h3>
-      </div>
-
-      <div class="grid gap-6 sm:grid-gap-8 md:grid-cols-2 lg:grid-cols-3" id="grid-container">
-        {allPosts.map((post, index) => (
-          <div
-            class="grid-post-item hidden bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between"
-            data-post-index={index}
-          >
-            <Item post={post} />
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  {/* SCRIPT EXECUTADO NO NAVEGADOR: Embaralha e exibe 4 posts únicos a cada visita/F5 */}
-  <script is:inline>
-    function renderDynamicPosts() {
-      const featuredElements = Array.from(document.querySelectorAll('.featured-post-item'));
-      const gridElements = Array.from(document.querySelectorAll('.grid-post-item'));
-      const total = featuredElements.length;
-
-      if (total === 0) return;
-
-      // Oculta todos os cards para resetar em caso de navegação via View Transitions
-      featuredElements.forEach((el) => el.classList.add('hidden'));
-      gridElements.forEach((el) => el.classList.add('hidden'));
-
-      // Algoritmo de Fisher-Yates para embaralhar os índices sem repetição
-      const pool = Array.from({ length: total }, (_, i) => i);
-      for (let i = pool.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [pool[i], pool[j]] = [pool[j], pool[i]];
-      }
-
-      // Índice sorteado para o Destaque
-      const featuredIdx = pool[0];
-      if (featuredElements[featuredIdx]) {
-        featuredElements[featuredIdx].classList.remove('hidden');
-      }
-
-      // 3 índices únicos sorteados para a Grade (pool[1], pool[2], pool[3])
-      const gridIndices = pool.slice(1, 4);
-      gridIndices.forEach((idx) => {
-        if (gridElements[idx]) {
-          gridElements[idx].classList.remove('hidden');
-        }
-      });
+      // 2. Renderiza a Grade de 3 Posts Secundários
+      const gridItems = shuffled.slice(1, 4);
+      gridContainer.innerHTML = gridItems
+        .map((post) => {
+          const postUrl = `/blog/${post.slug}`;
+          return `
+            <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between">
+              <article class="flex flex-col h-full">
+                <div class="flex flex-col justify-between flex-1">
+                  <header>
+                    <div class="mb-1 text-xs text-gray-500 dark:text-slate-400">${post.publishDate}</div>
+                    <h2 class="text-lg sm:text-xl font-bold leading-snug mb-2 font-heading dark:text-slate-200">
+                      <a href="${postUrl}" class="hover:text-primary dark:hover:text-blue-400 transition duration-200">
+                        ${post.title}
+                      </a>
+                    </h2>
+                  </header>
+                </div>
+              </article>
+            </div>
+          `;
+        })
+        .join('');
     }
 
-    // Executa no carregamento normal e em transições de página do Astro
-    document.addEventListener('DOMContentLoaded', renderDynamicPosts);
-    document.addEventListener('astro:page-load', renderDynamicPosts);
+    // Executa no load e suporta o ClientRouter (transições de página do Astro)
+    initRandomPosts();
+    document.addEventListener('astro:page-load', initRandomPosts);
   </script>
 </Layout>
