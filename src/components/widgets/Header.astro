@@ -1,6 +1,6 @@
 ---
 import Logo from '~/components/Logo.astro';
-import { getHomePermalink } from '~/utils/permalinks';
+import { getHomePermalink, getBlogPermalink } from '~/utils/permalinks';
 import { trimSlash } from '~/utils/permalinks';
 import type { CallToAction } from '~/types';
 
@@ -56,7 +56,7 @@ const persistKey = `header-${Array.from(
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
       
       <!-- Logotipo -->
-      <a class="flex items-center" href={getHomePermalink()}>
+      <a class="flex items-center" href={getBlogPermalink()}>
         <Logo />
       </a>
 
