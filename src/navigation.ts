@@ -1,5 +1,10 @@
 export const headerData = {
-  links: [],
+  links: [
+    {
+      text: 'Índice de Artigos',
+      href: '/all-posts',
+    },
+  ],
   actions: [
     {
       text: 'WhatsApp',

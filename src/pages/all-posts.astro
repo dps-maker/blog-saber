@@ -1,0 +1,45 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Headline from '~/components/blog/Headline.astro';
+import { fetchPosts } from '~/utils/blog';
+
+const metadata = {
+  title: 'Índice de Artigos de A a Z',
+  description: 'Navegue por todas as nossas publicações em ordem alfabética.',
+};
+
+// Busca todas as postagens cadastradas no blog
+const posts = await fetchPosts();
+
+// Ordena os posts alfabéticamente pelo título (de A a Z)
+const sortedPosts = posts.sort((a, b) => {
+  return a.title.localeCompare(b.title, 'pt-BR', { sensitivity: 'base' });
+});
+---
+
+<Layout metadata={metadata}>
+  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+    <Headline
+      title="Índice de Artigos (A - Z)"
+      subtitle="Encontre todos os guias e análises imobiliárias em ordem alfabética."
+    />
+
+    <div class="mt-8">
+      <ul class="space-y-4">
+        {
+          sortedPosts.map((post) => (
+            <li class="border-b border-gray-200 dark:border-gray-800 pb-3 transition-colors hover:border-green-500">
+              <a
+                href={`/blog/${post.permalink}`}
+                class="text-lg font-medium text-default hover:text-green-600 dark:hover:text-green-400 flex items-center justify-between group"
+              >
+                <span>{post.title}</span>
+                <span class="text-xs text-muted opacity-0 group-hover:opacity-100 transition-opacity">Ler artigo &rarr;</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+</Layout>
