@@ -30,17 +30,16 @@ export interface Props {
 const {
   id = 'header',
   links = [],
-  actions = [],
   isSticky = false,
   isDark = false,
   isFullWidth = false,
-  position = 'center',
 } = Astro.props;
 
 const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
+const isActive = (href?: string) => typeof href === 'string' && `/${trimSlash(href)}` === currentPath;
 
 const persistKey = `header-${Array.from(
-  JSON.stringify({ links, actions, isSticky, isDark, isFullWidth, position })
+  JSON.stringify({ links, isSticky, isDark, isFullWidth })
 )
   .reduce((hash, char) => (hash * 31 + char.charCodeAt(0)) >>> 0, 7)
   .toString(36)}`;
@@ -64,13 +63,49 @@ const persistKey = `header-${Array.from(
         },
       ]}
     >
-      <!-- Logo do Blog/Imobiliária -->
-      <a class="flex items-center" href={getHomePermalink()}>
-        <Logo />
-      </a>
+      <!-- Esquerda: Logotipo e Links de Navegação -->
+      <div class="flex items-center gap-6 md:gap-8">
+        <a class="flex items-center" href={getHomePermalink()}>
+          <Logo />
+        </a>
 
-      <!-- Botão Direto para o WhatsApp -->
-      <div class="flex items-center">
+        <!-- Menu de Navegação Horizontal -->
+        <nav class="hidden md:flex items-center space-x-1 text-sm font-medium">
+          {
+            links.map(({ text, href }) => (
+              <a
+                class:list={[
+                  'px-3 py-2 rounded-lg transition-colors hover:text-green-600 dark:hover:text-green-400',
+                  { 'text-green-600 dark:text-green-400 font-semibold': isActive(href) },
+                ]}
+                href={href}
+              >
+                {text}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+
+      <!-- Direita: Botão do WhatsApp + Menu Mobile Simples (se houver links) -->
+      <div class="flex items-center gap-3">
+        {
+          links.length > 0 && (
+            <div class="md:hidden flex items-center">
+              <select
+                aria-label="Navegação"
+                class="bg-gray-50 border border-gray-300 text-gray-900 text-xs rounded-lg p-2 dark:bg-slate-800 dark:border-slate-700 dark:text-white"
+                onchange="if (this.value) window.location.href = this.value;"
+              >
+                <option value="" disabled selected>Menu</option>
+                {links.map(({ text, href }) => (
+                  <option value={href}>{text}</option>
+                ))}
+              </select>
+            </div>
+          )
+        }
+
         <a
           href="https://wa.me/5519971470708?text=Ol%C3%A1%21+Vim+pelo+blog+da+Imobili%C3%A1ria+Saber+e+gostaria+de+atendimento."
           target="_blank"
