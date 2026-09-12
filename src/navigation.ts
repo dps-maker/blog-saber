@@ -13,3 +13,12 @@ export const headerData = {
     },
   ],
 };
+
+export const footerData = {
+  links: [],
+  secondaryLinks: [],
+  socialLinks: [],
+  footNote: `
+    © ${new Date().getFullYear()} Saber Imobiliária. Todos os direitos reservados.
+  `,
+};
