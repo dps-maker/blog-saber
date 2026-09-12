@@ -3,6 +3,8 @@ import Layout from '~/layouts/PageLayout.astro';
 import Headline from '~/components/ui/Headline.astro';
 import { getCollection } from 'astro:content';
 
+export const prerender = true;
+
 const metadata = {
   title: 'Índice de Artigos de A a Z',
   description: 'Navegue por todas as nossas publicações em ordem alfabética.',

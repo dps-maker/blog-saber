@@ -2,7 +2,7 @@ export const headerData = {
   links: [
     {
       text: 'Índice de Artigos',
-      href: '/blog/all-posts',
+      href: '/all-posts',
     },
   ],
   actions: [
