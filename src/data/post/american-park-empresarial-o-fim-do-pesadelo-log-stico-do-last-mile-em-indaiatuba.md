@@ -7,18 +7,6 @@ description: "Reduza seu custo logístico e resolva a falta de área de manobra.
 <style>.post-body h2 {color: #003366;
 font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "American Park Empresarial: O Fim do Pesadelo Logístico do Last Mile em Indaiatuba",
-"datePublished": "2021-09-20T00:00:00-03:00",
-"dateModified": "2026-01-19T10:17:55-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <h2>Por que sua operação logística está sangrando dinheiro no "Last Mile"?</h2>
 <p>Se você gerencia uma frota ou uma operação de distribuição, sabe que o trânsito urbano é o inimigo número um da sua margem de lucro. Imagine um caminhão parado em uma avenida estreita, tentando manobrar enquanto o relógio corre e o combustível queima. Essa é a realidade de quem escolhe a localização errada.</p>
 <p>No American Park Empresarial, a lógica é outra. Estamos falando de acesso imediato, sem semáforos intermináveis, para quem precisa escoar produção ou receber insumos com agilidade.</p>

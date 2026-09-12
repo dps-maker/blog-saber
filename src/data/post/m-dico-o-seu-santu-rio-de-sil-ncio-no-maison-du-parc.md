@@ -9,18 +9,6 @@ description: "Após um plantão exaustivo, você merece silêncio absoluto. Desc
 p {font-size: 19px; line-height: 1.6;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Médico: O Seu Santuário de Silêncio no Maison du Parc",
-"datePublished": "2021-09-23T00:00:00-03:00",
-"dateModified": "2026-01-19T10:48:20-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>Você sabe exatamente o peso de um plantão de 36 horas. O zumbido dos monitores, a luz fria do centro cirúrgico e a responsabilidade constante sobre vidas alheias criam uma carga mental que poucos compreendem. Quando você entrega o jaleco, não busca apenas uma "casa bonita". Você precisa de um <strong>botão de desligar</strong>.</p>
 
 <p>Imagine um investidor em saúde que, ao cruzar a portaria do <strong>Jardim Maison du Parc</strong>, sente o mundo externo desaparecer. Aqui, o silêncio não é um luxo; é uma ferramenta de recuperação para sua próxima cirurgia.</p>

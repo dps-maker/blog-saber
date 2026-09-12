@@ -52,31 +52,3 @@ description: "Análise técnica do Helvetia Park 2 em Indaiatuba. Logística, se
 <p>O verdadeiro diferencial técnico deste empreendimento é a sua <strong>autossuficiência parcial</strong> combinada com a <strong>liquidez</strong>. A existência de um <em>Mini Market</em> interno e a diversidade de equipamentos esportivos (incomum até para o alto padrão) criam uma microeconomia interna que valoriza o metro quadrado acima da média da região. É um ativo resiliente a oscilações de mercado.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Jardim Residencial Helvetia Park 2: Análise de Urbanismo",
-"description": "Análise técnica do Helvetia Park 2 em Indaiatuba. Logística, segurança e vetores de valorização imobiliária.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-08-05T00:00:00-03:00",
-"dateModified": "2026-01-18T18:00:44-03:00"
-}
-</script>

@@ -4,7 +4,7 @@ publishDate: 2021-07-03T09:40:00.004Z
 description: "Análise de logística e valorização: descubra como morar perto de escolas em Indaiatuba economiza 40h mensais e protege seu investimento."
 ---
 
-<div class="separator"><div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinOFKK0eewDzBbzHOS4MTsXzGy52DiiWi5bH91dFElC26s-44QCcRBnMCA-FidbPKZClIl0jGkO2sobnfBOM9NMTzlEudeI5en_CTnXhJAadWD8k9aLTGLIlKsaykUxD47ZJwht0jmIaFmXxVAK1UQgJ0InT2p19zDCEBnynUmkmyVrYM6gVlBywEeG0s/s1200/Pq%20foto.png" imageanchor="1"><img border="0" data-original-height="896" data-original-width="1200" height="478" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinOFKK0eewDzBbzHOS4MTsXzGy52DiiWi5bH91dFElC26s-44QCcRBnMCA-FidbPKZClIl0jGkO2sobnfBOM9NMTzlEudeI5en_CTnXhJAadWD8k9aLTGLIlKsaykUxD47ZJwht0jmIaFmXxVAK1UQgJ0InT2p19zDCEBnynUmkmyVrYM6gVlBywEeG0s/w640-h478/Pq%20foto.png" width="640" /></a></div></div><divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
+</div><divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
 
 <p>Para quem realiza a migração da capital paulista para o interior, a primeira referência visual de Indaiatuba é, invariavelmente, o <strong>Parque Ecológico</strong>. Projetado por Ruy Ohtake, ele não é apenas um cartão postal, mas a "espinha dorsal" urbanística que organiza a cidade. É natural que o instinto imediato de compra seja buscar uma casa em condomínio "colada" a essa área verde.</p>
 
@@ -33,31 +33,3 @@ description: "Análise de logística e valorização: descubra como morar perto 
 </div>
 
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Condomínios no Parque Ecológico: O Trade-off entre Localização e Privacidade",
-"description": "Análise técnica sobre morar no eixo do Parque Ecológico em Indaiatuba. Entenda valorização, mobilidade e o comparativo com bairros periféricos.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-03T12:00:00-03:00",
-"dateModified": "2026-01-14T21:40:00-03:00"
-}
-</script>

@@ -4,37 +4,6 @@ publishDate: 2026-01-17T15:21:00.004Z
 description: "Não compre apenas o destino. Descubra como a estética e a logística dos últimos 2km até sua casa definem o teto de valorização do seu imóvel."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpbybkBQpFgfSSdXGGI_kJTiHgkld8vzqs5Xnsqo7jqbrQKZZ4TJ-J9l6sGwAlxo3qtyqgH-ycyMMFCpDHfeQjaWNL7juA5bfZktX7c_g0r5bT8P0Du4lWw83ByTlHfWKY6S8-G4avFwuVssaBHjKFpTUHAfMqiq5mMjWgFudb5bdxz977CS5-HcJW1TQ/s2528/Gemini_Generated_Image_igx595igx595igx5.png"><img alt="" border="0" width="600" data-original-height="1696" data-original-width="2528" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpbybkBQpFgfSSdXGGI_kJTiHgkld8vzqs5Xnsqo7jqbrQKZZ4TJ-J9l6sGwAlxo3qtyqgH-ycyMMFCpDHfeQjaWNL7juA5bfZktX7c_g0r5bT8P0Du4lWw83ByTlHfWKY6S8-G4avFwuVssaBHjKFpTUHAfMqiq5mMjWgFudb5bdxz977CS5-HcJW1TQ/s600/Gemini_Generated_Image_igx595igx595igx5.png"/></a></div>
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Urbanismo de Transição: Como o Trajeto de Chegada Define o Valor em Indaiatuba",
-"description": "Não compre o destino, analise o caminho. Entenda como a estética do trajeto até o condomínio cria um teto invisível de valorização em Indaiatuba.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2026-01-17T12:00:17-03:00",
-"dateModified": "2026-01-17T12:00:17-03:00"
-}
-</script>
-
 <h2>Por Que a "Jornada de Casa" Importa Para Sua Carteira</h2>
 
 <p>
@@ -121,4 +90,3 @@ Receba análises de mercado que explicam o que ninguém vê, direto no seu e-mai
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-

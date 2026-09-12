@@ -100,48 +100,6 @@ description: "Pare de pagar a 'assinatura' do aluguel. Descubra como apartamento
 
 <p>Não deixe seu dinheiro drenar em aluguéis que financiam o sonho de outra pessoa. Assuma o controle do seu "hardware" habitacional.</p>
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Indaiatuba: O Código-Fonte da Sua Independência (Sem Bugs)",
-
-"datePublished": "2021-10-04T00:00:00-03:00",
-
-"dateModified": "2026-01-20T21:49:22-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
-
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

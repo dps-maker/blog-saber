@@ -82,31 +82,3 @@ Se você busca moradia imediata, evite condomínios com menos de 30% de ocupaç�
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "A 'Curva de Consolidação': O Momento Matemático Exato Onde o Imóvel em Indaiatuba Salta de Preço",
-"description": "Entenda a Curva J de valorização em Indaiatuba. Por que condomínios 'canteiro de obras' estagnam e como identificar o momento exato da explosão de preço.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-08T00:00:00-03:00",
-"dateModified": "2026-01-16T21:30:26-03:00"
-}
-</script>

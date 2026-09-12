@@ -4,31 +4,6 @@ publishDate: 2021-10-07T03:12:00.007Z
 description: "Cansado de vizinhos barulhentos? Descubra a matemática do silêncio e por que a elite usa apartamentos em Indaiatuba como bunkers de produtividade."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8edf8unjUXhIS0_ihbJ5CQzzLks7urkNg0Tm2C3Cc9p-f9tMIL9fPTh55Pn4Iz1mdoBr8WD2Frpr1h9F88NDFPVVKYH8GUzPLGoaqhnWUKuWWHkQbCTTzRGTPGAwEi1vRq56KudjqkM0Oe5jr-dbwRy_l6k1hCc-9hmqGLHPECd7cQqY4rpxizGacCR0/s1536/ChatGPT%20Image%2022%20de%20jan.%20de%202026,%2000_13_55.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8edf8unjUXhIS0_ihbJ5CQzzLks7urkNg0Tm2C3Cc9p-f9tMIL9fPTh55Pn4Iz1mdoBr8WD2Frpr1h9F88NDFPVVKYH8GUzPLGoaqhnWUKuWWHkQbCTTzRGTPGAwEi1vRq56KudjqkM0Oe5jr-dbwRy_l6k1hCc-9hmqGLHPECd7cQqY4rpxizGacCR0/s600/ChatGPT%20Image%2022%20de%20jan.%20de%202026,%2000_13_55.png"/></a></div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Apartamento 2 Dormitórios em Indaiatuba: O \"Bunker\" de Privacidade para o Home Office de Elite",
-"datePublished": "2021-10-07T12:00:00-03:00",
-"dateModified": "2026-01-22T12:00:00-03:00",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-"description": "Cansado da falta de privacidade? Descubra por que a elite está trocando grandes metrópoles por apartamentos compactos de alto padrão em Indaiatuba."
-}
-</script>
-
 <style>
 .post-body h2 { color: #003366; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }
 .post-body h3 { color: #cc0000; margin-top: 20px; }

@@ -9,18 +9,6 @@ description: "Entenda por que o Bairro Caldeira se tornou um vetor estratégico 
 p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Bairro Caldeira: O Novo Eixo de Inteligência Corporativa em Indaiatuba",
-"datePublished": "2021-08-11T00:00:00-03:00",
-"dateModified": "2026-01-18T19:30:00-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>Estabelecer uma base corporativa no Bairro Caldeira representa uma decisão estratégica focada em descentralização inteligente. A região oferece acesso imediato às rodovias arteriais sem o custo do trânsito central, configurando um ponto de equilíbrio ideal entre visibilidade comercial, facilidade de estacionamento para clientes e acesso rápido aos principais polos industriais da cidade.</p>
 
 <h2>Autonomia Logística: A Regra dos 15 Minutos Corporativos</h2>

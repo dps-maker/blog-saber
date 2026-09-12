@@ -4,8 +4,6 @@ publishDate: 2021-09-12T02:09:00.003Z
 description: "Descubra como montar um jardim resistente ao sol de Indaiatuba. Espécies que garantem privacidade e beleza sem virar um dreno de tempo e dinheiro."
 ---
 
-
-
 <p>A migração de São Paulo para Indaiatuba traz um choque térmico e logístico imediato: a transição da varanda sombreada para o quintal de sol pleno. Ao adquirir uma casa, especialmente em condomínios com recuos laterais e fundos expostos, o novo proprietário se depara com a intensidade da radiação solar do interior.</p>
 
 <p>O erro comum é tratar o paisagismo como decoração, quando, na verdade, ele é infraestrutura. Plantas erradas geram custos excessivos de água (SAAE), exigem manutenção semanal e, invariavelmente, morrem, depreciando a área de lazer. A jardinagem estratégica em Indaiatuba deve focar em duas variáveis: resistência térmica e autonomia hídrica.</p>
@@ -75,31 +73,3 @@ description: "Descubra como montar um jardim resistente ao sol de Indaiatuba. Es
 </div>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Quintal em Sol Pleno em Indaiatuba: O Que Plantar Para Não Criar um Passivo de Manutenção",
-"description": "Guia técnico de paisagismo para o clima de Indaiatuba. Saiba quais espécies resistem ao sol pleno, garantem privacidade e valorizam o imóvel.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-09-11T00:00:00-03:00",
-"dateModified": "2026-01-17T23:09:38-03:00"
-}
-</script>

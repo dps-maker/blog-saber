@@ -4,7 +4,6 @@ publishDate: 2021-08-22T22:08:00.009Z
 description: "Entenda como a migração e o crescimento urbano estão transformando Indaiatuba. Uma análise sobre mobilidade, valorização e o futuro da cidade."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeDcpRPTuEglV38paC5bgxuKFAt8zcIyKHUJR1LFBP50pq1r1Vbea3hzmKAw3drBcMnGykiZMkWnHaGN1cuFj3HIi8CpE7gpy0jaBvtD-d6bGTpoMS0FROuyOKsq0hcBVPx-IxdnLaqy52AMYAXpY0A1ch4WBM8o9wSBHwFeJExWOCdjUz116y-Sxq7p0/s2752/PARQUE%20ECOL%C3%93GICO.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2752" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeDcpRPTuEglV38paC5bgxuKFAt8zcIyKHUJR1LFBP50pq1r1Vbea3hzmKAw3drBcMnGykiZMkWnHaGN1cuFj3HIi8CpE7gpy0jaBvtD-d6bGTpoMS0FROuyOKsq0hcBVPx-IxdnLaqy52AMYAXpY0A1ch4WBM8o9wSBHwFeJExWOCdjUz116y-Sxq7p0/s600/PARQUE%20ECOL%C3%93GICO.png"/></a></div>
 <h2>Por Que o "Boom" de Indaiatuba Importa Agora</h2>
 
 <p>
@@ -91,32 +90,3 @@ Você não está apenas escolhendo um teto; está escolhendo como vai interagir 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Indaiatuba e o Novo Fluxo Migratório: Entenda a Transformação Urbana",
-"description": "Entenda como a migração e o crescimento urbano estão transformando Indaiatuba. Uma análise sobre mobilidade, valorização e futuro da cidade.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-08-22T00:00:00-03:00",
-"dateModified": "2026-01-15T19:09:29-03:00"
-}
-</script>
-

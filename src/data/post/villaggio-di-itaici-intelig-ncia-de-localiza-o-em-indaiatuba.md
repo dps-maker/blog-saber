@@ -41,31 +41,3 @@ description: "Análise técnica do condomínio Villaggio di Itaici. Logística, 
 <p>O diferencial técnico aqui é o microclima. A preservação da mata nativa na região de Itaici reduz a temperatura média em comparação ao centro urbano. Adquirir um imóvel aqui é investir em conforto térmico passivo e em um ativo imobiliário que se valoriza pela escassez de áreas verdes reais em zonas urbanas.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Villaggio di Itaici: Inteligência de Localização em Indaiatuba",
-"description": "Análise técnica do condomínio Villaggio di Itaici. Logística, segurança e perfil do ativo imobiliário em Indaiatuba.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-28T00:00:00-03:00",
-"dateModified": "2026-01-18T10:12:44-03:00"
-}
-</script>

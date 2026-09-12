@@ -53,32 +53,3 @@ description: "Comparativo técnico entre apartamento e casa com quintal para cã
 <p>O que seu cachorro prefere não é o CEP, é a rotina. Apartamento com passeios vence quintal sem estímulo. Quintal com estímulo vence apartamento sem passeio. A variável decisiva é você.</p>
 
 <div><script async="" data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Pets em apartamento vs casa: qual cenário faz mais sentido?",
-"description": "Comparativo real entre apartamento e casa com quintal para cães, considerando estímulo, energia, socialização e rotina.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-09-09T00:00:00-03:00",
-"dateModified": "2026-01-17T17:52:40-03:00"
-}
-</script>
-

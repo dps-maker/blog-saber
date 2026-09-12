@@ -60,15 +60,3 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 <p>A decisão de mudar não deve ser pautada em romantismos, mas na análise fria do custo-benefício. Indaiatuba se posiciona como um ativo imobiliário resiliente porque entrega uma infraestrutura de capital com o custo operacional de interior. Para quem busca proteger o patrimônio da erosão inflacionária dos grandes centros, esta é a manobra fiscal mais inteligente para a próxima década.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "A Matemática Financeira da Migração: SP vs Indaiatuba",
-"datePublished": "2021-08-17T00:00:00-03:00",
-"dateModified": "2026-01-18T19:49:04-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>

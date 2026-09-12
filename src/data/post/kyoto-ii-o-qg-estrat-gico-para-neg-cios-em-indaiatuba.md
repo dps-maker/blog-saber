@@ -10,18 +10,6 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 .featured-snippet {background-color: #f4f8fb; border-left: 5px solid #003366; padding: 15px; margin-bottom: 25px; font-style: italic;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Kyoto II: O QG Estratégico para Negócios em Indaiatuba",
-"datePublished": "2021-08-09T00:00:00-03:00",
-"dateModified": "2026-01-18T18:58:21-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <div class="featured-snippet">
 <p><strong>Por que escolher o Jardim Kyoto II para uma base corporativa?</strong> O bairro oferece uma relação custo-benefício superior pela proximidade imediata com o Distrito Industrial e a Rodovia Santos Dumont, eliminando o trânsito urbano. É a escolha técnica ideal para operações que exigem agilidade logística e isolamento acústico para alta produtividade.</p>
 </div>

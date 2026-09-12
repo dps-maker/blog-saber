@@ -4,7 +4,7 @@ publishDate: 2021-09-02T14:28:00.014Z
 description: "Indaiatuba: como o mapa de ruído e a topografia da cidade definem onde está o verdadeiro silêncio e a valorização imobiliária de longo prazo."
 ---
 
-<div class="separator"> <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoyI_rKDd-gfTV0Kh6KTjeP2WqclbWBhBKQlcu93ktitHXUYyhefjpaCoM4tSMIkriAdAkAyXzWMvVghg8xqk1rvwfmH-2UVwSIi5i8fbYfNFYR2iIFJqaL66226-mvMjRPXvkvN6SkrOWzrM0SiRuyFP_HZQ8hA3X5lKm-maZ_HtYQ4_YK165Q0aqClg/s1536/1000321673.png"><br /></a><div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbPAzS7vnx0iFPRw0Xloj7_DnP0mXH2v6g-x6eg2i6sA__M49fREbLxKJ996KVmQhfAHQE4Q6ZbNCgK11NBDnZvokfNItM62aGl7mkXPdLfUmn_RP3u6wbzjjd1Y7ks36ZChoFTo6P3qMFkuIJCmaT9l_PYmaP4Dq7pJ7HX7w3tGwNjIIvp3UapWXG5rE/s1536/1000321741.png" imageanchor="1"><img border="0" data-original-height="1024" data-original-width="1536" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbPAzS7vnx0iFPRw0Xloj7_DnP0mXH2v6g-x6eg2i6sA__M49fREbLxKJ996KVmQhfAHQE4Q6ZbNCgK11NBDnZvokfNItM62aGl7mkXPdLfUmn_RP3u6wbzjjd1Y7ks36ZChoFTo6P3qMFkuIJCmaT9l_PYmaP4Dq7pJ7HX7w3tGwNjIIvp3UapWXG5rE/w640-h426/1000321741.png" width="640" /></a></div></div>
+</div>
 <h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Por Que Este Tema Importa Para Indaiatuba</h2>
 
 <pSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6;">
@@ -148,57 +148,3 @@ A inteligência de localização vai além do visual. Feche os olhos na sua pró
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "A Acústica Urbana de Indaiatuba: O Mapa Invisível da Valorização e do Silêncio",
-
-"description": "Entenda como a topografia e a rodovia influenciam o conforto acústico em Indaiatuba. Um guia técnico sobre silêncio e valorização imobiliária.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-
-}
-
-},
-
-"datePublished": "2021-09-02T00:00:00-03:00",
-
-"dateModified": "2026-01-16T11:32:30-03:00"
-
-}
-
-</script>

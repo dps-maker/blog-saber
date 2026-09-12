@@ -4,8 +4,6 @@ publishDate: 2021-06-24T18:52:00.012Z
 description: "Descubra por que terrenos no Bairro Cidade Nova, em Indaiatuba, são ativos de alta segurança. Análise de escassez, infraestrutura e land banking."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivH_MQL9r_620WbCAVCZSO8ro06NDaxXlZgCYI1e2ZzdSGFCW_6j6u0mKofldzUcz4ucCpcySnm2xN9JurD5YPsS9PJ7e_jpqUXaxHJZBVI4SfVrdzEzM3eFqdb-vlt4rZJW325Or2HTNzbZTQdzk_r2_shgsxgvTl-ZM87bpcMOYKrBEznJ6gbVRaDGc/s1536/1000321843.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivH_MQL9r_620WbCAVCZSO8ro06NDaxXlZgCYI1e2ZzdSGFCW_6j6u0mKofldzUcz4ucCpcySnm2xN9JurD5YPsS9PJ7e_jpqUXaxHJZBVI4SfVrdzEzM3eFqdb-vlt4rZJW325Or2HTNzbZTQdzk_r2_shgsxgvTl-ZM87bpcMOYKrBEznJ6gbVRaDGc/s600/1000321843.png"/></a></div>
-
 <p>
 
 No mercado imobiliário de Indaiatuba, existe um ruído constante sobre os novos loteamentos fechados. O marketing agressivo muitas vezes ofusca a rentabilidade sólida dos bairros abertos consolidados. O <strong>Bairro Cidade Nova</strong> é o exemplo clássico de onde a inteligência de localização supera o hype. Aqui, não falamos de promessas de infraestrutura futura; falamos de uma malha urbana que já funciona, já entrega e, principalmente, onde a terra é um recurso cada vez mais escasso.
@@ -159,58 +157,3 @@ Isso significa que, ao comprar um terreno hoje, você não está apostando apena
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "Bairro Cidade Nova: Por Que Terrenos Aqui Valem Ouro (Análise Técnica)",
-
-"description": "Análise técnica de investimento em terrenos no Bairro Cidade Nova, Indaiatuba. Entenda a valorização pela escassez e consolidação urbana.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"datePublished": "2021-06-24T00:00:00-03:00",
-
-"dateModified": "2026-01-16T15:48:32-03:00"
-
-}
-
-</script>

@@ -66,15 +66,3 @@ description: "Cansado de condomínios padronizados e sem privacidade? Descubra o
 <p>Para quem busca fugir do lugar-comum e da arquitetura "copiar e colar", este bairro oferece a "tela em branco" perfeita: terrenos que permitem projetos autorais, sem a sensação de estar sendo vigiado. É o resgate do orgulho de morar em uma casa que tem a sua assinatura, em um endereço que dispensa apresentações.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Jardim Residencial Village Prado: O Refúgio de Quem Busca Exclusividade em Indaiatuba",
-"datePublished": "2021-09-25T00:00:00-03:00",
-"dateModified": "2026-01-19T18:30:38-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>

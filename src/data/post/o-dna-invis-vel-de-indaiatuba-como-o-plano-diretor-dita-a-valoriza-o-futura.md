@@ -4,18 +4,6 @@ publishDate: 2021-08-16T22:44:00.003Z
 description: "Você sabe para onde Indaiatuba vai crescer? Entenda como o Plano Diretor e o zoneamento funcionam como um algoritmo que define a valorização e protege"
 ---
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "O DNA Invisível de Indaiatuba: Como o Plano Diretor dita a Valorização Futura",
-"datePublished": "2021-08-16T00:00:00-03:00",
-"dateModified": "2026-01-18T19:46:54-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <style>
 .post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;}
 p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}

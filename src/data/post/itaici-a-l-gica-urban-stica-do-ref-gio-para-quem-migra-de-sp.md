@@ -4,7 +4,6 @@ publishDate: 2021-07-04T09:50:00.009Z
 description: "Descubra a verdade urbanística sobre Itaici em Indaiatuba. Análise de logística, valorização e perfil de condomínios para quem migra de São Paulo."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8uNCUZT6BPNp4WyIr-jNYsPjtB_frkyB1ZXu7H5VlnjAHgn2JWUBSMURmuo8YEHKGtdbmmOGCLsgbjDHtp8Rjwr9CA9q3OZVjlItnByxie5lDs4NeTGfvo5jSDS1QtYyDDDnT8cvFJnss8aMebsuS0mPAE7eJF1GZsjR6Ig3Vy-C0Dljc_ckec7KoIE/s2400/ITAICI.png"><img alt="" border="0" data-original-height="1792" data-original-width="2400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8uNCUZT6BPNp4WyIr-jNYsPjtB_frkyB1ZXu7H5VlnjAHgn2JWUBSMURmuo8YEHKGtdbmmOGCLsgbjDHtp8Rjwr9CA9q3OZVjlItnByxie5lDs4NeTGfvo5jSDS1QtYyDDDnT8cvFJnss8aMebsuS0mPAE7eJF1GZsjR6Ig3Vy-C0Dljc_ckec7KoIE/s600/ITAICI.png" width="600" /></a></div>
 <divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6;">
 
 <p>Para quem observa o mapa de Indaiatuba pela primeira vez, a região de Itaici pode parecer um apêndice geográfico. Para quem vive a rotina da migração São Paulo-Interior, no entanto, ela representa uma decisão estratégica de moradia. Não se trata apenas de buscar "verde", mas de entender a matemática entre privacidade, metragem de terreno e logística de acesso.</p>
@@ -40,30 +39,4 @@ description: "Descubra a verdade urbanística sobre Itaici em Indaiatuba. Análi
 
 </div>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Itaici: A Lógica Urbanística do Refúgio para Quem Migra de SP",
-"description": "Análise técnica sobre morar em Itaici, Indaiatuba. Entenda a logística, valorização e o perfil dos condomínios para quem vem de São Paulo.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-04T09:00:00-03:00",
-"dateModified": "2026-01-14T22:00:00-03:00"
-}
-</script><div><br /></div><div><br /></div><div class="separator"><iframe class="b-iframe-ws lTgB3 BLOG_object_iframe" frameborder="0" height="70" jsaction="load:lzUY8e" src="/share-widget?w=poi&amp;u=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DItaici%2520site%253Ahttps%253A%252F%252Fsaber.imb.br%252F&amp;ved=1t%3A269313&amp;bbid=3232982142950281697&amp;bpid=8085943864481561051" width="606"></iframe></div><br />
+<div><br /></div><div><br /></div><br />

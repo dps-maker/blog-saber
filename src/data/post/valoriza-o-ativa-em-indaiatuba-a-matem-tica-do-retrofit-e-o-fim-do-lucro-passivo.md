@@ -4,7 +4,6 @@ publishDate: 2021-06-16T04:41:00.006Z
 description: "O tempo da valorização passiva acabou. Descubra como o Retrofit de Alto Desempenho e a eficiência energética ditam o lucro imobiliário em Indaiatuba."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2V-6AVMJYF3vbvmoHcySgV20axd7mFOFr0Hc7HsjmxW_PiJ9jOp5HGLo-chcQ6ZNjTFfQvQbMuMQgnW0ZelKfB0hjSuzy7UNlaI4G-7xfce4ufXtfz7ft6429wjZMoxMEE0YfJCmNMDGqXqHJYWqZbU1na2uM-6MUwHM1iJVG7x9PPjIlDCP27eDRdHI/s3168/1000317663.png"><img border="0" data-original-height="1344" data-original-width="3168" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2V-6AVMJYF3vbvmoHcySgV20axd7mFOFr0Hc7HsjmxW_PiJ9jOp5HGLo-chcQ6ZNjTFfQvQbMuMQgnW0ZelKfB0hjSuzy7UNlaI4G-7xfce4ufXtfz7ft6429wjZMoxMEE0YfJCmNMDGqXqHJYWqZbU1na2uM-6MUwHM1iJVG7x9PPjIlDCP27eDRdHI/w640-h272/1000317663.png" width="640" /></a> </div>
 <div>
 
 <p>O mercado imobiliário de Indaiatuba consolidou uma premissa clara para o perfil investidor: a era da valorização passiva — aquela em que bastava comprar o terreno e esperar o tempo passar — acabou. O que dita o rendimento real do ativo hoje é a <strong>Valorização Ativa</strong>.</p>
@@ -52,31 +51,3 @@ description: "O tempo da valorização passiva acabou. Descubra como o Retrofit 
 </div>
 
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Valorização Ativa em Indaiatuba: A Matemática do Retrofit",
-"description": "Entenda como o retrofit e a valorização ativa definem o ROI imobiliário em Indaiatuba. Análise de tendências no Jardim Pau Preto e Helvetia Park.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-06-16T09:00:00-03:00",
-"dateModified": "2026-01-13T15:10:00-03:00"
-}
-</script>

@@ -6,18 +6,6 @@ description: "Descubra a privacidade real no Jardim Residencial Belle Vista. Ter
 
 <style>.post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Mansão no Jardim Residencial Belle Vista: O Refúgio da Arquitetura Autoral em Indaiatuba",
-"datePublished": "2021-09-27T00:00:00-03:00",
-"dateModified": "2026-01-19T18:54:49-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>Imagine um investidor que valoriza o silêncio tanto quanto o retorno financeiro. Para quem trabalha em ritmo acelerado e lida com decisões complexas o dia todo, chegar em casa não pode ser apenas uma mudança de endereço; precisa ser uma mudança de frequência mental.</p>
 
 <p>Você, que busca exclusividade, sabe que a verdadeira privacidade hoje é um artigo de luxo. No <strong>Jardim Residencial Belle Vista</strong>, essa privacidade não é apenas uma promessa, é a estrutura do negócio. Estamos falando de terrenos que permitem projetos autorais, longe daquela sensação de "tudo igual" que domina tantos  condomínios novos.</p>

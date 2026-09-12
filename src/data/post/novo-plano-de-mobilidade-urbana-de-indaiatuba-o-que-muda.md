@@ -4,9 +4,6 @@ publishDate: 2021-08-23T22:34:00.008Z
 description: "Entenda o novo plano de mobilidade de Indaiatuba e veja como ele pode facilitar seus deslocamentos e decisões de moradia na cidade."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhQyVBzOf60ygQIX2Ar6hZWrSocgXp-CmUwkOrHzK0setlD2SXHQRMdgteoKKtlMs8sYP0W1o3pblnspX_v3ggepuLbbBOeogSj-7-vRba6EpuPHcy9_dlsYxj9q5mU4oIUa0BOTAJ2dVDNvoa1oSljpICft6B6abyaIsx0PWbE_R_P8DjBCX3ozJOo8/s1536/ChatGPT%20Image%2015%20de%20jan.%20de%202026,%2019_41_00.png"><img alt="" border="0" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhQyVBzOf60ygQIX2Ar6hZWrSocgXp-CmUwkOrHzK0setlD2SXHQRMdgteoKKtlMs8sYP0W1o3pblnspX_v3ggepuLbbBOeogSj-7-vRba6EpuPHcy9_dlsYxj9q5mU4oIUa0BOTAJ2dVDNvoa1oSljpICft6B6abyaIsx0PWbE_R_P8DjBCX3ozJOo8/s600/ChatGPT%20Image%2015%20de%20jan.%20de%202026,%2019_41_00.png" width="600" /></a></div>
-
-
 <h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">
 Por que este tema importa para Indaiatuba
 </h2>
@@ -164,32 +161,3 @@ Quando você cruza tudo isso com a escolha do imóvel, passa a olhar além das p
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Novo plano de mobilidade urbana de Indaiatuba: o que muda",
-"description": "Entenda o novo plano de mobilidade de Indaiatuba e veja como ele pode facilitar seus deslocamentos e decisões de moradia na cidade.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-08-23T00:00:00-03:00",
-"dateModified": "2026-01-15T19:00:00-03:00"
-}
-</script>
-

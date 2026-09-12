@@ -4,10 +4,6 @@ publishDate: 2021-09-03T14:42:00.009Z
 description: "Descubra o Jardim São Benedito em Indaiatuba: casas com terrenos amplos, vizinhança tradicional e logística perfeita perto do centro da cidade."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34CiZnIosbN-_aYpU5DEo58vXnRwSCaNJkjdWnSyjriAQFNkFFXLMlJseZ8_HeFxN6rk_A7KIRsDTN8-5wXoOblLMNWEHji7P6UtdklRVFViakmmdh9NQ798zpzZYj32IbofMGTiqJ3pN1zioYUK5nWc9Djze-_AT8Nw8c8bOF4FEM6VFKhazrRTp9vw/s453/1000321687.jpg"><img alt="" border="0" width="600" data-original-height="316" data-original-width="453" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34CiZnIosbN-_aYpU5DEo58vXnRwSCaNJkjdWnSyjriAQFNkFFXLMlJseZ8_HeFxN6rk_A7KIRsDTN8-5wXoOblLMNWEHji7P6UtdklRVFViakmmdh9NQ798zpzZYj32IbofMGTiqJ3pN1zioYUK5nWc9Djze-_AT8Nw8c8bOF4FEM6VFKhazrRTp9vw/s600/1000321687.jpg"/></a></div>
-
-
-
 <p>
 
 Analisar o Jardim São Benedito exige, antes de tudo, entender o conceito de "centro expandido" em Indaiatuba. Não estamos falando do caos comercial da área central, mas daquela franja residencial imediatamente vizinha, que preserva o silêncio sem abrir mão da conveniência.
@@ -135,57 +131,3 @@ O perfil ideal para este bairro é a família que prioriza espaço interno e loc
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "Jardim São Benedito: A Lógica do Centro Expandido em Indaiatuba",
-
-"description": "Entenda por que o Jardim São Benedito combina espaço, tradição e logística estratégica no coração de Indaiatuba.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-
-}
-
-},
-
-"datePublished": "2021-09-03T00:00:00-03:00",
-
-"dateModified": "2026-01-16T11:42:14-03:00"
-
-}
-
-</script>

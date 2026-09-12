@@ -4,56 +4,6 @@ publishDate: 2026-01-25T22:27:00.002Z
 description: "Perguntas e respostas decisivas sobre a última mansão pronta para morar em Indaiatuba. Descubra por que a elite de SP está migrando hoje para este ref"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWWN1Lt0O5J3t2HUKErpMfBeSA_ZNyvrK2-jrZBuapxeXQAYSCjb5akeYEQo8M-edEfpaafvlI1u7YCbrpSzKbXGGQfwyBCOv8MSHeC7bXy8VdCbqEcctRxSUXEOI1ZxF1jeZQgtU9d48pLjzL-ofxBQs2_ArrZEtJ9vGOj2Ehw7FZvyrKJBndwDVcZhI/s2448/1000328848.png"><img alt="" border="0" width="600" data-original-height="1376" data-original-width="2448" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWWN1Lt0O5J3t2HUKErpMfBeSA_ZNyvrK2-jrZBuapxeXQAYSCjb5akeYEQo8M-edEfpaafvlI1u7YCbrpSzKbXGGQfwyBCOv8MSHeC7bXy8VdCbqEcctRxSUXEOI1ZxF1jeZQgtU9d48pLjzL-ofxBQs2_ArrZEtJ9vGOj2Ehw7FZvyrKJBndwDVcZhI/s600/1000328848.png"/></a></div>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Mansão em Condomínio: O Ultimato para Quem Busca Paz Imediata em Indaiatuba",
-
-"datePublished": "2026-01-25T19:23:00-03:00",
-
-"dateModified": "2026-01-25T19:23:00-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-
-"description": "Perguntas e respostas sobre a última oportunidade de alto padrão pronta para morar. Entenda por que a elite de SP está escolhendo Indaiatuba agora."
-
-}
-
-</script>
-
 <h2>A Grande Migração: Por que sua família precisa estar aqui amanhã?</h2>
 
 <p>Não estamos falando de planos para 2027. Estamos falando de hoje. A "Família Exodus" — termo que uso internamente para definir o movimento da elite paulistana em direção ao interior — não busca apenas imóveis. Busca refúgio. Segurança. Ar puro.</p>

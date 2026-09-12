@@ -4,8 +4,6 @@ publishDate: 2021-09-04T17:16:00.011Z
 description: "Descubra a lógica oculta que impede Indaiatuba de virar uma selva de pedra e como o controle de verticalização protege o valor e o sol do seu imóvel."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmROTcj4RFZd0pq3fU4wqnY3YHpSsVYCEJQ9QcN5pweOp5Gm0lC0YIATqrH3IGWrujqJA2t9FWtWcPSfRjgKmtmklWzL6lPf3_8bZ62qcPnMjpkvaWNvJfY6cHBeaouI0jubJXARa8S2uMAncey89AvP36krzikj1hOeOWYubu-Gudd5uzKypKiys5_H8/s1536/1000322214.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmROTcj4RFZd0pq3fU4wqnY3YHpSsVYCEJQ9QcN5pweOp5Gm0lC0YIATqrH3IGWrujqJA2t9FWtWcPSfRjgKmtmklWzL6lPf3_8bZ62qcPnMjpkvaWNvJfY6cHBeaouI0jubJXARa8S2uMAncey89AvP36krzikj1hOeOWYubu-Gudd5uzKypKiys5_H8/s600/1000322214.png"/></a></div>
-
 <p>
 
 Quem chega de grandes metrópoles costuma ter uma sensação visual imediata ao entrar em Indaiatuba: o céu parece maior. Não é uma ilusão de ótica, nem apenas poesia. É o resultado prático de um urbanismo que luta — às vezes silenciosamente — contra a verticalização desenfreada que engoliu cidades vizinhas como Campinas ou partes de São Paulo.
@@ -185,57 +183,3 @@ Em Indaiatuba, a inteligência de localização significa prever o que ainda nã
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "Indaiatuba e a Verticalização Controlada: Por que a cidade não vira uma Selva de Pedra?",
-
-"description": "Entenda como o Plano Diretor e a lógica de verticalização de Indaiatuba protegem a insolação e o valor do seu imóvel contra prédios indesejados.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-
-}
-
-},
-
-"datePublished": "2021-09-04T00:00:00-03:00",
-
-"dateModified": "2026-01-16T14:15:00-03:00"
-
-}
-
-</script>

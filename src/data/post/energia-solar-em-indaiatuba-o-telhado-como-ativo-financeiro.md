@@ -4,18 +4,6 @@ publishDate: 2021-08-25T22:53:00.003Z
 description: "Descubra por que a energia solar em Indaiatuba é mais que ecologia: é uma estratégia de proteção patrimonial e redução de custos fixos que valoriza se"
 ---
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Energia Solar em Indaiatuba: O Telhado como Ativo Financeiro",
-"datePublished": "2021-08-25T00:00:00-03:00",
-"dateModified": "2026-01-18T19:52:32-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <style>
 .post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;}
 p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}

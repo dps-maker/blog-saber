@@ -52,31 +52,3 @@ description: "Descubra o perfil técnico do Bairro Santo Antônio: logística ur
 <p>Enquanto novas áreas sofrem com a volatilidade de mercado, o Santo Antônio consolidou-se como uma sólida <strong>reserva de valor</strong>. A escassez de terrenos nesta localização central gera uma liquidez constante. Adquirir um imóvel aqui não é apenas uma decisão de moradia, mas um movimento estratégico de patrimônio, protegendo o capital em um ativo real com histórico de valorização consistente.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Bairro Santo Antônio: Análise de Urbanismo e Reserva de Valor em Indaiatuba",
-"description": "Descubra o perfil técnico do Bairro Santo Antônio: logística urbana, baixo adensamento e potencial como reserva de valor imobiliário.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-08-03T00:00:00-03:00",
-"dateModified": "2026-01-18T13:25:58-03:00"
-}
-</script>

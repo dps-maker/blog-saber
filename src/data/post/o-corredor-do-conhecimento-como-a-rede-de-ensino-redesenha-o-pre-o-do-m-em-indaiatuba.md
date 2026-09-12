@@ -12,18 +12,6 @@ li {margin-bottom: 10px;}
 strong {color: #003366;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "O Corredor do Conhecimento: Como a Rede de Ensino Redesenha o Preço do m² em Indaiatuba",
-"datePublished": "2021-08-10T00:00:00-03:00",
-"dateModified": "2026-01-18T19:00:58-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>A influência das instituições de ensino na valorização imobiliária em Indaiatuba não se resume à proximidade física, mas à <strong>eficiência da logística pendular</strong>. Imóveis situados em um raio de 2km dos principais hubs educacionais (como a região do Parque Ecológico e Cidade Nova) apresentam maior liquidez, pois oferecem o ativo mais escasso para famílias modernas: a otimização do tempo no deslocamento diário, funcionando como uma reserva de valor resiliente mesmo em cenários de estagnação econômica.</p>
 
 <h2>A Geografia da Educação e o Valor do Tempo</h2>

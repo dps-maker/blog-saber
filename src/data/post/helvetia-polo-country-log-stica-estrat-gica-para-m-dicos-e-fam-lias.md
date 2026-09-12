@@ -4,7 +4,6 @@ publishDate: 2026-01-20T14:03:00.002Z
 description: "Descubra como a logística do Helvetia Polo Country otimiza o tempo de médicos entre o HAOC e a rotina escolar dos filhos. Silêncio e acesso rápido."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lpDMsgDcNVgBXLCjRr46CU4OpLqd9Hv0uMY13fDWm09L4JIKQ1c865bKWL5HH_cxEv5CPdppaC4H5LT4m3HUeQm0LWtUaBaCEA1fp83hFhS1hj7FvQAjShtDeUNqi29JEydmyyfgH5V3oJmZDdc2g3WJz3xEkYQmPLGu8olHiOOAoIH07oJhy-tsfGM/s2816/1000324304.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lpDMsgDcNVgBXLCjRr46CU4OpLqd9Hv0uMY13fDWm09L4JIKQ1c865bKWL5HH_cxEv5CPdppaC4H5LT4m3HUeQm0LWtUaBaCEA1fp83hFhS1hj7FvQAjShtDeUNqi29JEydmyyfgH5V3oJmZDdc2g3WJz3xEkYQmPLGu8olHiOOAoIH07oJhy-tsfGM/s600/1000324304.png"/></a></div>
 <style>
 
 .post-body h2 {
@@ -124,47 +123,5 @@ line-height: 1.6;
 <p>Para o perfil médico que busca conciliar uma carreira de alta demanda com a excelência na formação dos filhos, o Helvetia Polo Country oferece a infraestrutura necessária. A proximidade com o eixo rodoviário transforma o deslocamento para o HAOC ou Santa Ignês em um trajeto rápido e seguro.</p>
 
 <p>Isso significa menos tempo no trânsito e mais tempo de recuperação física e mental no silêncio da sua propriedade.</p>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Helvetia Polo Country: Logística estratégica para médicos e famílias",
-
-"datePublished": "2026-01-20T00:00:00-03:00",
-
-"dateModified": "2026-01-20T13:57:46-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>

@@ -10,18 +10,6 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 ul {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Jardim São Luiz: A Lógica da Logística Central com Atmosfera de Refúgio",
-"datePublished": "2021-09-12T00:00:00-03:00",
-"dateModified": "2026-01-18T19:57:19-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>O Jardim São Luiz define-se como um ativo imobiliário resiliente para famílias que priorizam a otimização de deslocamento sem abrir mão da baixa densidade demográfica. Situado no cinturão nobre de Indaiatuba, o bairro oferece acesso imediato a colégios de elite e ao Parque Ecológico, garantindo autonomia logística e proteção patrimonial sólida.</p>
 
 <h2>O "Silêncio" em Plena Zona Urbana</h2>

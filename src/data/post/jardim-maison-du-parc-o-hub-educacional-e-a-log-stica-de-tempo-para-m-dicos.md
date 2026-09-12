@@ -12,28 +12,6 @@ p {font-size: 19px; line-height: 1.6;}
 
 </style>
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Jardim Maison du Parc: O Hub Educacional e a Logística de Tempo para Médicos",
-
-"datePublished": "2021-09-28T00:00:00-03:00",
-
-"dateModified": "2026-01-19T20:29:43-03:00",
-
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-
-}
-
-</script>
-
 <h2>A Engenharia do Silêncio e a Proximidade Escolar</h2>
 
 <p>Para o profissional de saúde que enfrenta plantões de 24 ou 36 horas, o ativo mais valioso não é apenas o metro quadrado construído, mas o tempo de descanso não interrompido. Ao analisar a localização do <strong>Jardim Maison du Parc</strong>, observa-se uma configuração urbana que favorece diretamente quem necessita de isolamento acústico sem abrir mão da logística familiar.</p>

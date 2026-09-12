@@ -4,52 +4,6 @@ publishDate: 2021-10-11T16:01:00.003Z
 description: "Cansado da insegurança de SP? Descubra a nova arquitetura do Jardim Europa em Indaiatuba: casas térreas modernas, sem condomínio e com logística boa"
 ---
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Jardim Europa: A Nova Safra de Casas Térreas que Desafia a Lógica dos Condomínios Fechados",
-
-"datePublished": "2021-10-11T09:00:00-03:00",
-
-"dateModified": "2026-01-22T13:00:00-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-
-"description": "Descubra por que a nova arquitetura do Jardim Europa está atraindo famílias de SP que buscam liberdade real e casas térreas de alto padrão sem as amarras de condomínios."
-
-}
-
-</script>
-
 <style>
 
 .post-body h2 { color: #003366; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }

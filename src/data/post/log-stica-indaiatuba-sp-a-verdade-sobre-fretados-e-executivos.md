@@ -4,8 +4,6 @@ publishDate: 2021-07-26T13:05:00.003Z
 description: "Análise técnica do trajeto Indaiatuba-SP via fretados e ônibus executivos. Custos, produtividade e impacto na escolha do imóvel."
 ---
 
-
-
 <p>A migração para o interior impõe uma nova matemática: o custo do deslocamento versus a qualidade de vida. Para quem mantém o vínculo profissional em São Paulo, dirigir diariamente pela Rodovia dos Bandeirantes deixa de ser uma questão de liberdade e torna-se um passivo de exaustão e depreciação veicular. O mercado de fretados e linhas executivas em Indaiatuba não é apenas um "transporte", é uma extensão do escritório.</p>
 
 <h2>1. O Cenário: O Carro como Passivo Logístico</h2>
@@ -74,31 +72,3 @@ Esta é a escolha do "commuter" profissional. São ônibus de turismo contratado
 </div>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Logística Indaiatuba-SP: A Verdade Sobre Fretados e Executivos",
-"description": "Análise técnica do trajeto Indaiatuba-SP via fretados e ônibus executivos. Custos, produtividade e impacto na escolha do imóvel.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-26T00:00:00-03:00",
-"dateModified": "2026-01-18T10:06:00-03:00"
-}
-</script>

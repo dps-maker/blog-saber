@@ -10,18 +10,6 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 li {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; margin-bottom: 10px;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "O DNA Urbano de Indaiatuba: Como o Plano Diretor Dita o Futuro do Seu Patrimônio",
-"datePublished": "2021-08-13T00:00:00-03:00",
-"dateModified": "2026-01-18T19:45:00-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>O Plano Diretor Estratégico de Indaiatuba atua como o mecanismo regulador primário da valorização imobiliária, definindo não apenas o uso do solo, mas a velocidade da consolidação urbana. Ao delimitar as zonas de expansão e os eixos de adensamento prioritário, a legislação municipal antecipa para onde a infraestrutura pública será direcionada, transformando terrenos periféricos em ativos de alta liquidez e estabelecendo a lógica de preço para a próxima década.</p>
 
 <h2>A Engenharia Invisível da Valorização</h2>

@@ -4,8 +4,6 @@ publishDate: 2021-09-11T02:03:00.010Z
 description: "Entenda como a gestão da luz natural em casas de pé-direito duplo define o conforto térmico e a conservação do imóvel em Indaiatuba."
 ---
 
-
-
 <p>Quem migra de apartamentos compactos em São Paulo para as casas de 200m², 300m² ou 500m² em Indaiatuba enfrenta um choque espacial imediato. O pé-direito duplo e as grandes peles de vidro, comuns nos condomínios locais como o Jardim Pau Preto ou as novas fases de Itaici, não são apenas elementos estéticos: são desafios técnicos de ocupação.</p>
 
 <p>A "luz natural" é frequentemente vendida como um benefício absoluto, mas na latitude de Indaiatuba, ela carrega um componente térmico agressivo. Decorar espaços amplos não é sobre preencher vazios, é sobre gerenciar a incidência solar para que a sala não se torne uma estufa inabitável às 14h ou uma caverna fria no inverno.</p>
@@ -62,31 +60,3 @@ description: "Entenda como a gestão da luz natural em casas de pé-direito dupl
 </div>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "A Física da Luz em Grandes Vãos: Quando a Estética Encontra a Eficiência Térmica",
-"description": "Como gerenciar a luz natural em casas amplas de Indaiatuba sem criar um efeito estufa. Análise técnica de orientação solar e proteção de ativos.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-09-10T00:00:00-03:00",
-"dateModified": "2026-01-17T23:04:46-03:00"
-}
-</script>

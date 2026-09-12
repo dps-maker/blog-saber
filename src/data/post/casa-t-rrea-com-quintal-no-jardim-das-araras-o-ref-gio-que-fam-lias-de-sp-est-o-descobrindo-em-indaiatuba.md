@@ -4,37 +4,6 @@ publishDate: 2026-05-29T23:45:44.917Z
 description: "Casa térrea com quintal no Jardim das Araras: guia completo para famílias de SP que buscam qualidade de vida em Indaiatuba."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHy6WDvsKiD3_k6t8mUWox1MY2XpCqwQ2imN15F0xVuvum1wi8hudRQoDhxbkD5Cq7MsSVqOmUNIGDYB2vIY2Eim47oTcEILYGhm7ExWwn05mWkJh7hNiCI6Vk-ICPvshO52C04y9vDscTu9hNJHs_73QL6Nr-u3vVESQCxzyDsIfQGnFfrfQFCAgCnYU/s2730/Gemini_Generated_Image_mf144amf144amf14.png"><img alt="" border="0" height="600" data-original-height="2730" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHy6WDvsKiD3_k6t8mUWox1MY2XpCqwQ2imN15F0xVuvum1wi8hudRQoDhxbkD5Cq7MsSVqOmUNIGDYB2vIY2Eim47oTcEILYGhm7ExWwn05mWkJh7hNiCI6Vk-ICPvshO52C04y9vDscTu9hNJHs_73QL6Nr-u3vVESQCxzyDsIfQGnFfrfQFCAgCnYU/s600/Gemini_Generated_Image_mf144amf144amf14.png"/></a></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Casa Térrea com Quintal no Jardim das Araras: O Refúgio que Famílias de SP Estão Descobrindo em Indaiatuba",
-"description": "Famílias de São Paulo estão encontrando no Jardim das Araras, o mais promissor novo loteamento de Indaiatuba, o equilíbrio perfeito entre qualidade de vida, espaço e localização estratégica. Veja por quê.",
-"datePublished": "2026-05-29T20:35:10-03:00",
-"dateModified": "2026-05-29T20:35:10-03:00",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://saber.imb.br"
-},
-"keywords": "indaiatuba, imóveis indaiatuba, jardim das araras, novo loteamento, casa térrea com quintal, morar em indaiatuba, mercado imobiliário"
-}
-</script>
-
 <div>
 
 <p>

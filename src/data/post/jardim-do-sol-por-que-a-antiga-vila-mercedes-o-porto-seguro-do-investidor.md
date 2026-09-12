@@ -4,52 +4,6 @@ publishDate: 2021-10-09T14:13:00.004Z
 description: "Esqueça as apostas arriscadas. Entenda a matemática sólida de investir na reforma de imóveis no Jardim do Sol, uma região consolidada de Indaiatuba"
 ---
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Jardim do Sol: Por que a Antiga Vila Mercedes é o 'Porto Seguro' do Investidor",
-
-"datePublished": "2021-10-09T09:00:00-03:00",
-
-"dateModified": "2026-01-22T11:15:00-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-
-"description": "Esqueça as apostas arriscadas. Entenda a matemática sólida de investir na reforma de imóveis no Jardim do Sol, a região mais consolidada de Indaiatuba."
-
-}
-
-</script>
-
 <style>
 
 .post-body h2 { color: #003366; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }

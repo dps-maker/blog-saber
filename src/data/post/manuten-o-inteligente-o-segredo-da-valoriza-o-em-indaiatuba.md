@@ -4,9 +4,7 @@ publishDate: 2021-06-15T04:20:00.004Z
 description: "Manter um imóvel em Indaiatuba exige estratégia. Descubra como o planejamento preventivo no Jardim Pau Preto e Itaici impacta a valorização e liquidez"
 ---
 
-<div><divSegoe UI", Roboto, Helvetica, sans-serif; font-size: 19px; line-height: 1.6;"><div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsDraaNyyo-j4H9eS3RUhnwsgnALVkt4QSqrbUYsYKU9KBIvoftpcUJFIUjU4kohLbhHrpXQorPwZ_ppUS27Ayx7VO7VbyDnm6CQkS-PefvsdAegNipEDHdJx66ENBqs-6omP4wc6VU7X_BmcBUwhoIAxkD2OqYZXKUYTaqU0O5DVgjWtFhM7bibEM8C0/s1024/1000317661.jpg"><img alt="Manutenção de Imóveis em Indaiatuba" border="0" height="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsDraaNyyo-j4H9eS3RUhnwsgnALVkt4QSqrbUYsYKU9KBIvoftpcUJFIUjU4kohLbhHrpXQorPwZ_ppUS27Ayx7VO7VbyDnm6CQkS-PefvsdAegNipEDHdJx66ENBqs-6omP4wc6VU7X_BmcBUwhoIAxkD2OqYZXKUYTaqU0O5DVgjWtFhM7bibEM8C0/w640-h350/1000317661.jpg" width="640" />
-</a>
-</div>
+<div><divSegoe UI", Roboto, Helvetica, sans-serif; font-size: 19px; line-height: 1.6;">
 
 <p>Morar em Indaiatuba é sinônimo de qualidade de vida, mas manter um imóvel impecável — seja no tradicional <strong>Jardim Pau Preto</strong> ou em um condomínio fechado em <strong>Itaici</strong> — exige mais do que bom gosto: exige estratégia de gestão de ativo. Como estamos iniciando o dia, o foco aqui é <strong>planejamento técnico</strong>.</p>
 
@@ -39,30 +37,4 @@ description: "Manter um imóvel em Indaiatuba exige estratégia. Descubra como o
 </div>
 
 </div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Manutenção Inteligente: O Segredo da Valorização em Indaiatuba",
-"description": "Manter um imóvel em Indaiatuba exige estratégia. Descubra como o planejamento preventivo no Jardim Pau Preto e Itaici impacta a valorização e liquidez da sua casa.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-06-15T09:00:00-03:00",
-"dateModified": "2026-01-13T10:00:00-03:00"
-}
-</script></div>
+</div>

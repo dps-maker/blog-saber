@@ -4,54 +4,6 @@ publishDate: 2021-10-13T02:24:00.003Z
 description: "Descubra a matemática por trás das Kitnets em Indaiatuba. Uma análise de ROI e liquidez que prova por que imóveis compactos são a proteção blindada do"
 ---
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Kitnet para Renda em Indaiatuba: Por que os 'Tubarões' Estão Comprando Onde a Multidão Não Vê",
-
-"datePublished": "2026-01-22T23:30:00-03:00",
-
-"dateModified": "2026-01-22T23:30:00-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://sabernovidades.kit.com"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-
-"description": "Análise técnica e financeira sobre o investimento em Kitnets em Indaiatuba. Descubra como maximizar o ROI e garantir liquidez imediata com imóveis compactos."
-
-}
-
-</script>
-
 <h2>O "Patinho Feio" do Mercado Imobiliário que Paga os Melhores Dividendos</h2>
 
 <p>Existe um mito silencioso que circula nas conversas de domingo entre investidores amadores: a ideia de que "imóvel bom é imóvel grande". Eles buscam a casa de 200m² com piscina, imaginando a valorização futura, mas esquecem de olhar para a linha de baixo da planilha: o <strong>custo de carregamento</strong> e a <strong>liquidez</strong>.</p>

@@ -64,19 +64,4 @@ description: "Descubra como a matemática financeira valida o investimento no Vi
 </div>
 <p>Investir no Village Azaleia não é apenas comprar metros quadrados; é adquirir uma posição estratégica em um mercado que não para de crescer.</p>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Matemática Financeira e Imóveis: O Caso Village Azaleia",
-"datePublished": "2021-09-29",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber"
-},
-"description": "Análise de matemática financeira aplicada ao Condomínio Village Azaleia em Indaiatuba. Entenda a valorização real e a proteção contra inflação.",
-"articleBody": "O investidor maduro sabe que a inflação é o imposto invisível... (conteúdo completo do post)"
-}
-</script>
-
 </div>

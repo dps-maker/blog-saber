@@ -4,7 +4,6 @@ publishDate: 2021-06-26T06:40:00.004Z
 description: "O lote mais barato pode ser o mais caro de construir. Entenda como a topografia, arrimo e sondagem impactam o custo final da sua obra em Indaiatuba."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPo-HRl8DItpA7Y2uglvyWznhInZ57NIc62OK8qnW5WUuN_vWU1UZ6KNUPK_6v6s9_8sy59cLYCQqZPYBFgIURGevKq0hS6mmWHbokfLPFC1frZQDEafn0OpnyiLNkglWJhdjOe3fyCYUQtVVlpVH_FHBV6fat1IiriVR3sBvBwJtFxOJTCkcDcp8FTmY/s1536/1000317683.png"><img border="0" data-original-height="1024" data-original-width="1536" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPo-HRl8DItpA7Y2uglvyWznhInZ57NIc62OK8qnW5WUuN_vWU1UZ6KNUPK_6v6s9_8sy59cLYCQqZPYBFgIURGevKq0hS6mmWHbokfLPFC1frZQDEafn0OpnyiLNkglWJhdjOe3fyCYUQtVVlpVH_FHBV6fat1IiriVR3sBvBwJtFxOJTCkcDcp8FTmY/w640-h426/1000317683.png" width="640" /></a></div><div></div>
 <divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
 
 <p>No mercado imobiliário de Indaiatuba, existe uma métrica que separa investidores experientes de compradores amadores: o <strong>Custo de Preparação do Solo</strong>. Frequentemente, o valor nominal do lote (preço de vitrine) é apenas a "taxa de entrada". A variável que determinará se o seu projeto será um ativo líquido ou um passivo em obra parada é o que acontece antes do primeiro tijolo: terraplanagem, contenção e fundações especiais.</p>
@@ -54,30 +53,3 @@ Em áreas próximas a vales (comuns perto do Parque Ecológico), o lençol freá
 </div>
 
 </div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Topografia e CAPEX: A Matemática Oculta dos Terrenos em Indaiatuba",
-"description": "O lote mais barato pode ser o mais caro de construir. Entenda como a topografia, arrimo e sondagem impactam o custo final da sua obra em Indaiatuba.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-06-26T09:00:00-03:00",
-"dateModified": "2026-01-13T22:30:00-03:00"
-}
-</script>

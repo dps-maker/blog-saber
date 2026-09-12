@@ -4,20 +4,7 @@ publishDate: 2026-01-20T01:18:00.007Z
 description: "Troque o medo da violência pela segurança de um condomínio fechado. Sua família merece a paz e a estrutura do Residencial Maria Bonita em Indaiatuba."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo7tijYhGUF3OvZsrzAJcHHDwZ2TYoOwrLZ0OdFRFSAIeX__XTFfSycV0GWe8tIRpTMMrXISqa1SqBTPxRY33eViGOKsYU5wNnIwmPq2L3RUpzycrqGcQFJurBTzgL2sa6KshWI1A_HTOgMj6ee0r0NHanka4sGQN-VA_j5gvOhQssa5nrU2TdZyI4VI0/s2816/Gemini_Generated_Image_937lr9937lr9937l.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo7tijYhGUF3OvZsrzAJcHHDwZ2TYoOwrLZ0OdFRFSAIeX__XTFfSycV0GWe8tIRpTMMrXISqa1SqBTPxRY33eViGOKsYU5wNnIwmPq2L3RUpzycrqGcQFJurBTzgL2sa6KshWI1A_HTOgMj6ee0r0NHanka4sGQN-VA_j5gvOhQssa5nrU2TdZyI4VI0/s600/Gemini_Generated_Image_937lr9937lr9937l.png"/></a></div>
 <style>.post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</style>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Condomínio Residencial Maria Bonita: O Fim da Sua Ansiedade Urbana",
-"datePublished": "2026-01-19T01:15:22-03:00",
-"dateModified": "2026-01-19T01:15:22-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"}}
-}
-</script>
 
 <h2>A Lógica Inegável de Trocar o Caos Pela Estrutura</h2>
 <p>Se você mora em São Paulom, sabe exatamente o custo invisível de continuar onde está. Não é apenas sobre o trânsito travado ou a notícia de assalto no bairro vizinho que acelera seu coração; é sobre o custo de oportunidade da infância dos seus filhos. O <strong>Condomínio Residencial Maria Bonita</strong>, no Jardim Tropical, não é uma aposta emocional. É um movimento estratégico de patrimônio e sanidade.</p>

@@ -10,18 +10,6 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 ul {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}
 </style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Chácara Polaris: O Ultimato da Privacidade Urbana em Indaiatuba",
-"datePublished": "2021-08-18T00:00:00-03:00",
-"dateModified": "2026-01-18T19:51:19-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p><strong>Chácara Polaris é um enclave residencial em Indaiatuba que soluciona o dilema entre espaço privativo e conveniência urbana.</strong> Caracterizado por terrenos amplos (acima de 1.000m²) e zoneamento estritamente residencial, o bairro oferece isolamento acústico natural e microclima ameno, mantendo-se a menos de 8 minutos dos principais hubs educacionais e de serviços da cidade, ideal para famílias que buscam descompressão sem isolamento logístico.</p>
 
 <h2>O "Bioma" Residencial: Isolamento Acústico e Visual</h2>

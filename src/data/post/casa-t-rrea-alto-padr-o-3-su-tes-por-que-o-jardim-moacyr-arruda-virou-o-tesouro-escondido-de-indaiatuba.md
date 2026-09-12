@@ -18,38 +18,6 @@ description: "Descubra por que o Jardim Moacyr Arruda se tornou o destino favori
 
 <div class="post-body">
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "CASA TÉRREA ALTO PADRÃO (3 Suítes): O Refúgio Estratégico no Jardim Moacyr Arruda",
-
-"datePublished": "2021-10-06T00:00:00-03:00",
-
-"dateModified": "2026-01-21T16:55:07-03:00",
-
-"author": { "@type": "Organization", "name": "Imobiliária Saber" },
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": { "@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png" }
-
-}
-
-}
-
-</script>
-
-
-
 <p>Se você tem acompanhado o movimento imobiliário em Indaiatuba entre 2020 e 2021, já percebeu uma mudança clara de comportamento: a busca desenfreada por <strong>privacidade sem isolamento</strong>.</p>
 
 <p>Enquanto muitos bairros novos crescem distantes, o <strong>Jardim Moacyr Arruda</strong> permanece como uma anomalia positiva no mapa da cidade. Localizado estrategicamente no "coração" de Indaiatuba, ele oferece o que especialistas chamam de "tranquilidade rural com sofisticação urbana".</p>

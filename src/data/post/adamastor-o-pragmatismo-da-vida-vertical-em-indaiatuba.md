@@ -4,18 +4,6 @@ publishDate: 2021-08-08T21:55:00.003Z
 description: "Cansado de perder tempo no trânsito? Entenda como o Loteamento Adamastor une logística estratégica e vida prática, revelando os prós e contras reais d"
 ---
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Adamastor: O Pragmatismo da Vida Vertical em Indaiatuba",
-"datePublished": "2021-08-08T00:00:00-03:00",
-"dateModified": "2026-01-18T19:05:00-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <style>
 .post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;}
 p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-height: 1.6;}

@@ -4,52 +4,6 @@ publishDate: 2021-10-08T13:37:00.009Z
 description: "Cansado da estrada? Descubra a lógica matemática de morar no Jardim Brasil e economizar 40 minutos diários no trajeto Indaiatuba-SP."
 ---
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Por que o Jardim Brasil é o 'Bunker Logístico' para quem trabalha em SP?",
-
-"datePublished": "2021-10-08T09:00:00-03:00",
-
-"dateModified": "2026-01-22T10:36:24-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-},
-
-"description": "Cansado da estrada? Descubra a lógica matemática de morar no Jardim Brasil e economizar 40 minutos diários no trajeto Indaiatuba-SP.",
-
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-</script>
-
 <style>
 
 .post-body h2 { color: #003366; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }

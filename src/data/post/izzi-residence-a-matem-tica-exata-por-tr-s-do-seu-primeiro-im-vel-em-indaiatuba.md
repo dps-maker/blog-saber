@@ -4,41 +4,6 @@ publishDate: 2026-05-30T19:12:09.404Z
 description: "Com obras em ritmo avançado, o IZZI Residence redefine o conceito de moradia e rentabilidade no Centro de Indaiatuba. Descubra o poder do modelo Short"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAXsfnWyfTnDyu-Vr7WgHSoAXkXhzxx8OOO9sqJpzPctO5ZxAJc_rXkX10JNs-UXCkSSB1AzpTFNyssTqZa7JjtqCxYtoFOwoEDIYG9KOdIye8xKZ4mM5DIutE2Ja72YuiP4eSsQVB3dOGFmD38-KLxlu_8_CQ0z81yIos5cbzF_jEKzg1RG9QZizyt8/s1780/foto3d-07.webp"><img alt="" border="0" width="600" data-original-height="656" data-original-width="1780" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAXsfnWyfTnDyu-Vr7WgHSoAXkXhzxx8OOO9sqJpzPctO5ZxAJc_rXkX10JNs-UXCkSSB1AzpTFNyssTqZa7JjtqCxYtoFOwoEDIYG9KOdIye8xKZ4mM5DIutE2Ja72YuiP4eSsQVB3dOGFmD38-KLxlu_8_CQ0z81yIos5cbzF_jEKzg1RG9QZizyt8/s600/foto3d-07.webp"/></a></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://saber.imb.br/blog"
-},
-"headline": "IZZI Residence: A Matemática Exata Por Trás do Seu Primeiro Imóvel em Indaiatuba",
-"description": "Com obras em ritmo avançado, o IZZI Residence redefine o conceito de moradia e rentabilidade no Centro de Indaiatuba. Descubra o poder do modelo Shortstay.",
-"image": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAXsfnWyfTnDyu-Vr7WgHSoAXkXhzxx8OOO9sqJpzPctO5ZxAJc_rXkX10JNs-UXCkSSB1AzpTFNyssTqZa7JjtqCxYtoFOwoEDIYG9KOdIye8xKZ4mM5DIutE2Ja72YuiP4eSsQVB3dOGFmD38-KLxlu_8_CQ0z81yIos5cbzF_jEKzg1RG9QZizyt8/s600/foto3d-07.webp"
-},
-"datePublished": "2026-05-30T16:01:06-03:00",
-"dateModified": "2026-05-30T16:01:06-03:00",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/sobre"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"inLanguage": "pt-BR"
-}
-</script>
-
 <h2>O Segredo do Primeiro Imóvel: Por que o IZZI Residence Quebrou as Regras?</h2>
 
 <p>Esqueça o conselho antiquado de comprar um "apartamento para a vida toda". Para a sua geração, o primeiro imóvel não deve ser uma âncora financeira de manutenção cara; ele deve ser o seu <strong>primeiro grande salto de alavancagem patrimonial</strong>.</p>

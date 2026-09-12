@@ -4,8 +4,6 @@ publishDate: 2021-07-29T13:31:00.004Z
 description: "Entenda como montar um escritório produtivo em casa e por que essa infraestrutura define a liquidez e o valor real do seu imóvel em Indaiatuba."
 ---
 
-
-
 <p>A migração para o interior paulista trouxe uma mudança estrutural na demanda imobiliária: o escritório deixou de ser um luxo e virou infraestrutura crítica. Quem sai de São Paulo em busca de "espaço" muitas vezes subestima a logística necessária para manter a produtividade profissional a 100km da Faria Lima. Não se trata apenas de colocar uma mesa no quarto de hóspedes.</p>
 
 <h2>1. Cenário: A Crise do "Puxadinho" Digital</h2>
@@ -68,31 +66,3 @@ description: "Entenda como montar um escritório produtivo em casa e por que ess
 </div>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/home-office-indaiatuba-valorizacao"
-},
-"headline": "Home Office em Indaiatuba: O Novo Critério de Valorização Imobiliária",
-"description": "Entenda como montar um escritório produtivo em casa e por que essa infraestrutura define a liquidez do seu imóvel em Indaiatuba.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-07-29T00:00:00-03:00",
-"dateModified": "2026-01-18T10:33:22-03:00"
-}
-</script>

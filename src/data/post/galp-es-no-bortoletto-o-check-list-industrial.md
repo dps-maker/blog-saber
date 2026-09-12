@@ -4,7 +4,6 @@ publishDate: 2026-01-15T15:44:00.006Z
 description: "Análise técnica do Loteamento Bortoletto em Indaiatuba. Foco em logística, infraestrutura e viabilidade para galpões e indústrias."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1WDoZWfow5MvBYZB7GURuILUjouJ98mxhfX5g_1QmNAbS5S3Ay2zVAHpg7pntb3rgaEnPUCFlPH1ATzHnFKV6mdLAfvCmDGhyejWJBOZ0AXJaefB52z-fsvMVu_bKRgVtqjjfeTXAC5lR85sC3IuexscC3lUCNF2li-rCZ_xlPN_87h5DHS0REeB4aA0/s2752/IND.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2752" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1WDoZWfow5MvBYZB7GURuILUjouJ98mxhfX5g_1QmNAbS5S3Ay2zVAHpg7pntb3rgaEnPUCFlPH1ATzHnFKV6mdLAfvCmDGhyejWJBOZ0AXJaefB52z-fsvMVu_bKRgVtqjjfeTXAC5lR85sC3IuexscC3lUCNF2li-rCZ_xlPN_87h5DHS0REeB4aA0/s600/IND.png"/></a></div>
 <h2>Contexto Histórico e Urbanístico</h2>
 <p>
 O Loteamento Comercial Bortoletto surgiu em Indaiatuba como uma resposta pragmática à saturação das zonas industriais mais antigas. Enquanto outras regiões da cidade cresceram de forma orgânica e por vezes desordenada, misturando residências com pequenas oficinas, o Bortoletto foi desenhado com um propósito claro: servir ao fluxo corporativo.
@@ -76,30 +75,3 @@ Chega de atualizar páginas sem sucesso. Receba o alerta de novos Galpões no Bo
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Galpões no Bortoletto: O Check-list Industrial",
-"description": "Análise técnica do Loteamento Bortoletto em Indaiatuba. Foco em logística, infraestrutura e viabilidade para galpões e indústrias.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2026-01-15T00:00:00-03:00",
-"dateModified": "2026-01-17T12:36:28-03:00"
-}
-</script>

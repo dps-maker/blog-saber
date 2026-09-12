@@ -57,16 +57,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Muitas casas antigas falham em oferecer um espaço dedicado que não seja um "quarto de hóspedes improvisado". No Quintas da Terracota, os projetos valorizam ambientes amplos e integrados. Ter um escritório bem iluminado e ventilado significa ter um local para ler, escrever, estudar ou planejar a próxima viagem. É a segurança de saber que sua casa trabalha para você, e não você para a casa.</p>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Quintas da Terracota: O Escritório da Sua Nova Vida (Sem Escadas)",
-"datePublished": "2021-09-15T00:00:00-03:00",
-"dateModified": "2026-01-19T09:46:51-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>

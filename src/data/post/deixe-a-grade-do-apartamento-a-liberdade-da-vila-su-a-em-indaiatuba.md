@@ -4,7 +4,6 @@ publishDate: 2026-01-14T12:47:00.013Z
 description: "Imagine uma Casa Térrea na Vila Suíça que tenha a segurança e o quintal que sua família merece, a 4 min do Parque Ecológico."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSBj7hnx6Gbl4BjrudfF-Gl94x8yEANJ173u6GXi311koADWWYN-zjvMisBv_b1KzyyT_fCJAPB4sEH08sYscGNrVWKMWokPE__QEtx82gpA-UyXqRc25AOfLK8Dsoaxu9hZ17ypvdGiaiOnU_Z-PQwuljHFPmG6nTvluaVpOKL3O7SRWOL3Xo2kJQWX4/s2504/1000325614.png"><img alt="Vila Suíça em Indaiatuba" border="0" data-original-height="1408" data-original-width="2504" height="359" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSBj7hnx6Gbl4BjrudfF-Gl94x8yEANJ173u6GXi311koADWWYN-zjvMisBv_b1KzyyT_fCJAPB4sEH08sYscGNrVWKMWokPE__QEtx82gpA-UyXqRc25AOfLK8Dsoaxu9hZ17ypvdGiaiOnU_Z-PQwuljHFPmG6nTvluaVpOKL3O7SRWOL3Xo2kJQWX4/w640-h359/1000325614.png" title="Vila Suíça" width="640" /></a></div>
 <style>
 
 .post-body h2 { color: #003366; font-family: 'Segoe UI', Arial, sans-serif; }
@@ -14,48 +13,6 @@ description: "Imagine uma Casa Térrea na Vila Suíça que tenha a segurança e 
 .post-body p { font-size: 19px; line-height: 1.6; }
 
 </style>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Deixe a Grade do Apartamento: A Liberdade da Vila Suíça em Indaiatuba",
-
-"datePublished": "2026-01-21T00:00:00-03:00",
-
-"dateModified": "2026-01-21T09:43:57-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
 
 <h2>O Fim da "Síndrome do Aquário" para sua Família</h2>
 

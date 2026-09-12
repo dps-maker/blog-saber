@@ -14,48 +14,6 @@ description: "Cansado da insegurança de SP? Como é a rotina real de famílias 
 
 </style>
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Sair de São Paulo: O Guia de Sobrevivência para Famílias em Busca de Espaço",
-
-"datePublished": "2021-10-03T00:00:00-03:00",
-
-"dateModified": "2026-01-20T21:15:00-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
-
 <h2>A transição da "Varanda Gourmet" para o Quintal de Verdade</h2>
 
 <p>Existe um momento silencioso na vida de quem mora na capital em que a "segurança" do apartamento começa a parecer mais com confinamento. Você olha para seus filhos brincando no tapete da sala e se pergunta: é só isso que a infância deles vai ser?</p>

@@ -4,7 +4,6 @@ publishDate: 2026-01-22T09:00:00Z
 description: "Análise para investidores: compare a rentabilidade real de terrenos em condomínio em Indaiatuba versus o CDI projetado para 2026. Dados de vacância e"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVi1bTTrfMVPtiHY82Egcra4Zh88RAVj1aNTLskLgmnmU6KvxJWWifGjBvDC6Hoi-t5VJINYOjbiwonJSCrHEFjjOsmRh3LR5Z6c8BM7VHu7GSOf2lkVIbspFcnSdApQMOQ-H0DnTpQ-JbSh4U4-wfUP2TCcPpjVLQ1DedzBScA6-5qZKUeXITy-63LE/s2816/1000324924.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVi1bTTrfMVPtiHY82Egcra4Zh88RAVj1aNTLskLgmnmU6KvxJWWifGjBvDC6Hoi-t5VJINYOjbiwonJSCrHEFjjOsmRh3LR5Z6c8BM7VHu7GSOf2lkVIbspFcnSdApQMOQ-H0DnTpQ-JbSh4U4-wfUP2TCcPpjVLQ1DedzBScA6-5qZKUeXITy-63LE/s600/1000324924.png"/></a></div>
 <style>
 
 .post-body h2 { color: #003366; font-family: 'Segoe UI', Arial, sans-serif; }
@@ -14,48 +13,6 @@ description: "Análise para investidores: compare a rentabilidade real de terren
 .post-body p { font-size: 19px; line-height: 1.6; }
 
 </style>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Terrenos em Condomínio vs. CDI: A Matemática da Valorização Real em Indaiatuba",
-
-"datePublished": "2026-01-22T00:00:00-03:00",
-
-"dateModified": "2026-01-22T06:26:09-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
 
 <h2>O Dilema da Liquidez: Por que o CDI não protege seu patrimônio como você pensa</h2>
 

@@ -4,7 +4,6 @@ publishDate: 2021-06-18T05:05:00.004Z
 description: "Descubra como o Retrofit no Jardim Pau Preto gera ROI superior. Análise técnica sobre reforma, infraestrutura e valorização em imóveis antigos."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC10zLd6kL-jZRmE1-NbcM3YP0vVqBSKCI6DKiWoJfd7iXPhpKhVUnRskWvvB41B_0fzEZYbUO2gNSry6pWdNTTS_qtoCZFSgaGVU8as9Oi_VYJ1pjxXTvbBleyHLHVixhlKOrAlzSPiwOshhl1t724hscoOkxAvAnFuYCRAdGbZFATkvsfZJJTouWyU/s2816/1000317665.png"><img border="0" data-original-height="1536" data-original-width="2816" height="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC10zLd6kL-jZRmE1-NbcM3YP0vVqBSKCI6DKiWoJfd7iXPhpKhVUnRskWvvB41B_0fzEZYbUO2gNSry6pWdNTTS_qtoCZFSgaGVU8as9Oi_VYJ1pjxXTvbBleyHLHVixhlKOrAlzSPiwOshhl1t724hscoOkxAvAnFuYCRAdGbZFATkvsfZJJTouWyU/w640-h350/1000317665.png" width="640" /></a></div><div></div>
 <divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
 
 <p>O mercado imobiliário não perdoa amadorismo, especialmente quando o assunto é o reaproveitamento de ativos consolidados. Para o investidor analítico, a margem de lucro real muitas vezes não está na especulação de terrenos em expansão, mas na ineficiência de preço dos imóveis situados na malha urbana central de Indaiatuba.</p>
@@ -40,30 +39,3 @@ description: "Descubra como o Retrofit no Jardim Pau Preto gera ROI superior. An
 </div>
 
 </div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Retrofit em Indaiatuba: A Matemática do Lucro no Jardim Pau Preto",
-"description": "Descubra como o Retrofit no Jardim Pau Preto gera ROI superior. Análise técnica sobre reforma, infraestrutura e valorização em imóveis antigos.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-06-18T09:00:00-03:00",
-"dateModified": "2026-01-13T15:35:00-03:00"
-}
-</script>

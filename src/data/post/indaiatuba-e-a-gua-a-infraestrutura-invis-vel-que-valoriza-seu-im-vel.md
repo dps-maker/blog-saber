@@ -4,7 +4,6 @@ publishDate: 2021-08-24T23:10:00.009Z
 description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento do SAAE tornam Indaiatuba uma referência em segurança hídrica e valorização imobiliá"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCR9tQyO9esg_tNIgSudst8PALg68e2Br7nAeLmtywEyhjZ-U0q3l6-vkqthIw3UfFZRm0wpzgoa-hUrV_fqf_3QHZ80Mwb-4iaZI7mDybsHlji7eMDFuNn1Z85Ewlyi8TvOVfT3Rhi3eU8x6xqdiKuGcKHWL0KZVqAO0G7zAPtOyMUKc_DcyKmqjSBU/s700/CAPIVARIMIRIM.jpg"><img alt="" border="0" data-original-height="394" data-original-width="700" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCR9tQyO9esg_tNIgSudst8PALg68e2Br7nAeLmtywEyhjZ-U0q3l6-vkqthIw3UfFZRm0wpzgoa-hUrV_fqf_3QHZ80Mwb-4iaZI7mDybsHlji7eMDFuNn1Z85Ewlyi8TvOVfT3Rhi3eU8x6xqdiKuGcKHWL0KZVqAO0G7zAPtOyMUKc_DcyKmqjSBU/s600/CAPIVARIMIRIM.jpg" width="600" /></a></div>
 <divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
 
 <p>Quando analiso o potencial de uma cidade, costumo ignorar momentaneamente a beleza das praças ou a fachada dos condomínios. A verdadeira inteligência de localização começa pelo que está enterrado ou represa acima: a infraestrutura básica.</p>
@@ -89,31 +88,3 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 </div>
 
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Indaiatuba e a Água: A Infraestrutura Invisível que Valoriza seu Imóvel",
-"description": "Descubra como a segurança hídrica e a Barragem do Rio Capivari-Mirim garantem o crescimento sustentável e a valorização imobiliária em Indaiatuba.",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-}
-},
-"datePublished": "2021-08-24T00:00:00-03:00",
-"dateModified": "2026-01-15T19:56:52-03:00"
-}
-</script>

@@ -6,18 +6,6 @@ description: "Cansado de escadas e da solidão? Descubra por que o Jardim Esplan
 
 <style>.post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</style>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Jardim Esplanada II: O Bairro de Indaiatuba Desenhado para a Melhor Idade",
-"datePublished": "2021-09-24T00:00:00-03:00",
-"dateModified": "2026-01-19T10:52:05-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <p>Você já parou para pensar que a verdadeira riqueza, nesta fase da vida, não é apenas o patrimônio acumulado, mas a autonomia de ir e vir sem depender de ninguém? Imagine um cenário onde a "casa dos sonhos" com dois andares e piscina olímpica se torna, na verdade, uma armadilha de degraus e manutenção excessiva.</p>
 
 <p>Para quem busca qualidade de vida na melhor idade, a lógica do investimento muda. O luxo agora é ter o <strong>Parque Ecológico</strong> como quintal e a farmácia a poucos metros da porta. É aqui que o <strong>Jardim Esplanada II</strong>, em Indaiatuba, se destaca não apenas como moradia, mas como uma decisão financeira inteligente.</p>

@@ -42,48 +42,6 @@ margin-bottom: 10px;
 
 </style>
 
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"headline": "Indaiatuba: Onde seu 'Grande Amigo' tem Quintal e você tem Hospital na Porta",
-
-"datePublished": "2021-09-30T00:00:00-03:00",
-
-"dateModified": "2026-01-20T15:27:10-03:00",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-
-}
-
-}
-
-}
-
-</script>
-
 <h2>A Logística da Saúde para quem tem "Gigantes" em Casa</h2>
 
 <p>Quem convive com cães de grande porte sabe que a rotina vai muito além de comprar ração. Existe uma logística de espaço e, principalmente, de saúde que poucos corretores entendem. Em muitos condomínios, as regras de circulação transformam o simples ato de sair para o veterinário em uma operação militar.</p>

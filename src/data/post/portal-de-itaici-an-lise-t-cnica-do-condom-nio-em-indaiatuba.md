@@ -4,8 +4,6 @@ publishDate: 2021-08-20T19:53:00.008Z
 description: "Jardim Portal de Itaici em Indaiatuba. Descubra o perfil de valorização, infraestrutura e detalhes que definem este condomínio"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhueeg0eAGCLT4P0DozrjOC8unlaj91xRXTrSwb3Aq_VEfo3iW4aA_Rt2ie5ibro1004fb4c1H-gUH-fvrDa2ER9sDKKhOV3Dt5gsCOBTgj_CMTwLm3T3vFS9d72PUUtYSdxSSz5omNPnY3YOZybcRQWNKbcwQOdtCWdOlMrFv7BnFArbH3JA6ThIEzixc/s2368/Gemini_Generated_Image_e3i8w1e3i8w1e3i8%281%29.png"><img alt="" border="0" width="600" data-original-height="1792" data-original-width="2368" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhueeg0eAGCLT4P0DozrjOC8unlaj91xRXTrSwb3Aq_VEfo3iW4aA_Rt2ie5ibro1004fb4c1H-gUH-fvrDa2ER9sDKKhOV3Dt5gsCOBTgj_CMTwLm3T3vFS9d72PUUtYSdxSSz5omNPnY3YOZybcRQWNKbcwQOdtCWdOlMrFv7BnFArbH3JA6ThIEzixc/s600/Gemini_Generated_Image_e3i8w1e3i8w1e3i8%281%29.png"/></a></div>
-
 <div>
 
 <p>Quem observa o mercado imobiliário de Indaiatuba há duas décadas sabe distinguir o que é tendência passageira do que é consolidação urbanística. O <strong>Jardim Portal de Itaici</strong> não é apenas um condomínio fechado; é um marco geográfico que define o início de uma das regiões mais cobiçadas da cidade.</p>
@@ -43,60 +41,5 @@ description: "Jardim Portal de Itaici em Indaiatuba. Descubra o perfil de valori
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "Portal de Itaici: Análise Técnica do Condomínio em Indaiatuba",
-
-"description": "Análise técnica do Jardim Portal de Itaici em Indaiatuba. Entenda a valorização, perfil urbanístico e porque este condomínio é referência em alto padrão.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-
-}
-
-},
-
-"datePublished": "2021-08-20T10:00:00-03:00",
-
-"dateModified": "2026-01-14T16:51:20-03:00"
-
-}
-
-</script>
 
 </div>

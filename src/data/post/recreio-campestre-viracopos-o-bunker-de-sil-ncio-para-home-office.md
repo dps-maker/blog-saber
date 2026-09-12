@@ -64,15 +64,3 @@ Você não está isolado do mundo. A logística de Indaiatuba permite que você 
 <p>Se você busca agito urbano na porta de casa, este bairro não é para você. Mas se o seu desejo secreto é um escritório com vista verde, silêncio absoluto para reuniões importantes e espaço para respirar, o <strong>Recreio Campestre Viracopos</strong> é o seu próximo QG estratégico.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "Recreio Campestre Viracopos: O Bunker de Silêncio para Home Office",
-"datePublished": "2021-09-14T00:00:00-03:00",
-"dateModified": "2026-01-18T23:25:13-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>

@@ -4,18 +4,6 @@ publishDate: 2021-09-26T18:52:00.003Z
 description: "Troque o medo da violência e o trânsito da capital pela segurança de Indaiatuba. Descubra por que sobrados são a nova tendência para famílias."
 ---
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"headline": "O Êxodo Urbano e a Ascensão dos Sobrados em Indaiatuba",
-"datePublished": "2021-09-26T00:00:00-03:00",
-"dateModified": "2026-01-19T18:50:47-03:00",
-"author": {"@type": "Organization", "name": "Imobiliária Saber"},
-"publisher": {"@type": "Organization", "name": "Imobiliária Saber", "logo": {"@type": "ImageObject", "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"}}
-}
-</script>
-
 <style>.post-body h2 {color: #003366; font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</style>
 
 <p>Imagine a cena: você está preso no trânsito da Marginal Pinheiros às 18h30, a chuva aperta e a notificação de segurança no celular apita. Essa tensão constante tem impulsionado um movimento silencioso, mas robusto, que chamamos de "Êxodo Urbano Qualificado". Famílias inteiras estão trocando apartamentos compactos em bairros nobres da capital por sobrados espaçosos em Indaiatuba, em busca de algo que o dinheiro na metrópole já não compra: paz de espírito.</p>

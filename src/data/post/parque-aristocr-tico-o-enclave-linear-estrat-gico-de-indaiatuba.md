@@ -4,7 +4,6 @@ publishDate: 2021-09-05T18:20:00.006Z
 description: "Conheça o desenho linear do Parque Aristocrático de Viracopos: um enclave residencial em Indaiatuba com privacidade natural e acesso estratégico."
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD49M9BjPH_Xx-byt9If6rbaNL4RCItkqymk23nYSQcYgBaRBjPUSrNwE9FXqIk57f-SdurKdHm-pM1w6KeSKksFI126X4o-7XjrtIFEQEjRK6t_OkpH8SwEMLh4MMP4H2_S4N2cXJsxbrnAFvAcBSlcFIfyqOAe_zEgHtGK2rD9V-kOs1wtSar7OQJo0/s1536/1000322228.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD49M9BjPH_Xx-byt9If6rbaNL4RCItkqymk23nYSQcYgBaRBjPUSrNwE9FXqIk57f-SdurKdHm-pM1w6KeSKksFI126X4o-7XjrtIFEQEjRK6t_OkpH8SwEMLh4MMP4H2_S4N2cXJsxbrnAFvAcBSlcFIfyqOAe_zEgHtGK2rD9V-kOs1wtSar7OQJo0/s600/1000322228.png"/></a></div>
 <p>
 
 Indaiatuba esconde configurações urbanas que fogem do óbvio. Ao analisar a planta do <strong>Jardim Residencial Parque Aristocrático de Viracopos</strong>, nota-se imediatamente que não estamos falando de um bairro de passagem ou de uma malha aberta convencional. O desenho é linear, uma "fatia" de zoneamento residencial bem delimitada.
@@ -110,57 +109,3 @@ O Parque Aristocrático é, em essência, um bairro para quem quer ser "invisív
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 </div>
-
-<script type="application/ld+json">
-
-{
-
-"@context": "https://schema.org",
-
-"@type": "BlogPosting",
-
-"mainEntityOfPage": {
-
-"@type": "WebPage",
-
-"@id": "https://blog.saber.imb.br/"
-
-},
-
-"headline": "Parque Aristocrático: O Enclave Linear Estratégico de Indaiatuba",
-
-"description": "Análise do Jardim Residencial Parque Aristocrático de Viracopos. Um bairro linear, de acesso restrito e foco em privacidade estratégica.",
-
-"author": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber",
-
-"url": "https://saber.imb.br/"
-
-},
-
-"publisher": {
-
-"@type": "Organization",
-
-"name": "Imobiliária Saber em Indaiatuba",
-
-"logo": {
-
-"@type": "ImageObject",
-
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixiE1KghKkH0E-I53yyi5zoT7eRX0lxCGLpcWLGAmEE5st8OfHfuzbxfiygwCWRqAdSfpmjAhM8-SogHDU_1gXCX6IHrjW1BaUc87un1lF1o6y2Et7eV0m3gJgvfJs3HsAGyAcPYk8Tl_65rlQmgAp5orRZqtLDvixbCUwscTT8ZJO-7zckc36rNkWHz4/s1600/1000318124.png"
-
-}
-
-},
-
-"datePublished": "2021-09-05T00:00:00-03:00",
-
-"dateModified": "2026-01-16T15:00:49-03:00"
-
-}
-
-</script>

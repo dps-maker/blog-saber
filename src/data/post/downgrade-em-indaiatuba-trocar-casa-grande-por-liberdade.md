@@ -4,7 +4,7 @@ publishDate: 2021-06-22T05:59:00.005Z
 description: "O Downgrade Imobiliário em Indaiatuba é a estratégia de trocar área excedente por liquidez e vida prática. Descubra se é o momento de mudar."
 ---
 
-<div class="separator"><div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd7KW8J5L0RamPyGO2gTFiwUygBWLpAVx5DR9DuieoPAOLwA2O9s4CctljGJLGFwOQe_syfKL0hW8DBnHcSz5c1VAoWk0gS7OCXUm8EUDmivEXfnoCvY9SKyv75NNUL_q92JL1gjhyphenhyphenVmKWmkQlWl61a4SnfzD2B3EqUB3XfAJrklJ9g2FVCZWAQIhwso/s2400/Gemini_Generated_Image_dn2sgmdn2sgmdn2s.png" imageanchor="1"><img border="0" data-original-height="1792" data-original-width="2400" height="478" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd7KW8J5L0RamPyGO2gTFiwUygBWLpAVx5DR9DuieoPAOLwA2O9s4CctljGJLGFwOQe_syfKL0hW8DBnHcSz5c1VAoWk0gS7OCXUm8EUDmivEXfnoCvY9SKyv75NNUL_q92JL1gjhyphenhyphenVmKWmkQlWl61a4SnfzD2B3EqUB3XfAJrklJ9g2FVCZWAQIhwso/w640-h478/Gemini_Generated_Image_dn2sgmdn2sgmdn2s.png" width="640" /></a></div></div><div></div>
+</div>
 
 <divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
 <p>O conceito de <strong>Downgrade Imobiliário</strong> — ou "Rightsizing", como preferimos chamar tecnicamente — é um fenômeno urbanístico claro em Indaiatuba, especialmente associado à fase do "ninho vazio".</p>
@@ -47,34 +47,3 @@ description: "O Downgrade Imobiliário em Indaiatuba é a estratégia de trocar 
 </div>
 
 </div>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "BlogPosting",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://blog.saber.imb.br/"
-},
-"headline": "Downgrade em Indaiatuba: Trocar Casa Grande por Liberdade?",
-"description": "Entenda o movimento de Downgrade Imobiliário em Indaiatuba. Saiba quando vale a pena trocar uma casa grande por um apartamento ou casa térrea no Jardim Pau Preto.",
-"image": [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzVPeI_cPqaAaPo2MBloee8ByycsUmuEjEGHIFSWeskW1jlvQn_zilQq-tm4XDc8j8KGzFAgi4aw4z0QyrmPKXHiHxuLEr2PGgYIvKOHKAx6Rzx2ZvKtwDVq4FxmfTufm6cIkJJRgWFTNkYS92GvTpFG_XZKyE2QqBLMP3naMNnA3ApJ44CUaounk637Y/s1536/1000317678.png"
-],
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"url": "https://saber.imb.br/"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber em Indaiatuba",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"datePublished": "2021-06-22T09:00:00-03:00",
-"dateModified": "2026-01-13T20:25:00-03:00"
-}
-</script>

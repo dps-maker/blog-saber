@@ -4,31 +4,6 @@ publishDate: 2026-01-23T12:50:00.002Z
 description: "Resumo do dia em Indaiatuba: Guarda Civil recebe 10 novas viaturas, Saúde implanta totens de autoatendimento nas UBSs e mudanças viárias"
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKvlr724DEaJRiE-IAEctNX1qAb_rw5HW3SKbSsgy0pL2lya73eohgmXxqHu9c2rTlacMGCm6ZsGc_QqH8xWuYWMBZT3Axqy1DO43564zUdJzhcdGprx-a2UIuC9nL0Rm9hvQpddvpVJgJ0-lb1xTyuPAbj-jC0SSsS6BWXcTPFvDMoQBBQaqwVMuiRE/s1248/83963f87-19a0-4545-aadb-27215cf86f98.jpg"><img alt="" border="0" width="600" data-original-height="832" data-original-width="1248" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKvlr724DEaJRiE-IAEctNX1qAb_rw5HW3SKbSsgy0pL2lya73eohgmXxqHu9c2rTlacMGCm6ZsGc_QqH8xWuYWMBZT3Axqy1DO43564zUdJzhcdGprx-a2UIuC9nL0Rm9hvQpddvpVJgJ0-lb1xTyuPAbj-jC0SSsS6BWXcTPFvDMoQBBQaqwVMuiRE/s600/83963f87-19a0-4545-aadb-27215cf86f98.jpg"/></a></div>
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Segurança e Tecnologia: Indaiatuba reforça frota da GCM e digitaliza atendimento na Saúde",
-"datePublished": "2026-01-23T09:37:53-03:00",
-"dateModified": "2026-01-23T09:45:00-03:00",
-"author": {
-"@type": "Organization",
-"name": "Imobiliária Saber"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Imobiliária Saber",
-"logo": {
-"@type": "ImageObject",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png"
-}
-},
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRYbYvSxR-IRaFMCb95rCMmr1pKSkJKSVGD2SfW1h7e7M-NbCly3qk9xKK5lYpfOPYfq-xkzJ51p14cGftPHLF7MrbM0Szz62qQ-Ff5H79-dMiUcNzhrEL7LXKf089Ka2yzGaIX-UJBgTtdalNaWYPS0JSSfIMYNIE4yxhisKcU8j-gtOqXq6lSmgiSA/s600/1000324271.png",
-"description": "Resumo diário de Indaiatuba: Guarda Civil recebe 10 novas viaturas, Saúde implanta totens de autoatendimento e mudanças no trânsito do Jd. Pau Preto."
-}
-</script>
-
 <h2>MANCHETE DO DIA: SEGURANÇA PÚBLICA EM FOCO</h2>
 
 <p><strong>Indaiatuba recebe 10 novas viaturas para reforçar o patrulhamento preventivo da Guarda Civil</strong></p>
