@@ -1,6 +1,6 @@
 site:
   name: 'Imobiliária Saber'
-  site: 'https://saber.imb.br'
+  site: 'https://saber.imb.br/blog'
   base: '/'
   trailingSlash: false
 
