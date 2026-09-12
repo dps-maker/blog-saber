@@ -82,7 +82,9 @@ export default defineConfig({
   ],
 
   integrations: [
-    sitemap(),
+    sitemap({
+      filter: (page) => page.startsWith('https://saber.imb.br/blog'),
+    }),
     mdx(),
     icon({
       iconDir: 'src/assets/icons',
