@@ -2,25 +2,25 @@
 
 publishDate: 2026-09-11T23:41:10.000Z
 
-title: Minha Casa, Minha Vida Faixa 3 em Indaiatuba por que a poupanca importa para quem vai comprar o primeiro imovel
+title: "Minha Casa, Minha Vida Faixa 3 em Indaiatuba: por que a poupança importa para quem vai comprar o primeiro imóvel"
 
-excerpt: A poupanca mudou e o credito imobiliario também. Entenda o impacto para quem busca o primeiro imovel pelo Minha Casa, Minha Vida Faixa 3.
+excerpt: "A poupança mudou e o crédito imobiliário também. Entenda o impacto para quem busca o primeiro imóvel pelo Minha Casa, Minha Vida Faixa 3."
 
-image: \~/assets/images/default.png
+image: "\~/assets/images/default.png"
 
-category: Insights Estratégicos
+category: "Insights Estratégicos"
 
 tags:
 
-&#x20; - Indaiatuba
+&#x20; - "Indaiatuba"
 
-&#x20; - Mercado Imobiliario
+&#x20; - "Mercado Imobiliário"
 
-&#x20; - Urbanismo
+&#x20; - "Urbanismo"
 
 metadata:
 
-&#x20; canonical: https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel
+&#x20; canonical: "\[https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel](https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel)"
 
 \---
 
@@ -586,7 +586,7 @@ metadata:
 
 <div style="text-align:center; margin: 40px 0;">  
 
-&#x20; <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
+&#x20; <script async data-uid="d188d73e78" src="\[https://sabernovidades.kit.com/d188d73e78/index.js](https://sabernovidades.kit.com/d188d73e78/index.js)"></script>
 
 </div>
 
