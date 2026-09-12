@@ -4,14 +4,12 @@ import Headline from '~/components/ui/Headline.astro';
 import { getCollection } from 'astro:content';
 
 const metadata = {
-  title: 'Índice de Artigos de A a Z',
+  title: 'Índice de Artigos',
   description: 'Navegue por todas as nossas publicações em ordem alfabética.',
 };
 
-// Coleta diretamente todos os posts da pasta src/data/post/
 const allPosts = await getCollection('post');
 
-// Ordena os posts em ordem alfabética pelo título (A - Z) usando padrão pt-BR
 const sortedPosts = allPosts.sort((a, b) => {
   return a.data.title.localeCompare(b.data.title, 'pt-BR', { sensitivity: 'base' });
 });

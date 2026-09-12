@@ -22,14 +22,13 @@ export interface Props {
   isSticky?: boolean;
   isDark?: boolean;
   isFullWidth?: boolean;
-  showToggleTheme?: boolean;
-  showRssFeed?: boolean;
   position?: string;
 }
 
 const {
   id = 'header',
   links = [],
+  actions = [],
   isSticky = false,
   isDark = false,
   isFullWidth = false,
@@ -39,7 +38,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
 const isActive = (href?: string) => typeof href === 'string' && `/${trimSlash(href)}` === currentPath;
 
 const persistKey = `header-${Array.from(
-  JSON.stringify({ links, isSticky, isDark, isFullWidth })
+  JSON.stringify({ links, actions, isSticky, isDark, isFullWidth })
 )
   .reduce((hash, char) => (hash * 31 + char.charCodeAt(0)) >>> 0, 7)
   .toString(36)}`;
@@ -49,28 +48,21 @@ const persistKey = `header-${Array.from(
   <header
     class:list={[
       { sticky: isSticky, relative: !isSticky, dark: isDark },
-      'top-0 z-40 flex-none mx-auto w-full border-b border-gray-100 dark:border-gray-800 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm transition-[opacity] ease-in-out',
+      'top-0 z-50 flex-none mx-auto w-full border-b border-gray-100 dark:border-gray-800 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md transition-all',
     ]}
     {...isSticky ? { 'data-aw-sticky-header': true } : {}}
     {...id ? { id } : {}}
   >
-    <div class="absolute inset-0"></div>
-    <div
-      class:list={[
-        'relative text-default py-3 px-4 lg:px-8 mx-auto w-full flex items-center justify-between',
-        {
-          'max-w-7xl': !isFullWidth,
-        },
-      ]}
-    >
-      <!-- Esquerda: Logotipo e Links de Navegação -->
-      <div class="flex items-center gap-6 md:gap-8">
-        <a class="flex items-center" href={getHomePermalink()}>
-          <Logo />
-        </a>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      
+      <!-- Logotipo -->
+      <a class="flex items-center" href={getHomePermalink()}>
+        <Logo />
+      </a>
 
-        <!-- Menu de Navegação Horizontal -->
-        <nav class="hidden md:flex items-center space-x-1 text-sm font-medium">
+      <!-- Desktop: Links e Botão WhatsApp visíveis -->
+      <div class="hidden md:flex items-center gap-6">
+        <nav class="flex items-center space-x-2 text-sm font-medium">
           {
             links.map(({ text, href }) => (
               <a
@@ -85,44 +77,64 @@ const persistKey = `header-${Array.from(
             ))
           }
         </nav>
+
+        {
+          actions.map((btn) => (
+            <a
+              href={btn.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center justify-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-[#25D366] hover:bg-[#1EBE5D] active:scale-95 rounded-full shadow-md transition-all"
+            >
+              <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/></svg>
+              <span>WhatsApp</span>
+            </a>
+          ))
+        }
       </div>
 
-      <!-- Direita: Botão do WhatsApp + Menu Mobile Simples (se houver links) -->
-      <div class="flex items-center gap-3">
-        {
-          links.length > 0 && (
-            <div class="md:hidden flex items-center">
-              <select
-                aria-label="Navegação"
-                class="bg-gray-50 border border-gray-300 text-gray-900 text-xs rounded-lg p-2 dark:bg-slate-800 dark:border-slate-700 dark:text-white"
-                onchange="if (this.value) window.location.href = this.value;"
-              >
-                <option value="" disabled selected>Menu</option>
-                {links.map(({ text, href }) => (
-                  <option value={href}>{text}</option>
-                ))}
-              </select>
-            </div>
-          )
-        }
-
-        <a
-          href="https://wa.me/5519971470708?text=Ol%C3%A1%21+Vim+pelo+blog+da+Imobili%C3%A1ria+Saber+e+gostaria+de+atendimento."
-          target="_blank"
-          rel="noopener noreferrer"
-          class="inline-flex items-center justify-center gap-2 px-4 py-2 sm:px-5 sm:py-2.5 text-xs sm:text-sm font-semibold tracking-wide text-white transition-all duration-200 bg-[#25D366] hover:bg-[#1EBE5D] active:scale-95 rounded-full shadow-[0_4px_14px_0_rgba(37,211,102,0.39)] hover:shadow-[0_6px_20px_rgba(37,211,102,0.5)] cursor-pointer select-none"
-          aria-label="Falar no WhatsApp da Imobiliária Saber"
+      <!-- Mobile: Botão Hambúrguer Minimalista -->
+      <div class="flex md:hidden items-center">
+        <button
+          id="mobile-menu-button"
+          type="button"
+          class="p-2 text-gray-700 dark:text-gray-200 hover:text-green-600 focus:outline-none"
+          aria-label="Abrir Menu"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            class="w-4 h-4 sm:w-4.5 sm:h-4.5 shrink-0 text-white fill-current"
-          >
-            <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"></path>
           </svg>
-          <span class="text-white font-semibold whitespace-nowrap">WhatsApp</span>
-        </a>
+        </button>
+      </div>
+
+    </div>
+
+    <!-- Gaveta do Menu Mobile (Escondida por padrão, abre com animação suave) -->
+    <div id="mobile-menu" class="hidden md:hidden border-t border-gray-100 dark:border-gray-800 bg-white dark:bg-slate-900 px-4 pt-4 pb-6 shadow-xl">
+      <div class="flex flex-col space-y-3">
+        {
+          links.map(({ text, href }) => (
+            <a
+              href={href}
+              class="px-4 py-3 rounded-xl text-base font-medium text-default bg-gray-50 dark:bg-slate-800 hover:bg-green-50 dark:hover:bg-slate-700 hover:text-green-600 transition-colors"
+            >
+              {text}
+            </a>
+          ))
+        }
+        {
+          actions.map((btn) => (
+            <a
+              href={btn.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center justify-center gap-2 w-full py-3.5 px-4 text-base font-semibold text-white bg-[#25D366] hover:bg-[#1EBE5D] rounded-xl shadow-md transition-all mt-2"
+            >
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/></svg>
+              <span>Falar no WhatsApp</span>
+            </a>
+          ))
+        }
       </div>
     </div>
   </header>
@@ -140,6 +152,13 @@ const persistKey = `header-${Array.from(
 
     connectedCallback() {
       const header = this.querySelector<HTMLElement>('#header');
+      const menuBtn = this.querySelector<HTMLElement>('#mobile-menu-button');
+      const mobileMenu = this.querySelector<HTMLElement>('#mobile-menu');
+
+      // Alternar abertura do menu mobile
+      menuBtn?.addEventListener('click', () => {
+        mobileMenu?.classList.toggle('hidden');
+      });
 
       if (header?.hasAttribute('data-aw-sticky-header')) {
         let ticking = false;

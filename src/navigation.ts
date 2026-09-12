@@ -2,7 +2,7 @@ export const headerData = {
   links: [
     {
       text: 'Índice de Artigos',
-      href: '/all-posts',
+      href: '/blog/all-posts',
     },
   ],
   actions: [
@@ -12,11 +12,4 @@ export const headerData = {
       target: '_blank',
     },
   ],
-};
-
-export const footerData = {
-  links: [],
-  secondaryLinks: [],
-  socialLinks: [],
-  footNote: '',
 };
