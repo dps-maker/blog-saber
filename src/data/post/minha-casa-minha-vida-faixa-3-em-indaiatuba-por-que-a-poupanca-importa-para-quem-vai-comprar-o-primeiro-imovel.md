@@ -1,30 +1,16 @@
-\---
-
+---
 publishDate: 2026-09-11T23:41:10.000Z
-
 title: "Minha Casa, Minha Vida Faixa 3 em Indaiatuba: por que a poupança importa para quem vai comprar o primeiro imóvel"
-
 excerpt: "A poupança mudou e o crédito imobiliário também. Entenda o impacto para quem busca o primeiro imóvel pelo Minha Casa, Minha Vida Faixa 3."
-
-image: "\~/assets/images/default.png"
-
+image: "~/assets/images/default.png"
 category: "Insights Estratégicos"
-
 tags:
-
-&#x20; - "Indaiatuba"
-
-&#x20; - "Mercado Imobiliário"
-
-&#x20; - "Urbanismo"
-
+  - "Indaiatuba"
+  - "Mercado Imobiliário"
+  - "Urbanismo"
 metadata:
-
-&#x20; canonical: "\[https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel](https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel)"
-
-\---
-
-
+  canonical: "https://saber.imb.br/blog/minha-casa-minha-vida-faixa-3-em-indaiatuba-por-que-a-poupanca-importa-para-quem-vai-comprar-o-primeiro-imovel"
+---
 
 <h2>O dinheiro da sua poupança está diminuindo — e isso pode mudar o jogo do primeiro imóvel</h2>
 
@@ -72,17 +58,17 @@ metadata:
 
 <ul>
 
-&#x20; <li>Quanto o banco vai financiar?</li>
+  <li>Quanto o banco vai financiar?</li>
 
-&#x20; <li>Qual será a taxa de juros?</li>
+  <li>Qual será a taxa de juros?</li>
 
-&#x20; <li>Qual será o valor máximo aprovado?</li>
+  <li>Qual será o valor máximo aprovado?</li>
 
-&#x20; <li>O imóvel escolhido se enquadra na linha desejada?</li>
+  <li>O imóvel escolhido se enquadra na linha desejada?</li>
 
-&#x20; <li>Quanto sobrará da reserva depois do pagamento da entrada?</li>
+  <li>Quanto sobrará da reserva depois do pagamento da entrada?</li>
 
-&#x20; <li>O comprador terá renda suficiente para suportar a prestação?</li>
+  <li>O comprador terá renda suficiente para suportar a prestação?</li>
 
 </ul>
 
@@ -450,15 +436,15 @@ metadata:
 
 <ol>
 
-&#x20; <li><strong>A entrada está preservada?</strong> Não comprometa toda a reserva para conseguir a chave.</li>
+  <li><strong>A entrada está preservada?</strong> Não comprometa toda a reserva para conseguir a chave.</li>
 
-&#x20; <li><strong>A renda comporta a prestação?</strong> O imóvel precisa caber no orçamento depois de condomínio, IPTU, seguros, manutenção e demais despesas.</li>
+  <li><strong>A renda comporta a prestação?</strong> O imóvel precisa caber no orçamento depois de condomínio, IPTU, seguros, manutenção e demais despesas.</li>
 
-&#x20; <li><strong>O imóvel está realmente enquadrado na linha pretendida?</strong> Não presuma. Confirme.</li>
+  <li><strong>O imóvel está realmente enquadrado na linha pretendida?</strong> Não presuma. Confirme.</li>
 
-&#x20; <li><strong>A localização reduz ou aumenta seu custo diário?</strong> Cruze o endereço com seu trabalho, escola, transporte e vias principais.</li>
+  <li><strong>A localização reduz ou aumenta seu custo diário?</strong> Cruze o endereço com seu trabalho, escola, transporte e vias principais.</li>
 
-&#x20; <li><strong>Você está esperando uma taxa hipotética?</strong> Uma decisão deve ser baseada em condições concretas, não em uma previsão de internet.</li>
+  <li><strong>Você está esperando uma taxa hipotética?</strong> Uma decisão deve ser baseada em condições concretas, não em uma previsão de internet.</li>
 
 </ol>
 
@@ -586,7 +572,7 @@ metadata:
 
 <div style="text-align:center; margin: 40px 0;">  
 
-&#x20; <script async data-uid="d188d73e78" src="\[https://sabernovidades.kit.com/d188d73e78/index.js](https://sabernovidades.kit.com/d188d73e78/index.js)"></script>
+  <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 
 </div>
 
