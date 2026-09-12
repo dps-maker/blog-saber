@@ -2,11 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import path from 'path';
-import { fileURLToPath } from 'url';
-
 import { defineConfig, fontProviders } from 'astro/config';
-
 import { unified } from '@astrojs/markdown-remark';
 
 import sitemap from '@astrojs/sitemap';
@@ -18,8 +14,46 @@ import compress from 'astro-compress';
 import type { AstroIntegration } from 'astro';
 
 import astrowind from './vendor/integration';
-
 import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin } from './src/utils/frontmatter';
+
+const copySitemapToBlog = () => ({
+  name: 'copy-sitemap-to-blog',
+  hooks: {
+    'astro:build:done': async ({ dir }) => {
+      const targetDir = fileURLToPath(dir);
+      const blogSubDir = path.join(targetDir, 'blog');
+
+      if (!fs.existsSync(blogSubDir)) {
+        fs.mkdirSync(blogSubDir, { recursive: true });
+      }
+
+      const sitemap0 = path.join(targetDir, 'sitemap-0.xml');
+      const sitemapIndex = path.join(targetDir, 'sitemap-index.xml');
+      const rssFile = path.join(targetDir, 'rss.xml');
+
+      // Copia o sitemap real para dentro da pasta /blog/
+      if (fs.existsSync(sitemap0)) {
+        fs.copyFileSync(sitemap0, path.join(blogSubDir, 'sitemap.xml'));
+        fs.copyFileSync(sitemap0, path.join(blogSubDir, 'sitemap-0.xml'));
+      }
+
+      // Copia e ajusta o sitemap-index caso seja chamado
+      if (fs.existsSync(sitemapIndex)) {
+        let indexXml = fs.readFileSync(sitemapIndex, 'utf-8');
+        indexXml = indexXml.replace(
+          'https://saber.imb.br/sitemap-0.xml',
+          'https://saber.imb.br/blog/sitemap-0.xml'
+        );
+        fs.writeFileSync(path.join(blogSubDir, 'sitemap-index.xml'), indexXml, 'utf-8');
+      }
+
+      // Copia também o RSS para /blog/rss.xml
+      if (fs.existsSync(rssFile)) {
+        fs.copyFileSync(rssFile, path.join(blogSubDir, 'rss.xml'));
+      }
+    },
+  },
+});
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -30,16 +64,11 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 export default defineConfig({
   output: 'static',
 
-  // Prefetch links as they enter the viewport for snappier navigations
-  // (works together with <ClientRouter />, which enables prefetch by default).
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport',
   },
 
-  // Native Fonts API: self-hosts + subsets + preloads Inter and generates
-  // metric-adjusted fallbacks. Injected via <Font /> in Layout.astro and
-  // consumed through the `--font-inter` CSS variable in CustomStyles.astro.
   fonts: [
     {
       provider: fontProviders.fontsource(),
@@ -56,7 +85,6 @@ export default defineConfig({
     sitemap(),
     mdx(),
     icon({
-      // Local SVG icons (used as <Icon name="file-name" />) live next to the other assets.
       iconDir: 'src/assets/icons',
       include: {
         tabler: ['*'],
@@ -81,10 +109,6 @@ export default defineConfig({
     ),
 
     compress({
-      // csso off on purpose: its parser doesn't understand the media range
-      // syntax Tailwind v4 emits for breakpoints (`@media (width>=48rem)`) and
-      // silently drops every one of those blocks — the site then renders as if
-      // all `md:`/`lg:` classes were missing. lightningcss parses it correctly.
       CSS: { csso: false, lightningcss: { minify: true } },
       HTML: {
         'html-minifier-terser': {
@@ -100,25 +124,12 @@ export default defineConfig({
     astrowind({
       config: './src/config.yaml',
     }),
+
+    copySitemapToBlog(),
   ],
 
   image: {
-    // Astro's default Sharp service handles local images.
-    //
-    // Most remote CDN images (Unsplash, Cloudinary, Imgix…) are routed by
-    // src/components/common/Image.astro through `unpic`, which rewrites the
-    // URL with CDN-side query parameters and serves it straight from the
-    // provider — Astro never downloads it, so they don't need to be listed.
-    //
-    // `domains` only matters for remote URLs that fall through to Astro's
-    // native <Image /> (i.e. providers Unpic can't detect, like Pixabay).
-    // Listed entries are authorized to be processed by Sharp.
-    // Unsplash is listed so post covers can be rendered as real 1200×626 Open Graph images.
     domains: ['cdn.pixabay.com', 'images.unsplash.com'],
-
-    // Emit responsive styles for the native <Image layout=…> used by
-    // src/components/common/Image.astro (local images). Utility classes on
-    // each usage still win, since these styles use low-specificity selectors.
     responsiveStyles: true,
   },
 
@@ -128,7 +139,6 @@ export default defineConfig({
       rehypePlugins: [responsiveTablesRehypePlugin],
     }),
     shikiConfig: {
-      // Code blocks follow the site theme; see the `.astro-code` rules in tailwind.css.
       themes: { light: 'github-light', dark: 'github-dark' },
     },
   },
