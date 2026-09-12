@@ -171,11 +171,17 @@ const persistKey = `header-${Array.from(
       const header = this.querySelector<HTMLElement>('#header');
       const menuBtn = this.querySelector<HTMLElement>('#mobile-menu-button');
       const mobileMenu = this.querySelector<HTMLElement>('#mobile-menu');
+// Alternar abertura do menu mobile
+menuBtn?.addEventListener('click', () => {
+  mobileMenu?.classList.toggle('hidden');
+});
 
-      // Alternar abertura do menu mobile
-      menuBtn?.addEventListener('click', () => {
-        mobileMenu?.classList.toggle('hidden');
-      });
+// Fecha o menu mobile ao clicar em qualquer link dentro dele
+mobileMenu?.querySelectorAll('a').forEach((link) => {
+  link.addEventListener('click', () => {
+    mobileMenu.classList.add('hidden');
+  });
+});
 
       if (header?.hasAttribute('data-aw-sticky-header')) {
         let ticking = false;
