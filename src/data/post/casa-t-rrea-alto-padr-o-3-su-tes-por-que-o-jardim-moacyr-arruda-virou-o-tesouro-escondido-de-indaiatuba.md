@@ -61,5 +61,3 @@ description: "Descubra por que o Jardim Moacyr Arruda se tornou o destino favori
 <p>Inscreva-se abaixo para receber nossa seleção exclusiva de oportunidades em primeira mão.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-
-</div>

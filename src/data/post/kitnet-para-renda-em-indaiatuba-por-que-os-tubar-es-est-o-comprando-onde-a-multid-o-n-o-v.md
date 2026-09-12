@@ -127,5 +127,3 @@ description: "Descubra a matemática por trás das Kitnets em Indaiatuba. Uma an
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

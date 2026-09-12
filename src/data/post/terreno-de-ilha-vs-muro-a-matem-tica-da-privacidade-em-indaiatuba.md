@@ -4,7 +4,6 @@ publishDate: 2021-08-02T14:27:00.005Z
 description: "Análise técnica comparativa entre terrenos de ilha e perímetro em condomínios de Indaiatuba. Acústica, liquidez e segurança desmistificadas."
 ---
 
-<div>
 <h2>O Dogma do "Terreno de Ilha": Preço vs. Qualidade de Vida Real</h2>
 
 <p>No mercado imobiliário de Indaiatuba, existe uma convenção não escrita, repetida exaustivamente por corretores em fase de treinamento: <em>"Terreno de muro é ruim, terreno de ilha é ouro"</em>. Se você busca liquidez imediata, o mercado concorda. Se você busca qualidade de vida e engenharia acústica, o mercado está, frequentemente, errado.</p>
@@ -58,4 +57,3 @@ description: "Análise técnica comparativa entre terrenos de ilha e perímetro 
 <p>Não compre generalizações. Se o condomínio possui sistema de segurança perimetral ativo (sensor de corte, infravermelho e concertina monitorada), o "risco" do muro é estatisticamente irrelevante. O risco real, que afeta seu sono diário, é ter a área gourmet do vizinho a 3 metros da sua janela do quarto. Para moradia, o perímetro bem localizado (longe da portaria e de ruas externas de fluxo) oferece o melhor <em>custo de posse</em> por metro quadrado em Indaiatuba.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-</div>

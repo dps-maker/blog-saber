@@ -4,8 +4,6 @@ publishDate: 2021-06-12T14:00:00.004Z
 description: "Decodificamos o dilema da Varanda Gourmet em Indaiatuba: manter aberta ou envidraçar? Entenda os impactos na valorização, limpeza e conforto térmico."
 ---
 
-<divSegoe UI", Roboto, Helvetica, sans-serif; font-size: 19px; line-height: 1.6; max-width: 100%;">
-
 <div>
 <img alt="Varanda Gourmet em Indaiatuba" height="349" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrZ1DGtmRq3rptZkN2IKOBsdvfIpRD1aEJuAur-c6H6NeUnzkEOPiEOyFwio8_UHxivpA8Vn2hzSoR_Wft2gxQcF4ed865F_bjsxGU_p5hnrAmbrTWsIyij7UV7fdojCaXrXAGLGdj2AADRzvAH-zkrpgqXH72e0Lq6LMOTfSsLxDVwWE8W_ku6vWuWg/w640-h349/1000317655.png" width="640" />
 </div>
@@ -51,6 +49,4 @@ description: "Decodificamos o dilema da Varanda Gourmet em Indaiatuba: manter ab
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

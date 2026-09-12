@@ -4,6 +4,8 @@ publishDate: 2026-01-23T12:50:00.002Z
 description: "Resumo do dia em Indaiatuba: Guarda Civil recebe 10 novas viaturas, Saúde implanta totens de autoatendimento nas UBSs e mudanças viárias"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKvlr724DEaJRiE-IAEctNX1qAb_rw5HW3SKbSsgy0pL2lya73eohgmXxqHu9c2rTlacMGCm6ZsGc_QqH8xWuYWMBZT3Axqy1DO43564zUdJzhcdGprx-a2UIuC9nL0Rm9hvQpddvpVJgJ0-lb1xTyuPAbj-jC0SSsS6BWXcTPFvDMoQBBQaqwVMuiRE/s1248/83963f87-19a0-4545-aadb-27215cf86f98.jpg"><img alt="" border="0" width="600" data-original-height="832" data-original-width="1248" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKvlr724DEaJRiE-IAEctNX1qAb_rw5HW3SKbSsgy0pL2lya73eohgmXxqHu9c2rTlacMGCm6ZsGc_QqH8xWuYWMBZT3Axqy1DO43564zUdJzhcdGprx-a2UIuC9nL0Rm9hvQpddvpVJgJ0-lb1xTyuPAbj-jC0SSsS6BWXcTPFvDMoQBBQaqwVMuiRE/s600/83963f87-19a0-4545-aadb-27215cf86f98.jpg"/></a></div>
+
 <h2>MANCHETE DO DIA: SEGURANÇA PÚBLICA EM FOCO</h2>
 
 <p><strong>Indaiatuba recebe 10 novas viaturas para reforçar o patrulhamento preventivo da Guarda Civil</strong></p>
@@ -62,4 +64,3 @@ description: "Resumo do dia em Indaiatuba: Guarda Civil recebe 10 novas viaturas
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

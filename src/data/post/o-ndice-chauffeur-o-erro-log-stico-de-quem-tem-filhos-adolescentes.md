@@ -79,4 +79,4 @@ Não elimine os condomínios afastados se você busca paz absoluta e terrenos gr
 <li><strong>Carro Extra:</strong> Considere que, em condomínios "ilha", um carro extra para a família não é luxo, é ferramenta básica de sobrevivência assim que o primeiro filho tirar a CNH.</li>
 </ul>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

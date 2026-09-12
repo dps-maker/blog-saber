@@ -63,4 +63,4 @@ Matematicamente, o lote de fundo para APP tem um "cap" (teto) de valorização d
 Se você busca imóveis nessa configuração em Indaiatuba, o protocolo é verificar a impermeabilização dos baldrames com rigor triplicado. Verifique se o projeto de arquitetura contemplou grandes aberturas para ventilação cruzada. Sem isso, a casa vira uma estufa de mofo. Se for construir, eleve a cota do piso térreo. A natureza cobra seu preço pelo silêncio que oferece.
 </p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

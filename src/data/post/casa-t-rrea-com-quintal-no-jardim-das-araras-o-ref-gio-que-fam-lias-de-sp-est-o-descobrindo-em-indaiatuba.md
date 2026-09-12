@@ -4,6 +4,8 @@ publishDate: 2026-05-29T23:45:44.917Z
 description: "Casa térrea com quintal no Jardim das Araras: guia completo para famílias de SP que buscam qualidade de vida em Indaiatuba."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHy6WDvsKiD3_k6t8mUWox1MY2XpCqwQ2imN15F0xVuvum1wi8hudRQoDhxbkD5Cq7MsSVqOmUNIGDYB2vIY2Eim47oTcEILYGhm7ExWwn05mWkJh7hNiCI6Vk-ICPvshO52C04y9vDscTu9hNJHs_73QL6Nr-u3vVESQCxzyDsIfQGnFfrfQFCAgCnYU/s2730/Gemini_Generated_Image_mf144amf144amf14.png"><img alt="" border="0" height="600" data-original-height="2730" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHy6WDvsKiD3_k6t8mUWox1MY2XpCqwQ2imN15F0xVuvum1wi8hudRQoDhxbkD5Cq7MsSVqOmUNIGDYB2vIY2Eim47oTcEILYGhm7ExWwn05mWkJh7hNiCI6Vk-ICPvshO52C04y9vDscTu9hNJHs_73QL6Nr-u3vVESQCxzyDsIfQGnFfrfQFCAgCnYU/s600/Gemini_Generated_Image_mf144amf144amf14.png"/></a></div>
+
 <div>
 
 <p>
@@ -192,6 +194,4 @@ Se você está nessa jornada de mudança e pesquisa estratégica de imóveis, a 
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

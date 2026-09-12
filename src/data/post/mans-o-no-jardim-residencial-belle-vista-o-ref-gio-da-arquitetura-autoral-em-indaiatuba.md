@@ -63,4 +63,4 @@ description: "Descubra a privacidade real no Jardim Residencial Belle Vista. Ter
 
 <p>Este é o momento de decidir não apenas onde morar, mas <em>como</em> viver. O Jardim Residencial Belle Vista oferece o cenário; a história exclusiva quem escreve é você.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

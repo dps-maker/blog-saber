@@ -61,4 +61,4 @@ description: "Troque o medo da violência e o trânsito da capital pela seguran�
 
 <p>Para você que busca blindar a família da insegurança urbana sem abrir mão da sofisticação, Indaiatuba não é apenas uma cidade dormitório; é o destino final de quem entendeu que qualidade de vida é inegociável.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -63,4 +63,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Este bairro é para quem valoriza o tempo livre e recusa perder horas no trânsito urbano após um dia de trabalho em São Paulo.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

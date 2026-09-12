@@ -81,4 +81,3 @@ Se você busca moradia imediata, evite condomínios com menos de 30% de ocupaç�
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

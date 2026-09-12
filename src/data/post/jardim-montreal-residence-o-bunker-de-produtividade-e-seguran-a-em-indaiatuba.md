@@ -55,4 +55,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Esta localização estratégica no Jardim Montreal Residence permite que você mantenha o isolamento necessário para o "Deep Work", mas com a liberdade de acessar a cidade em minutos. É a união da segurança de um condomínio fechado com a liberdade urbana.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -60,4 +60,4 @@ li {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; margin-bo
 <h2>Veredito: Racionalidade Financeira</h2>
 <p>Adotar a energia solar em Indaiatuba não é uma questão de modismo, mas de inteligência patrimonial. Em uma cidade onde a qualidade de vida é pautada pelo conforto térmico e uso intenso de eletrônicos, a autossuficiência energética é o divisor de águas entre um imóvel passivo, que gera despesa, e um imóvel ativo, que entrega eficiência. Ao avaliar sua próxima aquisição, verifique não apenas a estética, mas a engenharia de custos que o telhado oferece.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -4,6 +4,7 @@ publishDate: 2021-08-19T18:10:00.010Z
 description: "Como a infraestrutura de saúde, educação e lazer de Indaiatuba impacta sua rotina e valoriza seu imóvel. Uma análise técnica da vida na cidade."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqdNMnKvcHfSUK_qQe_MVMUVc5byev_3r1NqlY4mmAg8Nup8zJhDqHz0N4cSTKgegm8IzVw2iLO1eHFgeX5xw5oLzaXLQfwx0T5dEAM6xXk1iX_UazpNMliwUcBThTt056xn4c9d6eN9jdY-0b4QB_YPbro8W7TQ-JoOJHMycYHAWanRoOuGvXcpRTtOM/s2400/1000320475.png"><img alt="" border="0" width="600" data-original-height="1792" data-original-width="2400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqdNMnKvcHfSUK_qQe_MVMUVc5byev_3r1NqlY4mmAg8Nup8zJhDqHz0N4cSTKgegm8IzVw2iLO1eHFgeX5xw5oLzaXLQfwx0T5dEAM6xXk1iX_UazpNMliwUcBThTt056xn4c9d6eN9jdY-0b4QB_YPbro8W7TQ-JoOJHMycYHAWanRoOuGvXcpRTtOM/s600/1000320475.png"/></a></div>
 <div>
 
 <h2>Uma Leitura Urbana: Por Que Indaiatuba Funciona?</h2>
@@ -38,6 +39,4 @@ description: "Como a infraestrutura de saúde, educação e lazer de Indaiatuba 
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

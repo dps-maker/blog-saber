@@ -103,4 +103,3 @@ Se você está buscando imóveis hoje em Indaiatuba, ajuste seu filtro. Não des
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

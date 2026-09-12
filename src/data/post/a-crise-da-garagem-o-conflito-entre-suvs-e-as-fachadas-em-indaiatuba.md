@@ -73,4 +73,3 @@ Não confie no projeto ou na frase "vaga para 2 autos". Leve uma trena para a vi
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

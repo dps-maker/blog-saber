@@ -59,4 +59,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Enquanto a inflação corrói o dinheiro parado e os lançamentos na planta sofrem com o CUB (Custo Unitário Básico) nas alturas, o imóvel pronto para reforma no Jardim Feres oferece a margem de segurança que o investidor técnico busca. É a proteção do tijolo com a agressividade do lucro na valorização forçada pela reforma.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

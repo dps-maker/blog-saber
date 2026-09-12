@@ -4,7 +4,8 @@ publishDate: 2021-08-24T23:10:00.009Z
 description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento do SAAE tornam Indaiatuba uma referência em segurança hídrica e valorização imobiliá"
 ---
 
-<divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCR9tQyO9esg_tNIgSudst8PALg68e2Br7nAeLmtywEyhjZ-U0q3l6-vkqthIw3UfFZRm0wpzgoa-hUrV_fqf_3QHZ80Mwb-4iaZI7mDybsHlji7eMDFuNn1Z85Ewlyi8TvOVfT3Rhi3eU8x6xqdiKuGcKHWL0KZVqAO0G7zAPtOyMUKc_DcyKmqjSBU/s700/CAPIVARIMIRIM.jpg"><img alt="" border="0" data-original-height="394" data-original-width="700" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCR9tQyO9esg_tNIgSudst8PALg68e2Br7nAeLmtywEyhjZ-U0q3l6-vkqthIw3UfFZRm0wpzgoa-hUrV_fqf_3QHZ80Mwb-4iaZI7mDybsHlji7eMDFuNn1Z85Ewlyi8TvOVfT3Rhi3eU8x6xqdiKuGcKHWL0KZVqAO0G7zAPtOyMUKc_DcyKmqjSBU/s600/CAPIVARIMIRIM.jpg" width="600" /></a></div>
+<div>
 
 <p>Quando analiso o potencial de uma cidade, costumo ignorar momentaneamente a beleza das praças ou a fachada dos condomínios. A verdadeira inteligência de localização começa pelo que está enterrado ou represa acima: a infraestrutura básica.</p>
 
@@ -12,7 +13,7 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 
 <p>Não estamos falando apenas de abrir a torneira e sair água. Estamos falando de um planejamento de décadas que blindou a cidade contra crises que paralisaram o crescimento de municípios vizinhos. Entender a dinâmica da água em Indaiatuba, especialmente o papel da Barragem do Rio Capivari-Mirim, é entender por que o seu imóvel aqui tende a reter valor no longo prazo.</p>
 
-<h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Por Que a Segurança Hídrica Define o Preço do Metro Quadrado</h2>
+<h2>Por Que a Segurança Hídrica Define o Preço do Metro Quadrado</h2>
 
 <p>No mercado imobiliário sério, não vendemos apenas paredes; vendemos habitabilidade futura. Uma cidade que sofre com racionamentos constantes torna-se inviável para novos comércios, indústrias e famílias.</p>
 
@@ -20,7 +21,7 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 
 <p>Isso gera um fenômeno econômico simples: a <strong>confiabilidade</strong>. Onde há certeza de abastecimento, há segurança para investir em construção civil, o que mantém o mercado aquecido e os serviços funcionando.</p>
 
-<h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Contexto e Causas: A Decisão da Barragem</h2>
+<h2>Contexto e Causas: A Decisão da Barragem</h2>
 
 <p>A construção da Barragem do Rio Capivari-Mirim não foi um acaso, foi uma leitura de cenário. O SAAE (Serviço Autônomo de Água e Esgotos) de Indaiatuba entendeu cedo que o crescimento populacional projetado para os anos 2010 e 2020 exigiria uma reserva técnica robusta.</p>
 
@@ -57,7 +58,7 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 </table>
 </div>
 
-<h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Impactos na Vida do Morador</h2>
+<h2>Impactos na Vida do Morador</h2>
 
 <p>Para quem vive aqui, essa infraestrutura "invisível" se traduz em qualidade de vida prática. Significa menos interrupções no abastecimento e uma gestão de pressão de água mais eficiente. Mas vai além do conforto doméstico.</p>
 
@@ -65,13 +66,13 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 
 <p>Além disso, o entorno da barragem e do Parque do Mirim tornou-se um ponto turístico e de lazer, provando que infraestrutura técnica e bem-estar social podem ocupar o mesmo espaço.</p>
 
-<h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Leitura de Longo Prazo: O Futuro</h2>
+<h2>Leitura de Longo Prazo: O Futuro</h2>
 
 <p>Olhando para os próximos anos, o desafio de qualquer cidade média será a resiliência climática. Eventos extremos de seca ou chuva serão mais frequentes. Indaiatuba sai na frente porque já possui o hardware (a barragem e as estações de tratamento avançadas) instalado.</p>
 
 <p>A tendência é que a cidade continue investindo em tecnologias de redução de perdas (troca de encanamentos antigos para evitar vazamentos na rua) e no reuso de água. Para o investidor ou morador, isso sinaliza uma cidade que não parou no tempo e que protege seu patrimônio contra o colapso urbano.</p>
 
-<h2Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin-bottom: 20px; margin-top: 30px; padding-bottom: 10px;">Como Usar Essa Informação a Favor da Sua Vida</h2>
+<h2>Como Usar Essa Informação a Favor da Sua Vida</h2>
 
 <p>Ao procurar um imóvel em Indaiatuba, não pergunte apenas "quantos quartos tem?". Pergunte sobre a infraestrutura da região.</p>
 
@@ -85,6 +86,4 @@ description: "Entenda por que a Barragem do Rio Capivari-Mirim e o planejamento 
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

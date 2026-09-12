@@ -4,6 +4,7 @@ publishDate: 2026-01-20T14:03:00.002Z
 description: "Descubra como a logística do Helvetia Polo Country otimiza o tempo de médicos entre o HAOC e a rotina escolar dos filhos. Silêncio e acesso rápido."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lpDMsgDcNVgBXLCjRr46CU4OpLqd9Hv0uMY13fDWm09L4JIKQ1c865bKWL5HH_cxEv5CPdppaC4H5LT4m3HUeQm0LWtUaBaCEA1fp83hFhS1hj7FvQAjShtDeUNqi29JEydmyyfgH5V3oJmZDdc2g3WJz3xEkYQmPLGu8olHiOOAoIH07oJhy-tsfGM/s2816/1000324304.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lpDMsgDcNVgBXLCjRr46CU4OpLqd9Hv0uMY13fDWm09L4JIKQ1c865bKWL5HH_cxEv5CPdppaC4H5LT4m3HUeQm0LWtUaBaCEA1fp83hFhS1hj7FvQAjShtDeUNqi29JEydmyyfgH5V3oJmZDdc2g3WJz3xEkYQmPLGu8olHiOOAoIH07oJhy-tsfGM/s600/1000324304.png"/></a></div>
 <style>
 
 .post-body h2 {
@@ -124,4 +125,4 @@ line-height: 1.6;
 
 <p>Isso significa menos tempo no trânsito e mais tempo de recuperação física e mental no silêncio da sua propriedade.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

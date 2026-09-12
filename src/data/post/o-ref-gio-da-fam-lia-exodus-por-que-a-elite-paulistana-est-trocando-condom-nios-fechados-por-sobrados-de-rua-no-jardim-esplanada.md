@@ -4,6 +4,8 @@ publishDate: 2026-05-26T01:51:00Z
 description: "Descubra como a Família Exodus encontrou segurança, alto padrão e vida urbana a pé em um sobrado moderno no Jardim Alice, Indaiatuba. Estudo de caso"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieYljGjmlWt7pfb7KZCsynHrumiCy19sWOqGLHQHhxB5HKZBRraCVYB6RKh8j-PvrYYbcF3e2ZxR6KM4G1plPoogEvOh3l1apccjC4LMfEsgC102BAeguv7gyfcnCNjyiewArIdWrLiq3u8rTkjIW44J74SkgZv-dWKn5kgaYQeVHjd5tWq4XfvVkjd5E/s2816/Gemini_Generated_Image_mwkwqpmwkwqpmwkw.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieYljGjmlWt7pfb7KZCsynHrumiCy19sWOqGLHQHhxB5HKZBRraCVYB6RKh8j-PvrYYbcF3e2ZxR6KM4G1plPoogEvOh3l1apccjC4LMfEsgC102BAeguv7gyfcnCNjyiewArIdWrLiq3u8rTkjIW44J74SkgZv-dWKn5kgaYQeVHjd5tWq4XfvVkjd5E/s600/Gemini_Generated_Image_mwkwqpmwkwqpmwkw.png"/></a></div>
+
 <h2>O Êxodo da Faria Lima: A Busca por um Lar, Não Apenas uma Fortaleza</h2>
 
 <p>A Família Exodus — nome de exemplo para uma situação comum: um casal de executivos do setor financeiro de São Paulo — chega no nosso WhatsApp com emojis exaustos. O diagnóstico é clássico: o caos da capital paulista havia esgotado as energias deles. Eles queriam qualidade de vida, segurança cibernética para o trabalho remoto e, acima de tudo, a sensação de <strong>aconchego de um verdadeiro lar</strong>.</p>
@@ -78,4 +80,3 @@ description: "Descubra como a Família Exodus encontrou segurança, alto padrão
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

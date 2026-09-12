@@ -4,8 +4,6 @@ publishDate: 2021-07-05T23:11:00.006Z
 description: "A infraestrutura de saúde em Indaiatuba não serve apenas para emergências; ela define preços. Descubra como o 'Cinturão da Saúde' afeta seu imóvel."
 ---
 
-<div>
-
 <p>Quando analisamos um mapa de calor imobiliário em Indaiatuba, a maioria dos compradores foca no óbvio: a mancha verde do Parque Ecológico ou as ilhas isoladas dos condomínios fechados. Porém, existe uma terceira mancha, invisível aos olhos destreinados, que dita uma regra de ouro para a liquidez futura: o <strong>Cinturão da Saúde</strong>.</p>
 
 <p>Durante décadas, Indaiatuba funcionou como um dormitório que dependia de Campinas ou São Paulo para procedimentos médicos complexos. Esse cenário acabou. A cidade desenvolveu uma autonomia cirúrgica e clínica que gerou o que chamamos de "efeito cluster". Bairros inteiros estão tendo seu perfil residencial alterado pela pressão da demanda médica.</p>
@@ -82,6 +80,4 @@ description: "A infraestrutura de saúde em Indaiatuba não serve apenas para em
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

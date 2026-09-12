@@ -69,4 +69,3 @@ Ao avaliar um imóvel, olhe para o telhado dos vizinhos através do Google Earth
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

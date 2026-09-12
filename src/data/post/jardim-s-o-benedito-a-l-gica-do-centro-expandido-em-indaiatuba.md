@@ -4,6 +4,8 @@ publishDate: 2021-09-03T14:42:00.009Z
 description: "Descubra o Jardim São Benedito em Indaiatuba: casas com terrenos amplos, vizinhança tradicional e logística perfeita perto do centro da cidade."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34CiZnIosbN-_aYpU5DEo58vXnRwSCaNJkjdWnSyjriAQFNkFFXLMlJseZ8_HeFxN6rk_A7KIRsDTN8-5wXoOblLMNWEHji7P6UtdklRVFViakmmdh9NQ798zpzZYj32IbofMGTiqJ3pN1zioYUK5nWc9Djze-_AT8Nw8c8bOF4FEM6VFKhazrRTp9vw/s453/1000321687.jpg"><img alt="" border="0" width="600" data-original-height="316" data-original-width="453" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34CiZnIosbN-_aYpU5DEo58vXnRwSCaNJkjdWnSyjriAQFNkFFXLMlJseZ8_HeFxN6rk_A7KIRsDTN8-5wXoOblLMNWEHji7P6UtdklRVFViakmmdh9NQ798zpzZYj32IbofMGTiqJ3pN1zioYUK5nWc9Djze-_AT8Nw8c8bOF4FEM6VFKhazrRTp9vw/s600/1000321687.jpg"/></a></div>
+
 <p>
 
 Analisar o Jardim São Benedito exige, antes de tudo, entender o conceito de "centro expandido" em Indaiatuba. Não estamos falando do caos comercial da área central, mas daquela franja residencial imediatamente vizinha, que preserva o silêncio sem abrir mão da conveniência.
@@ -130,4 +132,3 @@ O perfil ideal para este bairro é a família que prioriza espaço interno e loc
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

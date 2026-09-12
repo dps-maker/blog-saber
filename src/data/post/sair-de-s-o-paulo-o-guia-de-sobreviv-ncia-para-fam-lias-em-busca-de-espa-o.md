@@ -93,5 +93,3 @@ Sim. A cidade é cortada pela Rodovia Santos Dumont (SP-075), que te conecta a C
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

@@ -57,4 +57,4 @@ p {font-size: 19px; line-height: 1.6;}
 </table>
 </div>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

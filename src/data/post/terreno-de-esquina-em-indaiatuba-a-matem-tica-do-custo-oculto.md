@@ -4,8 +4,6 @@ publishDate: 2021-07-31T13:39:00.004Z
 description: "Análise técnica sobre a compra de lotes de esquina em Indaiatuba. Entenda como recuos duplos e custos de perímetro afetam o valor real do m²."
 ---
 
-<div>
-
 <h2>Por Que Este Tema Importa Para Indaiatuba</h2>
 <p>No mercado imobiliário tradicional, o lote de esquina é vendido como a "joia da coroa" do loteamento. Corretores inexperientes utilizam argumentos de "destaque", "imponência" e "maior ventilação". No entanto, em Indaiatuba, a aplicação rigorosa das leis de zoneamento transforma essa suposta vantagem em um desafio matemático.</p>
 <p>Quem compra um terreno de esquina em bairros como Jardim Esplanada, Park Meraki ou condomínios fechados sem fazer o cálculo da área líquida edificável está comprando, na verdade, um passivo de jardim. A cidade exige recuos frontais em ambas as faces voltadas para a rua. Isso significa que o m² útil — aquele onde você efetivamente pode construir sua sala ou quarto — é drasticamente menor do que em um lote de meio de quadra, embora o preço de venda seja frequentemente maior.</p>
@@ -61,4 +59,3 @@ description: "Análise técnica sobre a compra de lotes de esquina em Indaiatuba
 <p>Se o seu foco é eficiência, privacidade e maximização da área interna e de lazer (piscina/quintal), o lote de meio de quadra oferece uma matemática superior em Indaiatuba. Não pague ágio por uma esquina residencial a menos que o terreno seja significativamente maior para compensar as perdas obrigatórias de recuo.</p>
 
 <div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
-</div>

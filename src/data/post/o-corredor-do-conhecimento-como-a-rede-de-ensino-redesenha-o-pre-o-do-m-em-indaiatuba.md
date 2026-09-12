@@ -62,4 +62,4 @@ strong {color: #003366;}
 
 <p>Em suma, ao avaliar um imóvel, ignore o conceito abstrato de "perto de tudo". Foque na triangulação real entre residência, escola e trabalho. É nesta geometria que reside a verdadeira liquidez do ativo em Indaiatuba.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

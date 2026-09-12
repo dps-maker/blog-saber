@@ -57,4 +57,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Muitas casas antigas falham em oferecer um espaço dedicado que não seja um "quarto de hóspedes improvisado". No Quintas da Terracota, os projetos valorizam ambientes amplos e integrados. Ter um escritório bem iluminado e ventilado significa ter um local para ler, escrever, estudar ou planejar a próxima viagem. É a segurança de saber que sua casa trabalha para você, e não você para a casa.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

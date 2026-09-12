@@ -62,4 +62,4 @@ li {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; margin-bo
 <p>Comparar Indaiatuba com seus vizinhos exige olhar além da etiqueta de preço inicial. Jundiaí oferece proximidade com a capital, mas cobra alto no metro quadrado e no trânsito. Campinas tem escala global, mas traz consigo o passivo da insegurança. Sorocaba é uma potência industrial, mas com manchas urbanas descontínuas.</p>
 <p>Indaiatuba posiciona-se como o <strong>ativo de equilíbrio</strong>. Oferece alta liquidez imobiliária por ser o destino de fuga da capital, mantendo um isolamento acústico natural e uma densidade populacional que favorece a qualidade de vida. Para quem valoriza o tempo como recurso escasso, a escolha é matematicamente favorável ao nosso município.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

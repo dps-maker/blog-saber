@@ -51,4 +51,4 @@ description: "Descubra o perfil técnico do Bairro Santo Antônio: logística ur
 
 <p>Enquanto novas áreas sofrem com a volatilidade de mercado, o Santo Antônio consolidou-se como uma sólida <strong>reserva de valor</strong>. A escassez de terrenos nesta localização central gera uma liquidez constante. Adquirir um imóvel aqui não é apenas uma decisão de moradia, mas um movimento estratégico de patrimônio, protegendo o capital em um ativo real com histórico de valorização consistente.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

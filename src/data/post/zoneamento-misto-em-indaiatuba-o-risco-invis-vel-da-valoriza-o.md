@@ -48,4 +48,4 @@ description: "Entenda como a Lei de Uso e Ocupação do Solo define a paz ou o c
 <h2>Como Usar Essa Informação a Favor da Sua Vida na Cidade</h2>
 <p>Antes de assinar qualquer contrato de compra em bairro aberto em Indaiatuba, exija a <strong>Consulta Prévia de Zoneamento</strong> não só do lote que você está comprando, mas dos lotes vizinhos e da rua inteira. Não confie no "visual" atual da rua. Confie no código que rege o futuro dela. Se você trabalha de casa e precisa de silêncio, fugir das zonas mistas não é capricho, é estratégia operacional.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

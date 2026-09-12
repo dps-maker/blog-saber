@@ -83,4 +83,4 @@ A tabela abaixo não compara apenas preços, mas a <strong>natureza do gasto</st
 Em resumo, ao optar por Indaiatuba, o investidor ou morador não está apenas "gastando menos". Ele está realocando capital de despesas a fundo perdido (segurança passiva e encargos trabalhistas) para manutenção de qualidade de vida e ativos tangíveis (lazer e infraestrutura).
 </p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

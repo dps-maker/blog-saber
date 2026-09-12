@@ -58,4 +58,4 @@ description: "Análise técnica comparativa de custos fixos (OpEx) entre São Pa
 <p>A análise dos dados acima revela que morar em São Paulo impõe uma "taxa de permanência" de aproximadamente R$ 23.000,00 anuais a fundo perdido. Em 10 anos, estamos falando de R$ 230.000,00 (sem correção) drenados apenas para manter um imóvel menor funcionando.</p>
 <p>A migração para Indaiatuba não é apenas uma busca por qualidade de vida; é uma decisão de estancar a sangria financeira dos custos fixos metropolitanos. O capital economizado no OpEx (custo operacional) pode ser redirecionado para acumulação de patrimônio ou experiências, garantindo maior liquidez familiar no longo prazo.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

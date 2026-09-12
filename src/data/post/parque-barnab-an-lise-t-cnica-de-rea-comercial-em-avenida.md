@@ -4,8 +4,6 @@ publishDate: 2021-08-01T14:24:00.011Z
 description: "Estudo de viabilidade e logística para áreas comerciais no Parque Barnabé. Foco em Land Banking e vetores de crescimento em Indaiatuba."
 ---
 
-<div>
-
 <h2>1. Contexto Histórico e Urbanístico</h2>
 <p>O Parque Barnabé não deve ser analisado apenas como uma extensão residencial, mas como um ponto de convergência entre o cinturão verde do Parque Ecológico e os novos eixos de desenvolvimento comercial de Indaiatuba. Historicamente, esta região serviu de transição, mas a recente atualização do plano diretor consolidou a área como um hub misto, favorecendo a instalação de serviços e comércios de médio porte.</p>
 
@@ -48,4 +46,4 @@ description: "Estudo de viabilidade e logística para áreas comerciais no Parqu
 </table>
 </div>
 </div>
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

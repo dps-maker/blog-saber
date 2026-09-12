@@ -64,4 +64,4 @@ li {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; margin-bo
 
 <p>Não estamos falando apenas de morar, mas de alocação inteligente de recursos. Um imóvel situado em uma zona de expansão consolidada protege o capital contra a inflação e serve como uma reserva de valor robusta em cenários econômicos voláteis.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

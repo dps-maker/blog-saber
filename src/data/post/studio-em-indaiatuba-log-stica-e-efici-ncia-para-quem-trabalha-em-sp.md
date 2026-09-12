@@ -113,5 +113,3 @@ line-height: 1.6;
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

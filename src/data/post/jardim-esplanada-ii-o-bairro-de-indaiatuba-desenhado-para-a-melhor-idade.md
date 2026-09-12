@@ -67,4 +67,4 @@ description: "Cansado de escadas e da solidão? Descubra por que o Jardim Esplan
 
 <p>Morar no Jardim Esplanada II é escolher a conveniência de ter a cidade aos seus pés, sem abrir mão da tranquilidade de um bairro residencial consolidado. É a união perfeita entre a lógica financeira de valorização e o desejo emocional de viver bem, sem barreiras.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -4,6 +4,7 @@ publishDate: 2021-09-05T18:20:00.006Z
 description: "Conheça o desenho linear do Parque Aristocrático de Viracopos: um enclave residencial em Indaiatuba com privacidade natural e acesso estratégico."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD49M9BjPH_Xx-byt9If6rbaNL4RCItkqymk23nYSQcYgBaRBjPUSrNwE9FXqIk57f-SdurKdHm-pM1w6KeSKksFI126X4o-7XjrtIFEQEjRK6t_OkpH8SwEMLh4MMP4H2_S4N2cXJsxbrnAFvAcBSlcFIfyqOAe_zEgHtGK2rD9V-kOs1wtSar7OQJo0/s1536/1000322228.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD49M9BjPH_Xx-byt9If6rbaNL4RCItkqymk23nYSQcYgBaRBjPUSrNwE9FXqIk57f-SdurKdHm-pM1w6KeSKksFI126X4o-7XjrtIFEQEjRK6t_OkpH8SwEMLh4MMP4H2_S4N2cXJsxbrnAFvAcBSlcFIfyqOAe_zEgHtGK2rD9V-kOs1wtSar7OQJo0/s600/1000322228.png"/></a></div>
 <p>
 
 Indaiatuba esconde configurações urbanas que fogem do óbvio. Ao analisar a planta do <strong>Jardim Residencial Parque Aristocrático de Viracopos</strong>, nota-se imediatamente que não estamos falando de um bairro de passagem ou de uma malha aberta convencional. O desenho é linear, uma "fatia" de zoneamento residencial bem delimitada.
@@ -108,4 +109,3 @@ O Parque Aristocrático é, em essência, um bairro para quem quer ser "invisív
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

@@ -57,4 +57,4 @@ Aqui reside o filtro do investidor profissional. A ausência de elevadores nos b
 O Solar dos Girassóis não é para quem busca status. É para quem sabe fazer conta. Se o seu objetivo é blindar patrimônio com um imóvel de alta rotatividade e baixo custo operacional em Indaiatuba, este é o ativo técnico correto.
 </p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

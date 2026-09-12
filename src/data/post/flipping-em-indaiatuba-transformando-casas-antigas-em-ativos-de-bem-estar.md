@@ -93,5 +93,3 @@ description: "Descubra como investidores estão lucrando em Indaiatuba aplicando
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

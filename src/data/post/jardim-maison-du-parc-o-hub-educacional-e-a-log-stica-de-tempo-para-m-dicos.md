@@ -92,4 +92,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>A formação dos filhos, neste contexto, ganha um aliado silencioso: a autonomia. A segurança perimetral e a proximidade com escolas de excelência permitem que a logística familiar flua com menos dependência de motoristas ou transporte escolar externo.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

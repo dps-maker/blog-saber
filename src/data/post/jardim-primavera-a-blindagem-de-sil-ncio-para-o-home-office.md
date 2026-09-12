@@ -59,4 +59,4 @@ font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</st
 
 <p>Não espere a próxima queda de conexão custar um cliente importante. Sua carreira merece um endereço à altura.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -66,4 +66,4 @@ Entender o Parque Ecológico é entender a valorização dos bairros. Imóveis c
 Não tente estacionar na Av. Eng. Fábio Roberto Barnabé (Marginal) nos horários de pico. A estratégia correta para o morador inteligente é usar as ruas internas dos bairros adjacentes (como Vila Areal ou Jardim Morada do Sol, dependendo do lado) e caminhar 100 metros. Você economiza 20 minutos de stress por 2 minutos de caminhada.
 </p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

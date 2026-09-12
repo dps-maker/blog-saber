@@ -52,4 +52,4 @@ description: "Análise técnica sobre potencial comercial e land banking no Jard
 
 <p>O investidor maduro sabe que comprar bem é uma questão de tempo e posicionamento. Se você busca alocar capital em um ativo físico com liquidez atrelada à expansão urbana real, esta área no Jardim Monte Carlo é o vetor correto.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

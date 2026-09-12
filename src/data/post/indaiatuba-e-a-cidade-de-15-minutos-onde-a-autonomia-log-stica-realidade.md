@@ -4,6 +4,8 @@ publishDate: 2021-08-31T14:04:00.007Z
 description: "Descubra quais regiões de Indaiatuba permitem viver sem carro e onde a dependência é total. Uma análise de urbanismo, conveniência e fricção logística"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSdeAWpMYGUP3ElmTI7DEkLm3EZhL05_snD8ibanVRmmKS8McGqW2OIIpzUCpjbFzhmsThMwbewHbcSGS-2V_nf9i1RrMyQSuq6MWgzXzum8mdPFoUIrWGt4bNo6x0ZmwQS3ngEsQ6yTnZWLs-_OLGOJqFtaarjXMH_ARVaGW8hufV6q5UvLv3iOoU_VQ/s1536/ChatGPT%20Image%2016%20de%20jan.%20de%202026,%2020_08_06.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSdeAWpMYGUP3ElmTI7DEkLm3EZhL05_snD8ibanVRmmKS8McGqW2OIIpzUCpjbFzhmsThMwbewHbcSGS-2V_nf9i1RrMyQSuq6MWgzXzum8mdPFoUIrWGt4bNo6x0ZmwQS3ngEsQ6yTnZWLs-_OLGOJqFtaarjXMH_ARVaGW8hufV6q5UvLv3iOoU_VQ/s600/ChatGPT%20Image%2016%20de%20jan.%20de%202026,%2020_08_06.png"/></a></div>
+
 <div>
 
 <h2>Por Que a "Distância a Pé" Define o Novo Luxo</h2>
@@ -128,6 +130,4 @@ description: "Descubra quais regiões de Indaiatuba permitem viver sem carro e o
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

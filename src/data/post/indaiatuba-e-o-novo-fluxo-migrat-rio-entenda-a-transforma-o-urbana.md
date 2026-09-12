@@ -4,6 +4,7 @@ publishDate: 2021-08-22T22:08:00.009Z
 description: "Entenda como a migração e o crescimento urbano estão transformando Indaiatuba. Uma análise sobre mobilidade, valorização e o futuro da cidade."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeDcpRPTuEglV38paC5bgxuKFAt8zcIyKHUJR1LFBP50pq1r1Vbea3hzmKAw3drBcMnGykiZMkWnHaGN1cuFj3HIi8CpE7gpy0jaBvtD-d6bGTpoMS0FROuyOKsq0hcBVPx-IxdnLaqy52AMYAXpY0A1ch4WBM8o9wSBHwFeJExWOCdjUz116y-Sxq7p0/s2752/PARQUE%20ECOL%C3%93GICO.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2752" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeDcpRPTuEglV38paC5bgxuKFAt8zcIyKHUJR1LFBP50pq1r1Vbea3hzmKAw3drBcMnGykiZMkWnHaGN1cuFj3HIi8CpE7gpy0jaBvtD-d6bGTpoMS0FROuyOKsq0hcBVPx-IxdnLaqy52AMYAXpY0A1ch4WBM8o9wSBHwFeJExWOCdjUz116y-Sxq7p0/s600/PARQUE%20ECOL%C3%93GICO.png"/></a></div>
 <h2>Por Que o "Boom" de Indaiatuba Importa Agora</h2>
 
 <p>
@@ -89,4 +90,3 @@ Você não está apenas escolhendo um teto; está escolhendo como vai interagir 
 </p>
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

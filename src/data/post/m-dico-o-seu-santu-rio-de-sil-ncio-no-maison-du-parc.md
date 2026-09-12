@@ -66,4 +66,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>Para quem lida com a fragilidade da vida todos os dias, viver bem não é opcional. É mandatório.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

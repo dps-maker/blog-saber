@@ -65,4 +65,4 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 
 <p>Entender o Plano Diretor é vacinar sua carteira imobiliária contra a obsolescência. Indaiatuba escolheu não ser uma selva de pedra, e essa escolha política e urbanística tem um preço de mercado. Ao buscar seu próximo ativo, ignore o ruído do marketing de curto prazo e olhe para o mapa de zoneamento. Onde a cidade permite crescer? Onde ela proíbe? É nas entrelinhas dessas regras que mora a verdadeira proteção patrimonial.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

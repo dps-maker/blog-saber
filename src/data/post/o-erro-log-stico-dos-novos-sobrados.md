@@ -69,4 +69,3 @@ Ao visitar um imóvel, faça o "teste do lixo": imagine o trajeto do saco de lix
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

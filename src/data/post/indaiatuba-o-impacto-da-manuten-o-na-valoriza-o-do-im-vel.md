@@ -4,7 +4,8 @@ publishDate: 2021-06-14T04:10:00.004Z
 description: "O solo e o clima de Indaiatuba exigem escolhas inteligentes. Descubra como acabamentos certos reduzem a manutenção e aumentam a valorização da sua cas"
 ---
 
-<divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjClViQqfUxholfIFRzAplQCxWZ8S3K-QJXJJoroEb36IympCOOUMiF3Rbjq1TFBapO-9X2Fap0bCwgWDIhZbKdBbXr0rHJymxq5LHfUQ6LyRFlyV3p0Yp4xFZp5aO8OiHzGsQV714IKIpTS_Wm_wLW-lIbmmwrMDMBwPZKBuxP7t7wOED5-8hMexqmeiY/s2816/1000317659.png"><img border="0" data-original-height="1536" data-original-width="2816" height="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjClViQqfUxholfIFRzAplQCxWZ8S3K-QJXJJoroEb36IympCOOUMiF3Rbjq1TFBapO-9X2Fap0bCwgWDIhZbKdBbXr0rHJymxq5LHfUQ6LyRFlyV3p0Yp4xFZp5aO8OiHzGsQV714IKIpTS_Wm_wLW-lIbmmwrMDMBwPZKBuxP7t7wOED5-8hMexqmeiY/w640-h350/1000317659.png" width="640" /></a></div>
+<div>
 
 <p>Morar em Indaiatuba é sinônimo de qualidade de vida, mas quem estuda a dinâmica da cidade sabe: o microclima local impõe desafios específicos. Seja pela característica de solo (a famosa terra roxa das regiões em expansão) ou pela umidade natural próxima aos lagos do Parque Ecológico, o "sonho da casa perfeita" exige pragmatismo.</p>
 
@@ -36,6 +37,4 @@ description: "O solo e o clima de Indaiatuba exigem escolhas inteligentes. Descu
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

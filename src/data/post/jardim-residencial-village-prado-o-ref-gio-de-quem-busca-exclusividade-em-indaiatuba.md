@@ -65,4 +65,4 @@ description: "Cansado de condomínios padronizados e sem privacidade? Descubra o
 
 <p>Para quem busca fugir do lugar-comum e da arquitetura "copiar e colar", este bairro oferece a "tela em branco" perfeita: terrenos que permitem projetos autorais, sem a sensação de estar sendo vigiado. É o resgate do orgulho de morar em uma casa que tem a sua assinatura, em um endereço que dispensa apresentações.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

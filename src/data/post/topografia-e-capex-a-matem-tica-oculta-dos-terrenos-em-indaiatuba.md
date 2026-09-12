@@ -4,7 +4,8 @@ publishDate: 2021-06-26T06:40:00.004Z
 description: "O lote mais barato pode ser o mais caro de construir. Entenda como a topografia, arrimo e sondagem impactam o custo final da sua obra em Indaiatuba."
 ---
 
-<divSegoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; line-height: 1.6; margin: 0px auto; max-width: 800px;">
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPo-HRl8DItpA7Y2uglvyWznhInZ57NIc62OK8qnW5WUuN_vWU1UZ6KNUPK_6v6s9_8sy59cLYCQqZPYBFgIURGevKq0hS6mmWHbokfLPFC1frZQDEafn0OpnyiLNkglWJhdjOe3fyCYUQtVVlpVH_FHBV6fat1IiriVR3sBvBwJtFxOJTCkcDcp8FTmY/s1536/1000317683.png"><img border="0" data-original-height="1024" data-original-width="1536" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPo-HRl8DItpA7Y2uglvyWznhInZ57NIc62OK8qnW5WUuN_vWU1UZ6KNUPK_6v6s9_8sy59cLYCQqZPYBFgIURGevKq0hS6mmWHbokfLPFC1frZQDEafn0OpnyiLNkglWJhdjOe3fyCYUQtVVlpVH_FHBV6fat1IiriVR3sBvBwJtFxOJTCkcDcp8FTmY/w640-h426/1000317683.png" width="640" /></a></div><div></div>
+<div>
 
 <p>No mercado imobiliário de Indaiatuba, existe uma métrica que separa investidores experientes de compradores amadores: o <strong>Custo de Preparação do Solo</strong>. Frequentemente, o valor nominal do lote (preço de vitrine) é apenas a "taxa de entrada". A variável que determinará se o seu projeto será um ativo líquido ou um passivo em obra parada é o que acontece antes do primeiro tijolo: terraplanagem, contenção e fundações especiais.</p>
 
@@ -50,6 +51,4 @@ Em áreas próximas a vales (comuns perto do Parque Ecológico), o lençol freá
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

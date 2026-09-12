@@ -4,6 +4,8 @@ publishDate: 2021-09-04T17:16:00.011Z
 description: "Descubra a lógica oculta que impede Indaiatuba de virar uma selva de pedra e como o controle de verticalização protege o valor e o sol do seu imóvel."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmROTcj4RFZd0pq3fU4wqnY3YHpSsVYCEJQ9QcN5pweOp5Gm0lC0YIATqrH3IGWrujqJA2t9FWtWcPSfRjgKmtmklWzL6lPf3_8bZ62qcPnMjpkvaWNvJfY6cHBeaouI0jubJXARa8S2uMAncey89AvP36krzikj1hOeOWYubu-Gudd5uzKypKiys5_H8/s1536/1000322214.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmROTcj4RFZd0pq3fU4wqnY3YHpSsVYCEJQ9QcN5pweOp5Gm0lC0YIATqrH3IGWrujqJA2t9FWtWcPSfRjgKmtmklWzL6lPf3_8bZ62qcPnMjpkvaWNvJfY6cHBeaouI0jubJXARa8S2uMAncey89AvP36krzikj1hOeOWYubu-Gudd5uzKypKiys5_H8/s600/1000322214.png"/></a></div>
+
 <p>
 
 Quem chega de grandes metrópoles costuma ter uma sensação visual imediata ao entrar em Indaiatuba: o céu parece maior. Não é uma ilusão de ótica, nem apenas poesia. É o resultado prático de um urbanismo que luta — às vezes silenciosamente — contra a verticalização desenfreada que engoliu cidades vizinhas como Campinas ou partes de São Paulo.
@@ -182,4 +184,3 @@ Em Indaiatuba, a inteligência de localização significa prever o que ainda nã
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

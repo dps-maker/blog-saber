@@ -4,6 +4,8 @@ publishDate: 2021-08-28T12:35:00.019Z
 description: "Descubra como o Aeroporto de Viracopos afeta a vida em Indaiatuba: zonas de ruído, tempo de deslocamento real e a valorização de bairros estratégicos."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm6TYg7Ip20lwL2CVB1naJ1VMilpILMLZfgfs9_kG8qTF2g2DIZEcK5lADoD_OatLQG-ElDeo8KYx3pzsFJwnp6B_rNkRTUGlpGs0kN5IhuVQuRae-r54TPC3Dk6qyrCFymj_4S6oAh7483Xw1WvrgMhRtcjw7jiIQ8VLXQ4Hlhunm3ZjctTCql-Q7SCk/s2048/Gemini_Generated_Image_9xo0509xo0509xo0.png"><img alt="" border="0" width="600" data-original-height="2048" data-original-width="2048" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm6TYg7Ip20lwL2CVB1naJ1VMilpILMLZfgfs9_kG8qTF2g2DIZEcK5lADoD_OatLQG-ElDeo8KYx3pzsFJwnp6B_rNkRTUGlpGs0kN5IhuVQuRae-r54TPC3Dk6qyrCFymj_4S6oAh7483Xw1WvrgMhRtcjw7jiIQ8VLXQ4Hlhunm3ZjctTCql-Q7SCk/s600/Gemini_Generated_Image_9xo0509xo0509xo0.png"/></a></div>
+
 <div>
 
 <h2>Por Que Este Tema Importa Para Indaiatuba</h2>
@@ -69,6 +71,4 @@ description: "Descubra como o Aeroporto de Viracopos afeta a vida em Indaiatuba:
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

@@ -69,4 +69,4 @@ description: "Comparativo técnico entre Sorocaba e Indaiatuba. Entenda as difer
 </table>
 </div>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

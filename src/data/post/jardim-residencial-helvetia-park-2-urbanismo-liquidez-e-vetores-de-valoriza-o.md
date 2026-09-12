@@ -51,4 +51,4 @@ description: "Análise técnica do Helvetia Park 2 em Indaiatuba. Logística, se
 <h2>4. O "Segredo" do Bairro</h2>
 <p>O verdadeiro diferencial técnico deste empreendimento é a sua <strong>autossuficiência parcial</strong> combinada com a <strong>liquidez</strong>. A existência de um <em>Mini Market</em> interno e a diversidade de equipamentos esportivos (incomum até para o alto padrão) criam uma microeconomia interna que valoriza o metro quadrado acima da média da região. É um ativo resiliente a oscilações de mercado.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -63,5 +63,3 @@ description: "Descubra como a matemática financeira valida o investimento no Vi
 </table>
 </div>
 <p>Investir no Village Azaleia não é apenas comprar metros quadrados; é adquirir uma posição estratégica em um mercado que não para de crescer.</p>
-
-</div>

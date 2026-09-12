@@ -72,4 +72,4 @@ description: "Descubra como montar um jardim resistente ao sol de Indaiatuba. Es
 </table>
 </div>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

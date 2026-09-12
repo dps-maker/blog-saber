@@ -4,8 +4,6 @@ publishDate: 2021-07-08T00:24:00.008Z
 description: "Análise sobre como o desenho urbano de ruas sem saída (cul-de-sacs) em Indaiatuba gera valorização imobiliária superior e segurança passiva."
 ---
 
-<div>
-
 <h2>1. Por Que Este Tema Importa Para Indaiatuba</h2>
 <p>Quando se analisa o mapa de calor da valorização imobiliária em Indaiatuba, nota-se um fenômeno curioso fora dos muros dos condomínios fechados. Existe um prêmio de preço pago por imóveis situados em "bairros de bolso" ou em ruas sem saída planejadas. Não se trata apenas de silêncio, mas de uma aplicação prática do conceito de <em>espaço defensável</em>.</p>
 <p>Em uma cidade onde a migração busca, primariamente, segurança, o desenho urbano (morfologia) que desestimula o fluxo de passagem torna-se um ativo financeiro. O comprador que entende essa dinâmica paga pelo imóvel, mas leva a "portaria invisível" gerada pelo urbanismo inteligente.</p>
@@ -57,6 +55,4 @@ description: "Análise sobre como o desenho urbano de ruas sem saída (cul-de-sa
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

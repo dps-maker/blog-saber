@@ -4,7 +4,7 @@ publishDate: 2021-06-30T08:15:00.003Z
 description: "Não foque apenas no imóvel: foque na segurança. Entenda como a Due Diligence e o Valuation protegem seu patrimônio na compra de imóveis em Indaiatuba."
 ---
 
-<divSegoe UI", Roboto, Helvetica, sans-serif; font-size: 19px; line-height: 1.6; padding: 0px 10px;">
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUvozB4cM2Aa8ZixSkBA39mTPZmZd6Q-VDgfNzqEmefegWEDnPsrHGi3UCiDepYzaa-hxtgQVcvKq09ZOX_zurDRXdy4FYXp9wZ28pnxZro-bdnY5I1Qlj3nBmUkwPZ_eNUkrss0MHeyOVvL7n6cD_EnMoMOa193ipBJu1zZLHrbH03M0y1PBvrrf-mVA/s1280/1000317746.jpg"><img border="0" data-original-height="720" data-original-width="1280" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUvozB4cM2Aa8ZixSkBA39mTPZmZd6Q-VDgfNzqEmefegWEDnPsrHGi3UCiDepYzaa-hxtgQVcvKq09ZOX_zurDRXdy4FYXp9wZ28pnxZro-bdnY5I1Qlj3nBmUkwPZ_eNUkrss0MHeyOVvL7n6cD_EnMoMOa193ipBJu1zZLHrbH03M0y1PBvrrf-mVA/w640-h360/1000317746.jpg" width="640" /></a></div><div>
 
 <p>A decisão de adquirir um imóvel representa, estatisticamente, a maior movimentação financeira na vida de uma família ou investidor. No entanto, o mercado local apresenta um padrão comportamental perigoso: compradores focam 90% da energia no "tijolo" (visitas, estética, acabamentos) e negligenciam a <strong>engenharia jurídica</strong> da transação.</p>
 
@@ -42,6 +42,4 @@ description: "Não foque apenas no imóvel: foque na segurança. Entenda como a 
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

@@ -60,4 +60,4 @@ A tranquilidade técnica do Vale das Laranjeiras é assegurada por um sistema de
 O verdadeiro diferencial aqui é a liquidez oculta. Enquanto muitas áreas rurais sofrem com a desvalorização pela distância, o Vale das Laranjeiras se beneficia do vetor de crescimento urbano que segue a SP-075. Comprar aqui não é apenas consumo de lazer; é um posicionamento estratégico em uma área onde a demanda por grandes metragens com segurança continua superando a oferta.
 </p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

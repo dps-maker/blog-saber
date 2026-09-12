@@ -4,8 +4,6 @@ publishDate: 2021-07-11T00:52:00.005Z
 description: "Entenda como a legislação de recuos laterais em Indaiatuba define a privacidade, a ventilação e a valorização real dos imóveis na cidade."
 ---
 
-<div>
-
 <p>Quem vem de grandes metrópoles, especialmente de bairros antigos de São Paulo ou Campinas, costuma ter uma sensação difícil de explicar ao visitar imóveis em Indaiatuba: a cidade "respira". Não é apenas a quantidade de árvores ou a largura das ruas. Existe um código invisível, uma regra matemática no Plano Diretor que impede que a cidade se torne um aglomerado de concreto sufocante.</p>
 
 <p>Estamos falando da legislação de <strong>recuos laterais e taxa de ocupação</strong>. Enquanto em muitas cidades o padrão construtivo "parede com parede" (geminado total) foi a regra por décadas, Indaiatuba consolidou uma cultura urbanística onde o "vazio" entre as construções vale tanto quanto a área construída.</p>
@@ -66,6 +64,4 @@ description: "Entenda como a legislação de recuos laterais em Indaiatuba defin
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

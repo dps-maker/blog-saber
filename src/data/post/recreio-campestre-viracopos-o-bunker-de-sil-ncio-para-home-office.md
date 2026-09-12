@@ -63,4 +63,4 @@ Você não está isolado do mundo. A logística de Indaiatuba permite que você 
 <h2>O Veredito para Nômades</h2>
 <p>Se você busca agito urbano na porta de casa, este bairro não é para você. Mas se o seu desejo secreto é um escritório com vista verde, silêncio absoluto para reuniões importantes e espaço para respirar, o <strong>Recreio Campestre Viracopos</strong> é o seu próximo QG estratégico.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

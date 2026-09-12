@@ -62,4 +62,4 @@ font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</st
 
 <p>O medo de perder qualidade de vida muitas vezes nos paralisa em imóveis que não nos servem mais. A modernidade deste apartamento não está apenas no acabamento, mas na liberdade que ele proporciona. É a diferença entre chegar em casa exausto ou chegar a tempo de viver a cidade.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

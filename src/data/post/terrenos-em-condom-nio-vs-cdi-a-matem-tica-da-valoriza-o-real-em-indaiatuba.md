@@ -4,6 +4,7 @@ publishDate: 2026-01-22T09:00:00Z
 description: "Análise para investidores: compare a rentabilidade real de terrenos em condomínio em Indaiatuba versus o CDI projetado para 2026. Dados de vacância e"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVi1bTTrfMVPtiHY82Egcra4Zh88RAVj1aNTLskLgmnmU6KvxJWWifGjBvDC6Hoi-t5VJINYOjbiwonJSCrHEFjjOsmRh3LR5Z6c8BM7VHu7GSOf2lkVIbspFcnSdApQMOQ-H0DnTpQ-JbSh4U4-wfUP2TCcPpjVLQ1DedzBScA6-5qZKUeXITy-63LE/s2816/1000324924.png"><img alt="" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVi1bTTrfMVPtiHY82Egcra4Zh88RAVj1aNTLskLgmnmU6KvxJWWifGjBvDC6Hoi-t5VJINYOjbiwonJSCrHEFjjOsmRh3LR5Z6c8BM7VHu7GSOf2lkVIbspFcnSdApQMOQ-H0DnTpQ-JbSh4U4-wfUP2TCcPpjVLQ1DedzBScA6-5qZKUeXITy-63LE/s600/1000324924.png"/></a></div>
 <style>
 
 .post-body h2 { color: #003366; font-family: 'Segoe UI', Arial, sans-serif; }
@@ -119,5 +120,3 @@ description: "Análise para investidores: compare a rentabilidade real de terren
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

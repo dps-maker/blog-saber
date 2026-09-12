@@ -57,4 +57,4 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 </table>
 </div>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

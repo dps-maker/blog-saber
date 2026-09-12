@@ -59,4 +59,4 @@ p {font-family: 'Segoe UI', sans-serif; font-size: 19px; color: #333; line-heigh
 
 <p>A decisão de mudar não deve ser pautada em romantismos, mas na análise fria do custo-benefício. Indaiatuba se posiciona como um ativo imobiliário resiliente porque entrega uma infraestrutura de capital com o custo operacional de interior. Para quem busca proteger o patrimônio da erosão inflacionária dos grandes centros, esta é a manobra fiscal mais inteligente para a próxima década.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

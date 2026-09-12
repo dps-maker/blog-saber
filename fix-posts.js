@@ -1,6 +1,6 @@
 /**
  * fix-posts.js  (ES Module)
- * Limpa HTML quebrado / lixo de migração Blogger nos posts do Astro.
+ * Corrige tags HTML quebradas da migração Blogger.
  *
  * Uso:
  *   node fix-posts.js --dry-run
@@ -26,44 +26,37 @@ if (!fs.existsSync(POSTS_DIR)) {
   process.exit(1);
 }
 
-function unescapeHtml(html) {
-  return html
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&amp;/g, '&');
-}
-
 function cleanBody(body) {
   let content = body;
 
-  // 1. Desescapar se estiver com entidades
-  if (content.includes('&lt;') && content.includes('&gt;')) {
-    content = unescapeHtml(content);
-  }
+  // 1. Corrigir tags quebradas do tipo:
+  //    <pSegoe UI", Roboto, ...">  →  <p>
+  //    <h2Segoe UI", ...">         →  <h2>
+  //    <ulSegoe UI", ...">         →  <ul>
+  //    <tableSegoe UI", ...">      →  <table>
+  content = content.replace(
+    /<(p|h[1-6]|ul|ol|li|div|table|thead|tbody|tr|th|td|span|strong|em|a|blockquote)([^>]*?)Segoe UI[^>]*>/gi,
+    '<$1>'
+  );
 
-  // 2. Remover scripts JSON-LD (schema.org) — o tema já gera o correto
+  // 2. Remover atributos style quebrados que sobraram em tags válidas
+  //    Ex: <p style="font-family: Segoe UI..."> já está ok, não mexe
+  //    Só remove o lixo que ficou solto
+
+  // 3. Remover JSON-LD (o tema já gera o schema correto)
   content = content.replace(
     /<script\s+type=["']application\/ld\+json["'][\s\S]*?<\/script>/gi,
     ''
   );
 
-  // 3. NÃO remover scripts do Kit (formulário de e-mail)
-  // (bloco removido de propósito)
+  // 4. NÃO remover scripts do Kit
+  // 5. NÃO remover div.separator (imagens)
 
-  // 4. Remover <div class="separator"> ... </div> (imagens do Blogger)
-  //    Se quiser MANTER as imagens, comente este bloco
-  content = content.replace(
-    /<div\s+class=["']separator["'][\s\S]*?<\/div>/gi,
-    ''
-  );
+  // 6. Remover </div> ou <div> soltos no início/fim que sobraram da migração
+  content = content.replace(/^\s*<\/?div>\s*/i, '');
+  content = content.replace(/\s*<\/?div>\s*$/i, '');
 
-  // 5. Remover divs vazios
-  content = content.replace(/<div>\s*<\/div>/gi, '');
-  content = content.replace(/<div>\s*<div>\s*<\/div>\s*<\/div>/gi, '');
-
-  // 6. Limpar espaços em excesso
+  // 7. Limpar muitas linhas em branco
   content = content.replace(/\n{3,}/g, '\n\n').trim();
 
   return content;

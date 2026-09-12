@@ -4,6 +4,8 @@ publishDate: 2021-10-07T03:12:00.007Z
 description: "Cansado de vizinhos barulhentos? Descubra a matemática do silêncio e por que a elite usa apartamentos em Indaiatuba como bunkers de produtividade."
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8edf8unjUXhIS0_ihbJ5CQzzLks7urkNg0Tm2C3Cc9p-f9tMIL9fPTh55Pn4Iz1mdoBr8WD2Frpr1h9F88NDFPVVKYH8GUzPLGoaqhnWUKuWWHkQbCTTzRGTPGAwEi1vRq56KudjqkM0Oe5jr-dbwRy_l6k1hCc-9hmqGLHPECd7cQqY4rpxizGacCR0/s1536/ChatGPT%20Image%2022%20de%20jan.%20de%202026,%2000_13_55.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8edf8unjUXhIS0_ihbJ5CQzzLks7urkNg0Tm2C3Cc9p-f9tMIL9fPTh55Pn4Iz1mdoBr8WD2Frpr1h9F88NDFPVVKYH8GUzPLGoaqhnWUKuWWHkQbCTTzRGTPGAwEi1vRq56KudjqkM0Oe5jr-dbwRy_l6k1hCc-9hmqGLHPECd7cQqY4rpxizGacCR0/s600/ChatGPT%20Image%2022%20de%20jan.%20de%202026,%2000_13_55.png"/></a></div>
+
 <style>
 .post-body h2 { color: #003366; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }
 .post-body h3 { color: #cc0000; margin-top: 20px; }
@@ -90,6 +92,4 @@ description: "Cansado de vizinhos barulhentos? Descubra a matemática do silênc
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

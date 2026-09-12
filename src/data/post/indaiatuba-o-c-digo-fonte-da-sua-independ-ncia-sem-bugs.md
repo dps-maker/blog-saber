@@ -103,5 +103,3 @@ description: "Pare de pagar a 'assinatura' do aluguel. Descubra como apartamento
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

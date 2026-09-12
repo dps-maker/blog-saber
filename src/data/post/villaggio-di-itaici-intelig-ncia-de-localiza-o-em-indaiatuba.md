@@ -40,4 +40,4 @@ description: "Análise técnica do condomínio Villaggio di Itaici. Logística, 
 <h2>O "Segredo" do Bairro</h2>
 <p>O diferencial técnico aqui é o microclima. A preservação da mata nativa na região de Itaici reduz a temperatura média em comparação ao centro urbano. Adquirir um imóvel aqui é investir em conforto térmico passivo e em um ativo imobiliário que se valoriza pela escassez de áreas verdes reais em zonas urbanas.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

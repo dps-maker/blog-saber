@@ -61,4 +61,4 @@ description: "Análise técnica do Jardim Olinda em Indaiatuba. Logística, perf
 
 <p>Se você busca autonomia, espaço físico real e uma vizinhança que respeita o silêncio sem precisar de regulamento interno para isso, o Jardim Olinda é a resposta técnica para sua demanda de moradia.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

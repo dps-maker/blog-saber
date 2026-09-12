@@ -55,4 +55,4 @@ font-family: 'Segoe UI', sans-serif;} p {font-size: 19px; line-height: 1.6;}</st
 <h2>Isso é um investimento seguro ou apenas especulação?</h2><p>Segurança total é o gatilho aqui. O American Park Empresarial não é uma promessa, é uma realidade consolidada em Indaiatuba. Para um investidor ou empresário, adquirir um terreno industrial nesta localização significa proteger capital em um ativo de alta liquidez e demanda constante.</p>
 <p>Você não está apenas comprando terra; está comprando eficiência operacional e valorização garantida pelo vetor de crescimento da cidade.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

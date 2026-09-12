@@ -4,6 +4,8 @@ publishDate: 2026-01-21T19:02:14.301Z
 description: "Enquanto a insegurança preocupa grandes centros em 2026, Indaiatuba se consolida como uma das cidades mais seguras do Brasil e avança com obras"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGEuc3JyapqQmxnv6XMf-z47MI2YpUuSzSAEiE23DDxXe5A9yYByUxN9Pdc_9mnvSrxZz0U2ZmeaYTObyelOBaeB1arMe8Pzv5ntY12f3QBj_udbrqhxutFMQIJuz16ieih7o-lx8jGzU40LFveJCvBol_Tp1xVEU-qO8-hs9l7DbTDSbIE0yqrFIA2w8/s1536/ChatGPT%20Image%2021%20de%20jan.%20de%202026,%2016_11_22.png"><img alt="" border="0" width="600" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGEuc3JyapqQmxnv6XMf-z47MI2YpUuSzSAEiE23DDxXe5A9yYByUxN9Pdc_9mnvSrxZz0U2ZmeaYTObyelOBaeB1arMe8Pzv5ntY12f3QBj_udbrqhxutFMQIJuz16ieih7o-lx8jGzU40LFveJCvBol_Tp1xVEU-qO8-hs9l7DbTDSbIE0yqrFIA2w8/s600/ChatGPT%20Image%2021%20de%20jan.%20de%202026,%2016_11_22.png"/></a></div>
+
 <style>
 .post-body h2 { color: #2c3e50; font-family: 'Georgia', serif; border-bottom: 2px solid #eee; padding-bottom: 10px; }
 .post-body h3 { color: #003366; font-family: 'Segoe UI', Arial, sans-serif; margin-top: 25px; }
@@ -35,6 +37,4 @@ description: "Enquanto a insegurança preocupa grandes centros em 2026, Indaiatu
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>
-
 </div>

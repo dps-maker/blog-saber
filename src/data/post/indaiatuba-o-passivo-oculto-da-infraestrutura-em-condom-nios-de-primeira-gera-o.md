@@ -58,4 +58,4 @@ description: "Descubra o ciclo de vida oculto da infraestrutura dos condomínios
 <li>Pergunte sobre o "Fundo de Reserva". Se estiver zerado ou baixo em um condomínio de 20 anos, prepare a carteira: a conta vai chegar na sua mão.</li>
 </ol>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

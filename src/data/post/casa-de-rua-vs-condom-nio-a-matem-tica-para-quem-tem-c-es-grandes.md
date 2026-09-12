@@ -56,4 +56,4 @@ p {font-size: 19px; line-height: 1.6;}
 
 <p>A decisão racional envolve colocar na ponta do lápis: o valor que se paga por "segurança percebida" em condomínios versus a liberdade real e o espaço físico superior de uma casa de rua bem localizada. Para quem tem animais de grande porte, cada metro quadrado de gramado vale ouro.</p>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

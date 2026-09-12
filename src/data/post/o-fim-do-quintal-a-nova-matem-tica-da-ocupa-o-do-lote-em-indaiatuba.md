@@ -73,4 +73,3 @@ Ao avaliar um imóvel em Indaiatuba, ignore a "maquiagem" do porcelanato. Olhe p
 
 <div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-</div>

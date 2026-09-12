@@ -65,4 +65,4 @@ Este ativo destina-se ao investidor que compreende que a localização não é a
 </table>
 </div>
 
-<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

@@ -52,4 +52,4 @@ description: "Comparativo técnico entre apartamento e casa com quintal para cã
 <h2>Veredito / Comparativo</h2>
 <p>O que seu cachorro prefere não é o CEP, é a rotina. Apartamento com passeios vence quintal sem estímulo. Quintal com estímulo vence apartamento sem passeio. A variável decisiva é você.</p>
 
-<div><script async="" data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script></div>
+<div><script async="" data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>

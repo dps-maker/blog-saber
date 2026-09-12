@@ -307,5 +307,3 @@ metadata:
 <div style="text-align:center; margin: 40px 0;">  
 
   <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>

@@ -111,5 +111,3 @@ description: "Cansado da insegurança de SP? Descubra a nova arquitetura do Jard
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 
 </div>
-
-</div>

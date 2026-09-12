@@ -4,6 +4,8 @@ publishDate: 2026-01-25T22:27:00.002Z
 description: "Perguntas e respostas decisivas sobre a última mansão pronta para morar em Indaiatuba. Descubra por que a elite de SP está migrando hoje para este ref"
 ---
 
+<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWWN1Lt0O5J3t2HUKErpMfBeSA_ZNyvrK2-jrZBuapxeXQAYSCjb5akeYEQo8M-edEfpaafvlI1u7YCbrpSzKbXGGQfwyBCOv8MSHeC7bXy8VdCbqEcctRxSUXEOI1ZxF1jeZQgtU9d48pLjzL-ofxBQs2_ArrZEtJ9vGOj2Ehw7FZvyrKJBndwDVcZhI/s2448/1000328848.png"><img alt="" border="0" width="600" data-original-height="1376" data-original-width="2448" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWWN1Lt0O5J3t2HUKErpMfBeSA_ZNyvrK2-jrZBuapxeXQAYSCjb5akeYEQo8M-edEfpaafvlI1u7YCbrpSzKbXGGQfwyBCOv8MSHeC7bXy8VdCbqEcctRxSUXEOI1ZxF1jeZQgtU9d48pLjzL-ofxBQs2_ArrZEtJ9vGOj2Ehw7FZvyrKJBndwDVcZhI/s600/1000328848.png"/></a></div>
+
 <h2>A Grande Migração: Por que sua família precisa estar aqui amanhã?</h2>
 
 <p>Não estamos falando de planos para 2027. Estamos falando de hoje. A "Família Exodus" — termo que uso internamente para definir o movimento da elite paulistana em direção ao interior — não busca apenas imóveis. Busca refúgio. Segurança. Ar puro.</p>
@@ -69,5 +71,3 @@ description: "Perguntas e respostas decisivas sobre a última mansão pronta par
 <div>
 
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
-</div>
