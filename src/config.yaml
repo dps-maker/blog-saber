@@ -10,7 +10,7 @@ blog:
   postsPerPage: 6
   
   post:
-    permalink: '/blog/%slug%'
+    permalink: '/%slug%'
   
   category:
     disabled: false
