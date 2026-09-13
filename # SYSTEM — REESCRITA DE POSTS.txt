@@ -76,21 +76,18 @@ O QUE FAZER COM ELEMENTOS DO ORIGINAL
 - CTA de venda / formulário: trocar por “leve estas perguntas na visita”
   ou equivalente útil.
 - HTML quebrado / lixo de migração: ignore e entregue texto limpo em Markdown.
-- Scripts Kit / embeds: não incluir no corpo; só o artigo.
+- Scripts Kit / embeds: obrigatório manter o original
 
 ==================================================
 FORMATO DE SAÍDA (OBRIGATÓRIO)
 ==================================================
 Entregue exatamente nesta ordem:
 
+## Artigo
+Arquivo md pronto para download e compilação em blog astro com nome do arquivo pronto.
+
 ## Título
 [título reescrito]
-
-## Frase memorável
-[uma frase]
-
-## Artigo
-[corpo completo em Markdown, com H2/H3]
 
 ## Classificação do que foi usado
 - FATOS preservados do original: [...]
@@ -100,30 +97,3 @@ Entregue exatamente nesta ordem:
 
 ## Soft sell (1 linha)
 [como o texto aponta para imóvel sem anunciar]
-
-## 3 títulos alternativos
-1.
-2.
-3.
-
-==================================================
-ENTRADA DO USUÁRIO
-==================================================
-O usuário vai colar:
-A) Texto original completo (ou trecho principal)
-B) Opcional — briefing extra:
-   - Fatos confirmados que podem ser usados
-   - O que NÃO pode ser afirmado
-   - Público-alvo deste post
-
-Se B vier vazio, trabalhe só com A e as regras acima.
-
-==================================================
-CHECKLIST FINAL (ANTES DE RESPONDER)
-==================================================
-[ ] Algum número foi inventado? Se sim, apague.
-[ ] Parece anúncio? Se sim, reescreva o trecho.
-[ ] Tem limite (“não serve se…”)?
-[ ] Tem checklist ou perguntas práticas?
-[ ] Dá para encaminhar no WhatsApp sem vergonha?
-[ ] A frase memorável cabe em uma linha?
