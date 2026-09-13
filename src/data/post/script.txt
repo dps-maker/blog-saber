@@ -76,25 +76,11 @@ ESTILO
 ==================================================
 DIRETRIZES ESPECIAIS DE SEO, EXPERIÊNCIA DO USUÁRIO (UX) E TAGS
 ==================================================
-Para garantir excelente desempenho de SEO orgânico e uma experiência de leitura altamente segmentada e intuitiva, siga rigorosamente as regras abaixo:
+Para garantir excelente desempenho de SEO orgânico e uma experiência de leitura altamente segmentada e intuitiva, dê atenção especial para:
 
-1. ESTRUTURAÇÃO DE TAGS E SEGMENTAÇÃO (MANDATÓRIO):
-   - Crie de 3 a 5 tags altamente relevantes por artigo no frontmatter.
-   - As tags DEVEM cobrir as seguintes dimensões estratégicas:
-     * Localização Específica: Sempre inclua "Indaiatuba" e, se aplicável, o bairro ou eixo citado (ex: "Itaici", "Parque Ecológico", "Centro", "Jardim Esplanada").
-     * Pilar Temático/Mercadológico: A categoria de análise (ex: "Urbanismo", "Análise de Mercado", "Logística", "Arquitetura", "Investimento").
-     * Perfil ou Tipo de Imóvel/Uso (se relevante): (ex: "Casas Térreas", "Condomínios Fechados", "Home Office", "Primeiro Imóvel").
-   - Proibido o uso de tags genéricas demais (ex: "Imóveis", "Brasil") ou tags isoladas sem contexto local.
+1. ESTRUTURAÇÃO DE TAGS E SEGMENTAÇÃO (MANDATÓRIO)
+2. EXCELÊNCIA E CRIATIVIDADE NO CAMPO "CATEGORY" (SEO E UX)
 
-2. SEO TÉCNICO E ON-PAGE:
-   - **Title tag**: Máximo de 60 caracteres ideais, contendo a palavra-chave principal (ex: Indaiatuba + o tema central) de forma natural.
-   - **Description**: Entre 140 e 160 caracteres. Deve resumir claramente a utilidade prática do post, instigando o clique sem usar termos sensacionalistas de folder.
-   - **Hierarchy (H2/H3)**: Use subtítulos escaneáveis e descritivos. O leitor precisa entender o argumento do texto apenas batendo o olho nos H2s.
-   - **Links internos contextuais**: Use termos de âncora descritivos quando mencionar conceitos da cidade.
-
-3. EXPERIÊNCIA DO USUÁRIO (UX):
-   - **Escaneabilidade**: Parágrafos curtos (máximo de 3 a 4 linhas por bloco de texto).
-   - **Conteúdo acionável**: Insira marcadores (`ul`/`li`) em formato de checklists ou passos práticos sempre que o texto abordar decisões de compra, visitas ou verificação de imóveis.
 
 ==================================================
 O QUE FAZER COM ELEMENTOS DO ORIGINAL
@@ -139,7 +125,7 @@ title: "Título reescrito aqui"
 publishDate: YYYY-MM-DDTHH:mm:ss.000Z
 excerpt: "1–2 frases claras, sem hype, até ~160 caracteres"
 description: "Meta description objetiva, otimizada para SEO local, até ~160 caracteres"
-category: "Insights Estratégicos"
+category: "Defina uma categoria editorial inteligente e específica (ex: Guia de Bairros, Análise Urbana, Inteligência Financeira, etc.)"
 tags:
 
 ---
@@ -150,8 +136,7 @@ Regras do frontmatter:
   - se o original tiver data, PRESERVE a data original (mesmo horário se houver)
   - se não houver, use a data de hoje em UTC no formato ISO
 - excerpt e description: NÃO copie frases de brochure; resuma a utilidade real focando em SEO e intenção de busca
-- category: mantenha "Insights Estratégicos" salvo se o original tiver outra
-  categoria clara e válida
+- category: seja criativo e analítico; evite usar sempre o mesmo termo genérico, escolhendo a editoria que melhor traduz o valor do conteúdo para o usuário e para o ranqueamento do site
 - tags: 3 a 5 tags segmentadas conforme as diretrizes acima
 - NÃO invente image, canonical ou metadata a menos que o usuário forneça
 - NÃO coloque HTML no frontmatter
@@ -174,6 +159,10 @@ Regras do frontmatter:
 - Sem comentários seus dentro do .md
 - Sem blocos de explicação misturados no arquivo
 
+## Outras questões
+- Manter slug antigo? não
+- Data preservada do original? não
+
 ==================================================
 FORMATO DE SAÍDA (OBRIGATÓRIO)
 ==================================================
@@ -184,26 +173,5 @@ slug-do-arquivo.md
 
 ## Arquivo completo para src/data/post/
 
-(entregue um único bloco com o arquivo .md completo, começando em --- e
-terminando no último parágrafo do artigo, seguido pelo script do Kit de email)
+(entregue o arquivo .md completo para donwload seguindo o padrão de blog Astro)
 
-## Frase memorável
-(uma frase)
-
-## Classificação do que foi usado
-- FATOS preservados do original: ...
-- OBSERVAÇÕES reenquadradas: ...
-- OPINIÕES explícitas: ...
-- Afirmações do original REMOVIDAS por falta de base: ...
-
-## Soft sell (1 linha)
-(como o texto aponta para imóvel sem anunciar)
-
-## 3 títulos alternativos
-1.
-2.
-3.
-
-## Nota de publicação
-- Manter slug antigo? não
-- Data preservada do original? não
