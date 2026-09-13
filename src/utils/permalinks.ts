@@ -52,14 +52,15 @@ export const getPermalink = (slug = '', type = 'page'): string => {
     return slug;
   }
 
-  // Remove eventuais duplicações de caminhos passados por parâmetro
-  let cleanSlug = trimSlash(slug);
+  // Limpa e remove acentos do slug usando o slugify do limax para evitar erros 404
+  let cleanSlugInput = trimSlash(slug);
+  
   if (type === 'category') {
-    cleanSlug = cleanSlug.replace(/^(blog\/)?category\/(blog\/)?category\//, 'blog/category/');
-    cleanSlug = cleanSlug.replace(/^category\/category\//, 'category/');
+    cleanSlugInput = cleanSlugInput.replace(/^(blog\/)?category\//, '').replace(/^category\//, '');
+    cleanSlugInput = slugify(cleanSlugInput);
   } else if (type === 'tag') {
-    cleanSlug = cleanSlug.replace(/^(blog\/)?tag\/(blog\/)?tag\//, 'blog/tag/');
-    cleanSlug = cleanSlug.replace(/^tag\/tag\//, 'tag/');
+    cleanSlugInput = cleanSlugInput.replace(/^(blog\/)?tag\//, '').replace(/^tag\//, '');
+    cleanSlugInput = slugify(cleanSlugInput);
   }
 
   switch (type) {
@@ -76,20 +77,20 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       break;
 
     case 'category':
-      permalink = createPath(cleanSlug.includes('blog/category') ? cleanSlug : createPath(CATEGORY_BASE, cleanSlug));
+      permalink = createPath(CATEGORY_BASE, cleanSlugInput);
       break;
 
     case 'tag':
-      permalink = createPath(cleanSlug.includes('blog/tag') ? cleanSlug : createPath(TAG_BASE, cleanSlug));
+      permalink = createPath(TAG_BASE, cleanSlugInput);
       break;
 
     case 'post':
-      permalink = createPath(cleanSlug);
+      permalink = createPath(cleanSlug(cleanSlugInput));
       break;
 
     case 'page':
     default:
-      permalink = createPath(cleanSlug);
+      permalink = createPath(cleanSlugInput);
       break;
   }
 
