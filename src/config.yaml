@@ -14,9 +14,9 @@ apps:
       permalink: '/blog/%slug%'
     
     category:
-      disabled: false
+      disabled: true
       permalink: '/blog/category/%slug%'
       
     tag:
-      disabled: false
+      disabled: true
       permalink: '/blog/tag/%slug%'
