@@ -15,3 +15,9 @@ git commit -m "nova postagem"
 
 # 4. Envie para o GitHub (o que dispara o deploy automático no Cloudflare)
 git push
+
+RESUMO
+Set-Location "C:\blog-saber"
+git add .
+git commit -m "nova postagem"
+git push

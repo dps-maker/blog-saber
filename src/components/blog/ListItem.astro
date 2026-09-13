@@ -1,42 +1,23 @@
 ---
-import type { Post } from '~/types';
-import Image from '~/components/common/Image.astro';
 import { getPermalink } from '~/utils/permalinks';
+import type { Post } from '~/types';
 
-interface Props {
+export interface Props {
   post: Post;
 }
 
 const { post } = Astro.props;
+const permalink = getPermalink(post.permalink, 'post');
 ---
 
-<article class="flex flex-col h-full">
-  {
-    post.image && (
-      <a href={getPermalink(post.permalink, 'post')} class="relative block group mb-4 overflow-hidden rounded-lg bg-gray-400 dark:bg-slate-700 aspect-video">
-        <Image
-          src={post.image}
-          class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-300"
-          widths={[400, 768]}
-          sizes="(max-width: 768px) 400px, 768px"
-          alt={post.title}
-          aspectRatio="16:9"
-          loading="lazy"
-          decoding="async"
-        />
-      </a>
-    )
-  }
-
-  <div class="flex-1 flex flex-col justify-between">
+<article class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-5 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-between h-full">
+  <div class="flex flex-col justify-between flex-1">
     <header>
-      <h2 class="text-lg sm:text-xl font-bold font-heading mb-2 dark:text-slate-200 leading-snug">
-        <a class="hover:text-primary dark:hover:text-blue-400 transition duration-200" href={getPermalink(post.permalink, 'post')}>
+      <h2 class="text-lg sm:text-xl font-bold leading-snug mb-2 font-heading dark:text-slate-200">
+        <a href={permalink} class="hover:text-primary dark:hover:text-blue-400 transition duration-200">
           {post.title}
         </a>
       </h2>
     </header>
-
-    {post.excerpt && <p class="text-muted dark:text-slate-400 text-sm line-clamp-3 mt-2">{post.excerpt}</p>}
   </div>
 </article>
