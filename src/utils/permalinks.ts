@@ -22,8 +22,9 @@ export const cleanSlug = (text = '') =>
     .join('/');
 
 export const BLOG_BASE = cleanSlug(APP_BLOG?.list?.pathname);
-export const CATEGORY_BASE = cleanSlug(APP_BLOG?.category?.pathname);
-export const TAG_BASE = cleanSlug(APP_BLOG?.tag?.pathname) || 'tag';
+// Garante o prefixo /blog/ nas categorias e tags para isolar do Imotools
+export const CATEGORY_BASE = cleanSlug(APP_BLOG?.category?.pathname || 'blog/category');
+export const TAG_BASE = cleanSlug(APP_BLOG?.tag?.pathname) || 'blog/tag';
 
 export const POST_PERMALINK_PATTERN = trimSlash(APP_BLOG?.post?.permalink || `${BLOG_BASE}/%slug%`);
 
