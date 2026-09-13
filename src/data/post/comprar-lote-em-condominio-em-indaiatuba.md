@@ -62,6 +62,7 @@ O que realmente muda a conta ao investir em terrenos em Indaiatuba não é a pro
 
 Quando o terreno reúne topografia favorável, vizinhança consolidada e boa posição interna, ele não precisa de malabarismos de vendas: ele resolve a vida prática de quem quer construir. Na sua próxima visita, ignore os folhetos promocionais e concentre-se nas condições reais do chão e do entorno.
 
+<div>
 <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
-
+</div>
 
