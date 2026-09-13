@@ -6,7 +6,7 @@ site:
 
 apps:
 blog:
-  isBlogEnabled: true
+  isEnabled: true
   postsPerPage: 6
   
   post:
