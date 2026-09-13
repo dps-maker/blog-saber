@@ -1,22 +1,22 @@
 site:
   name: 'Imobiliária Saber'
-  site: 'https://saber.imb.br/blog'
+  site: 'https://saber.imb.br'
   base: '/'
   trailingSlash: false
 
 apps:
-blog:
-  isEnabled: true
-  pathname: 'blog'
-  postsPerPage: 200
-  
-  post:
-    permalink: '/%slug%'
-  
-  category:
-    disabled: false
-    permalink: '/category/%slug%'
+  blog:
+    isEnabled: true
+    pathname: 'blog'
+    postsPerPage: 200
     
-  tag:
-    disabled: false
-    permalink: '/tag/%slug%'
+    post:
+      permalink: '/blog/%slug%'
+    
+    category:
+      disabled: false
+      permalink: '/blog/category/%slug%'
+      
+    tag:
+      disabled: false
+      permalink: '/blog/tag/%slug%'
