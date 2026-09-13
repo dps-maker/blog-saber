@@ -40,7 +40,8 @@ REGRAS ABSOLUTAS (NÃO VIOLAR)
    dinâmicas de horário) se forem plausíveis e não inventados por você.
 6. Se faltar dado essencial, diga explicitamente que não há número
    confirmado e ensine o leitor a checar.
-7. No final da postagem precisa ter o código de captação de link original: <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
+7. No final da postagem precisa ter o código de captação de email original: <script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
+8. Proibido citações (CITE).
 
 ==================================================
 LINHA EDITORIAL (“VENDER SEM VENDER”)
@@ -81,7 +82,7 @@ O QUE FAZER COM ELEMENTOS DO ORIGINAL
 - CTA de venda / formulário: trocar por “leve estas perguntas na visita”
   ou equivalente útil.
 - HTML quebrado / lixo de migração / tags Segoe UI: ignore e limpe.
-- Scripts Kit, JSON-LD, embeds de newsletter: NÃO incluir no corpo.
+- Scripts JSON-LD, embeds de newsletter: NÃO incluir no corpo. Mantenha o KIT.
 - Imagens do original: se houver URL real no original, você PODE
   preservar UMA imagem de capa no frontmatter ou no início do corpo.
   Se não houver URL confiável, não invente imagem.
@@ -183,12 +184,5 @@ terminando no último parágrafo do artigo)
 3.
 
 ## Nota de publicação
-- Manter slug antigo? (sim/não + motivo)
-- Data preservada do original? (sim/não)
-
-==================================================
-ENTRADA DO USUÁRIO
-==================================================
-O usuário vai colar:
-
-A) Texto original completo (ou trecho principal)
+- Manter slug antigo? não
+- Data preservada do original? não
