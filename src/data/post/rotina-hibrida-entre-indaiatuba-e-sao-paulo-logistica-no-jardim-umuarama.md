@@ -11,8 +11,6 @@ tags:
   - Guia de Bairros Indaiatuba
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP6aJekNOuvpAblXoNOHurN-SfFHyuVzGTvQi05iRXJpr9CNA_VRIjHLnzpu0_5JYIr_6EdU17YYt9QDoWADL8v5FrIozz9-qLYVQtmM726HfX1x2T8vJNS6os07VbbTI517Mp_Qp_xB-SyD2YusyovaaO-SorUPQXG_33q0jPLoZ5qD7yPgQFfk1Gr_E/s2816/Gemini_Generated_Image_owlmzxowlmzxowlm.png"><img alt="Vista aérea de bairro residencial em Indaiatuba com casas térreas e vias arborizadas" border="0" width="600" data-original-height="1536" data-original-width="2816" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP6aJekNOuvpAblXoNOHurN-SfFHyuVzGTvQi05iRXJpr9CNA_VRIjHLnzpu0_5JYIr_6EdU17YYt9QDoWADL8v5FrIozz9-qLYVQtmM726HfX1x2T8vJNS6os07VbbTI517Mp_Qp_xB-SyD2YusyovaaO-SorUPQXG_33q0jPLoZ5qD7yPgQFfk1Gr_E/s600/Gemini_Generated_Image_owlmzxowlmzxowlm.png"/></a></div>
-
 <h2>O Custo Invisível do Trabalho Híbrido Fora da Capital</h2>
 
 <p>Trocar um apartamento compacto em São Paulo por mais metragem no interior parece uma equação simples à primeira vista. No papel, o modelo híbrido de trabalho tolera duas ou três viagens semanais até a capital. Na prática, a viabilidade dessa rotina não é definida pelo tamanho do quintal, mas pelo tempo exato entre fechar a porta da garagem e cruzar a alça de acesso à rodovia.</p>
