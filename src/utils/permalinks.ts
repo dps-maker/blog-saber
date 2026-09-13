@@ -22,7 +22,6 @@ export const cleanSlug = (text = '') =>
     .join('/');
 
 export const BLOG_BASE = cleanSlug(APP_BLOG?.list?.pathname);
-// Garante o prefixo /blog/ nas categorias e tags para isolar do Imotools
 export const CATEGORY_BASE = cleanSlug(APP_BLOG?.category?.pathname || 'blog/category');
 export const TAG_BASE = cleanSlug(APP_BLOG?.tag?.pathname) || 'blog/tag';
 
@@ -53,6 +52,16 @@ export const getPermalink = (slug = '', type = 'page'): string => {
     return slug;
   }
 
+  // Remove eventuais duplicações de caminhos passados por parâmetro
+  let cleanSlug = trimSlash(slug);
+  if (type === 'category') {
+    cleanSlug = cleanSlug.replace(/^(blog\/)?category\/(blog\/)?category\//, 'blog/category/');
+    cleanSlug = cleanSlug.replace(/^category\/category\//, 'category/');
+  } else if (type === 'tag') {
+    cleanSlug = cleanSlug.replace(/^(blog\/)?tag\/(blog\/)?tag\//, 'blog/tag/');
+    cleanSlug = cleanSlug.replace(/^tag\/tag\//, 'tag/');
+  }
+
   switch (type) {
     case 'home':
       permalink = getHomePermalink();
@@ -67,20 +76,20 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       break;
 
     case 'category':
-      permalink = createPath(CATEGORY_BASE, trimSlash(slug));
+      permalink = createPath(cleanSlug.includes('blog/category') ? cleanSlug : createPath(CATEGORY_BASE, cleanSlug));
       break;
 
     case 'tag':
-      permalink = createPath(TAG_BASE, trimSlash(slug));
+      permalink = createPath(cleanSlug.includes('blog/tag') ? cleanSlug : createPath(TAG_BASE, cleanSlug));
       break;
 
     case 'post':
-      permalink = createPath(trimSlash(slug));
+      permalink = createPath(cleanSlug);
       break;
 
     case 'page':
     default:
-      permalink = createPath(slug);
+      permalink = createPath(cleanSlug);
       break;
   }
 
