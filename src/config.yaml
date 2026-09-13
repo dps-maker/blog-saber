@@ -5,7 +5,18 @@ site:
   trailingSlash: false
 
 apps:
-  blog:
-    isEnabled: true
-    pathname: 'blog'
-    postsPerPage: 200
+blog:
+  isBlogEnabled: true
+  postsPerPage: 6
+  
+  # Definições de rotas com prefixo do blog
+  post:
+    permalink: '/blog/%slug%'
+  
+  category:
+    disabled: false
+    permalink: '/blog/category/%slug%'
+    
+  tag:
+    disabled: false
+    permalink: '/blog/tag/%slug%'
