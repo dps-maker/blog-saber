@@ -13,10 +13,15 @@ apps:
     post:
       permalink: '/blog/%slug%'
     
+    list:
+      pathname: 'blog'
+      
     category:
       disabled: false
+      pathname: 'blog/category'
       permalink: '/blog/category/%slug%'
       
     tag:
       disabled: false
+      pathname: 'blog/tag'
       permalink: '/blog/tag/%slug%'
