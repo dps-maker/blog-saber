@@ -1,6 +1,5 @@
 ---
 title: "Jardim Tropical em Indaiatuba: Como Avaliar a Logística de Quem Trabalha em SP"
-publishDate: 2026-09-13T03:23:11.000Z
 excerpt: "Análise prática sobre o Jardim Tropical em Indaiatuba: dinâmica de acesso à rodovia, comércio de apoio na Av. Conceição e trade-offs para quem faz bate-volta a SP."
 description: "Avalie o Jardim Tropical em Indaiatuba para quem faz trajeto até SP. Logística na Av. Conceição, rotina de serviços e critérios reais de visita ao bairro."
 category: "Leitura Urbana e Localização"
