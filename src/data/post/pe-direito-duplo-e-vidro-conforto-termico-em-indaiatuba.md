@@ -4,10 +4,10 @@ excerpt: "Grandes panos de vidro e salas com pé-direito duplo trazem luz natura
 description: "Entenda o impacto da orientação solar em casas com pé-direito duplo em Indaiatuba: riscos das faces Norte, Sul e Oeste e checklist antes de comprar."
 category: "Arquitetura e Conforto Térmico"
 tags:
-  - conforto-termico
-  - pe-direito-duplo
-  - orientacao-solar
-  - arquitetura-residencial
+ - conforto-termico
+ - pe-direito-duplo
+ - orientacao-solar
+ - arquitetura-residencial
 ---
 
 <p>A transição de apartamentos compactos na capital para casas amplas de duzentos a quinhentos metros quadrados em Indaiatuba costuma gerar um choque de adaptação[cite: 7]. O problema raramente é o espaço em si, mas a temperatura interna: salas deslumbrantes nas fotos de divulgação que se transformam em estufas inabitáveis às duas da tarde ou em ambientes excessivamente frios nos meses de inverno[cite: 7].</p>
@@ -21,34 +21,34 @@ tags:
 <p>Na prática, a rotação solar ao longo do ano determina o uso de cada ambiente da residência[cite: 7]:</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Orientação da Fachada</th>
-      <th>Comportamento Solar ao Longo do Ano</th>
-      <th>Impacto Operacional no Imóvel</th>
-      <th>Ajuste Estrutural Recomendado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Face Norte</strong></td>
-      <td>Sol mais raso e constante durante o inverno; radiação a pino no verão[cite: 7].</td>
-      <td>Ambientes agradáveis no frio, mas com desgaste acelerado de pisos e móveis se expostos diretamente[cite: 7].</td>
-      <td>Beirais alongados, pergolados ou brises horizontais para barrar o sol alto do verão[cite: 7].</td>
-    </tr>
-    <tr>
-      <td><strong>Face Sul</strong></td>
-      <td>Luminosidade difusa e constante, sem incidência de raios solares diretos nas aberturas[cite: 7].</td>
-      <td>Excelente iluminação contínua durante o dia sem gerar efeito estufa, porém mais fria no inverno[cite: 7].</td>
-      <td>Uso de caixilhos com boa vedação e cortinas de maior densidade para retenção térmica no frio[cite: 7].</td>
-    </tr>
-    <tr>
-      <td><strong>Face Oeste</strong></td>
-      <td>Incidência pesada e prolongada do sol poente em todo o período da tarde[cite: 7].</td>
-      <td>Pico de aquecimento acumulado no horário de maior calor externo, exigindo ar-condicionado constante[cite: 7].</td>
-      <td>Brises verticais, varandas cobertas, películas nanocerâmicas de rejeição de calor e vegetação de porte[cite: 7].</td>
-    </tr>
-  </tbody>
+ <thead>
+ <tr>
+ <th>Orientação da Fachada</th>
+ <th>Comportamento Solar ao Longo do Ano</th>
+ <th>Impacto Operacional no Imóvel</th>
+ <th>Ajuste Estrutural Recomendado</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td><strong>Face Norte</strong></td>
+ <td>Sol mais raso e constante durante o inverno; radiação a pino no verão[cite: 7].</td>
+ <td>Ambientes agradáveis no frio, mas com desgaste acelerado de pisos e móveis se expostos diretamente[cite: 7].</td>
+ <td>Beirais alongados, pergolados ou brises horizontais para barrar o sol alto do verão[cite: 7].</td>
+ </tr>
+ <tr>
+ <td><strong>Face Sul</strong></td>
+ <td>Luminosidade difusa e constante, sem incidência de raios solares diretos nas aberturas[cite: 7].</td>
+ <td>Excelente iluminação contínua durante o dia sem gerar efeito estufa, porém mais fria no inverno[cite: 7].</td>
+ <td>Uso de caixilhos com boa vedação e cortinas de maior densidade para retenção térmica no frio[cite: 7].</td>
+ </tr>
+ <tr>
+ <td><strong>Face Oeste</strong></td>
+ <td>Incidência pesada e prolongada do sol poente em todo o período da tarde[cite: 7].</td>
+ <td>Pico de aquecimento acumulado no horário de maior calor externo, exigindo ar-condicionado constante[cite: 7].</td>
+ <td>Brises verticais, varandas cobertas, películas nanocerâmicas de rejeição de calor e vegetação de porte[cite: 7].</td>
+ </tr>
+ </tbody>
 </table>
 
 <p>Regiões como o Helvétia ou as imediações do Parque Ecológico ilustram essa lógica[cite: 7]: fachadas envidraçadas orientadas a oeste sem proteção de beirais transformam salas e mezaninos em áreas de alto custo energético[cite: 7].</p>
@@ -58,9 +58,9 @@ tags:
 <p>Casas com extensos painéis de vidro e vãos duplos demandam manutenção e perfil de uso muito específicos[cite: 7]. Essa configuração <strong>não</strong> é recomendada se você:</p>
 
 <ul>
-  <li>Não quer conviver com rotinas constantes de limpeza de vidraças altas em locais de difícil acesso;</li>
-  <li>Busca uma casa de manutenção descomplicada e baixo custo fixo de eletricidade;</li>
-  <li>Não pretende investir em elementos de sombreamento (como persianas motorizadas, brises de fachada ou películas de controle térmico)[cite: 7].</li>
+ <li>Não quer conviver com rotinas constantes de limpeza de vidraças altas em locais de difícil acesso;</li>
+ <li>Busca uma casa de manutenção descomplicada e baixo custo fixo de eletricidade;</li>
+ <li>Não pretende investir em elementos de sombreamento (como persianas motorizadas, brises de fachada ou películas de controle térmico)[cite: 7].</li>
 </ul>
 
 <h2>Checklist de inspeção solar durante a visita</h2>
@@ -68,15 +68,15 @@ tags:
 <p>Antes de fazer uma proposta em uma casa térrea ou sobrado de pé-direito alto, adote estes passos práticos:</p>
 
 <ol>
-  <li><strong>Abra o aplicativo de bússola na sala principal:</strong> identifique exatamente a posição da fachada e das maiores janelas. Não confie apenas na iluminação artificial ligada na vistoria.</li>
-  <li><strong>Agende uma segunda visita às 14h:</strong> visite o imóvel no início ou meio da tarde, mantendo o ar-condicionado desligado por 15 minutos para sentir a real inércia térmica do ambiente[cite: 7].</li>
-  <li><strong>Examine o piso próximo às esquadrias:</strong> observe se há descoloração, empenamento de réguas de madeira ou marcas de calor nos rodapés e tecidos existentes[cite: 7].</li>
-  <li><strong>Verifique os beirais e recuos externos:</strong> confira se a laje ou o telhado avançam o suficiente para projetar sombra nas esquadrias envidraçadas durante as horas mais quentes do dia[cite: 7].</li>
-  <li><strong>Avalie a ventilação no ponto mais alto:</strong> veja se o pé-direito duplo conta com janelas superiores móveis para liberação do ar quente ou se o calor sobe e fica represado no mezanino.</li>
+ <li><strong>Abra o aplicativo de bússola na sala principal:</strong> identifique exatamente a posição da fachada e das maiores janelas. Não confie apenas na iluminação artificial ligada na vistoria.</li>
+ <li><strong>Agende uma segunda visita às 14h:</strong> visite o imóvel no início ou meio da tarde, mantendo o ar-condicionado desligado por 15 minutos para sentir a real inércia térmica do ambiente[cite: 7].</li>
+ <li><strong>Examine o piso próximo às esquadrias:</strong> observe se há descoloração, empenamento de réguas de madeira ou marcas de calor nos rodapés e tecidos existentes[cite: 7].</li>
+ <li><strong>Verifique os beirais e recuos externos:</strong> confira se a laje ou o telhado avançam o suficiente para projetar sombra nas esquadrias envidraçadas durante as horas mais quentes do dia[cite: 7].</li>
+ <li><strong>Avalie a ventilação no ponto mais alto:</strong> veja se o pé-direito duplo conta com janelas superiores móveis para liberação do ar quente ou se o calor sobe e fica represado no mezanino.</li>
 </ol>
 
 <blockquote>
-  <p>Na arquitetura residencial, a luz natural só valoriza o imóvel quando você tem o controle sobre a quantidade de calor que entra com ela[cite: 7].</p>
+ <p>Na arquitetura residencial, a luz natural só valoriza o imóvel quando você tem o controle sobre a quantidade de calor que entra com ela[cite: 7].</p>
 </blockquote>
 
 <h2>Consequência para a escolha do seu imóvel</h2>

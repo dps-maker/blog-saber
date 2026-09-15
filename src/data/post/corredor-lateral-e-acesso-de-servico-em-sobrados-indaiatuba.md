@@ -4,10 +4,10 @@ excerpt: "Casas sem corredor lateral forçam o lixo, compras e prestadores a cru
 description: "Entenda por que a eliminação do corredor de serviço em sobrados recentes de Indaiatuba compromete a rotina e a privacidade, e veja como avaliar a planta."
 category: "Decisão Imobiliária"
 tags:
-  - planta-residencial
-  - arquitetura-funcional
-  - sobrados-em-indaiatuba
-  - mercado-imobiliario-indaiatuba
+ - planta-residencial
+ - arquitetura-funcional
+ - sobrados-em-indaiatuba
+ - mercado-imobiliario-indaiatuba
 ---
 
 <p>A visita de compra costuma encantar pelos olhos: salas amplas com piso polido, conceito aberto integrando estar e jantar e grandes esquadrias envidraçadas no fundo do lote. O problema surge na rotina prática logo após a mudança: ao receber o profissional da piscina ou o jardineiro, o morador percebe que o prestador precisa cruzar o tapete da sala principal carregando baldes e produtos químicos porque a casa não tem nenhuma passagem externa.</p>
@@ -21,9 +21,9 @@ tags:
 <p>Para criar a sensação de amplitude nas fotos dos anúncios, os projetos frequentemente encostam a construção em uma das divisas e fecham o lado oposto com paredes cegas, canalizando todo o fluxo residencial para um único acesso frontal. Na prática, a casa perde a setorização entre a área social e a área operacional:</p>
 
 <ul>
-  <li><strong>Circulação de resíduos domésticos:</strong> o lixo diário retirado da cozinha e da área de serviço precisa atravessar a sala de estar para alcançar a calçada ou a lixeira externa.</li>
-  <li><strong>Acesso de manutenção externa:</strong> podadores de grama, calheiros, técnicos de ar-condicionado e limpadores de piscina têm que transitar por dentro das áreas íntimas ou sociais da residência para chegar ao quintal.</li>
-  <li><strong>Rotina sob chuva:</strong> desembarcar da garagem com compras pesadas de supermercado ou calçados molhados exige passar diretamente pelo hall social, sem transição pela lavanderia ou despensa.</li>
+ <li><strong>Circulação de resíduos domésticos:</strong> o lixo diário retirado da cozinha e da área de serviço precisa atravessar a sala de estar para alcançar a calçada ou a lixeira externa.</li>
+ <li><strong>Acesso de manutenção externa:</strong> podadores de grama, calheiros, técnicos de ar-condicionado e limpadores de piscina têm que transitar por dentro das áreas íntimas ou sociais da residência para chegar ao quintal.</li>
+ <li><strong>Rotina sob chuva:</strong> desembarcar da garagem com compras pesadas de supermercado ou calçados molhados exige passar diretamente pelo hall social, sem transição pela lavanderia ou despensa.</li>
 </ul>
 
 <h2>Trade-offs de circulação: layout com recuo versus acesso único</h2>
@@ -31,35 +31,35 @@ tags:
 <p>A decisão entre ganhar alguns metros quadrados a mais na sala de estar ou preservar uma circulação secundária independente impõe trade-offs diretos no cotidiano da família:</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Situação do Cotidiano</th>
-      <th>Planta com Acesso Lateral de Serviço</th>
-      <th>Planta Compacta com Entrada Única</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Manutenção de Lazer e Quintal</strong></td>
-      <td>Prestadores acessam a área externa pelo corredor, sem contato com o interior da casa.</td>
-      <td>O prestador entra pela sala de estar carregando escadas, ferramentas e produtos químicos.</td>
-    </tr>
-    <tr>
-      <td><strong>Descarte de Resíduos Diários</strong></td>
-      <td>Saída rápida e direta da cozinha ou lavanderia rumo à lixeira de rua.</td>
-      <td>Sacos de lixo e recipientes cruzam o piso nobre da sala até a calçada.</td>
-    </tr>
-    <tr>
-      <td><strong>Privacidade em Dias de Recepção</strong></td>
-      <td>Fluxo de apoio, buffet ou reposição de bebidas ocorre sem interferir nos convidados.</td>
-      <td>Conflito permanente de circulação entre convidados na sala e a operação da casa.</td>
-    </tr>
-    <tr>
-      <td><strong>Amplitude Visual Interna</strong></td>
-      <td>Largura da sala ligeiramente mais compacta para acomodar a passagem lateral.</td>
-      <td>Living mais largo de parede a parede, com ganho estético imediato na visita.</td>
-    </tr>
-  </tbody>
+ <thead>
+ <tr>
+ <th>Situação do Cotidiano</th>
+ <th>Planta com Acesso Lateral de Serviço</th>
+ <th>Planta Compacta com Entrada Única</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td><strong>Manutenção de Lazer e Quintal</strong></td>
+ <td>Prestadores acessam a área externa pelo corredor, sem contato com o interior da casa.</td>
+ <td>O prestador entra pela sala de estar carregando escadas, ferramentas e produtos químicos.</td>
+ </tr>
+ <tr>
+ <td><strong>Descarte de Resíduos Diários</strong></td>
+ <td>Saída rápida e direta da cozinha ou lavanderia rumo à lixeira de rua.</td>
+ <td>Sacos de lixo e recipientes cruzam o piso nobre da sala até a calçada.</td>
+ </tr>
+ <tr>
+ <td><strong>Privacidade em Dias de Recepção</strong></td>
+ <td>Fluxo de apoio, buffet ou reposição de bebidas ocorre sem interferir nos convidados.</td>
+ <td>Conflito permanente de circulação entre convidados na sala e a operação da casa.</td>
+ </tr>
+ <tr>
+ <td><strong>Amplitude Visual Interna</strong></td>
+ <td>Largura da sala ligeiramente mais compacta para acomodar a passagem lateral.</td>
+ <td>Living mais largo de parede a parede, com ganho estético imediato na visita.</td>
+ </tr>
+ </tbody>
 </table>
 
 <p>O que define a funcionalidade da residência não é a sensação de amplitude do folder, mas a forma como a casa gerencia os fluxos que ninguém quer ver expostos na sala de visitas.</p>
@@ -69,9 +69,9 @@ tags:
 <p>Uma planta com acesso frontal exclusivo não chega a inviabilizar a moradia se o perfil de ocupação da casa for compatível com essa simplicidade. A configuração deixa de ser um problema se você:</p>
 
 <ul>
-  <li>Mora sozinho ou em casal sem filhos, gerando baixo volume de lixo e com rotina doméstica extremamente simplificada;</li>
-  <li>Não possui quintal com gramado, piscina ou áreas externas que demandem manutenção profissional periódica;</li>
-  <li>Não costuma receber convidados com frequência nem realiza recepções que exijam serviços externos de suporte.</li>
+ <li>Mora sozinho ou em casal sem filhos, gerando baixo volume de lixo e com rotina doméstica extremamente simplificada;</li>
+ <li>Não possui quintal com gramado, piscina ou áreas externas que demandem manutenção profissional periódica;</li>
+ <li>Não costuma receber convidados com frequência nem realiza recepções que exijam serviços externos de suporte.</li>
 </ul>
 
 <h2>Checklist prático: como auditar o fluxo na visita</h2>
@@ -79,15 +79,15 @@ tags:
 <p>Antes de assinar a proposta de um sobrado ou casa térrea em Indaiatuba, faça uma vistoria funcional do percurso operacional com estas verificações:</p>
 
 <ol>
-  <li><strong>O teste prático do lixo:</strong> trace mentalmente o caminho exato do saco de lixo saindo da pia da cozinha até a lixeira externa. Se o percurso cruza o tapete da sala principal, a circulação é falha.</li>
-  <li><strong>Acesso secundário pela garagem:</strong> verifique se existe ao menos uma porta de serviço ligando o fundo da garagem diretamente à cozinha ou despensa, permitindo descarregar compras sem passar pela porta social.</li>
-  <li><strong>Largura útil do recuo lateral:</strong> caso haja corredor externo, meça com a trena se a passagem tem largura livre de pelo menos um metro, suficiente para a passagem de carrinhos de mão, caixas de ferramentas e cortadores de grama.</li>
-  <li><strong>Ponto de água e torneiras no quintal:</strong> confira se a área dos fundos possui torneira e ralo externos dedicados, evitando que baldes precisem ser abastecidos dentro dos banheiros sociais.</li>
-  <li><strong>Isolamento acústico da lavanderia:</strong> observe se a máquina de lavar e a centrífuga ficam confinadas por porta com vedação ou se o ruído de centrifugação invade diretamente a cozinha integrada e a sala de estar.</li>
+ <li><strong>O teste prático do lixo:</strong> trace mentalmente o caminho exato do saco de lixo saindo da pia da cozinha até a lixeira externa. Se o percurso cruza o tapete da sala principal, a circulação é falha.</li>
+ <li><strong>Acesso secundário pela garagem:</strong> verifique se existe ao menos uma porta de serviço ligando o fundo da garagem diretamente à cozinha ou despensa, permitindo descarregar compras sem passar pela porta social.</li>
+ <li><strong>Largura útil do recuo lateral:</strong> caso haja corredor externo, meça com a trena se a passagem tem largura livre de pelo menos um metro, suficiente para a passagem de carrinhos de mão, caixas de ferramentas e cortadores de grama.</li>
+ <li><strong>Ponto de água e torneiras no quintal:</strong> confira se a área dos fundos possui torneira e ralo externos dedicados, evitando que baldes precisem ser abastecidos dentro dos banheiros sociais.</li>
+ <li><strong>Isolamento acústico da lavanderia:</strong> observe se a máquina de lavar e a centrífuga ficam confinadas por porta com vedação ou se o ruído de centrifugação invade diretamente a cozinha integrada e a sala de estar.</li>
 </ol>
 
 <blockquote>
-  <p>Na arquitetura residencial, a verdadeira elegância da casa não está na porta que recebe as visitas, mas nos caminhos discretos por onde a rotina pesada passa sem ser notada.</p>
+ <p>Na arquitetura residencial, a verdadeira elegância da casa não está na porta que recebe as visitas, mas nos caminhos discretos por onde a rotina pesada passa sem ser notada.</p>
 </blockquote>
 
 <h2>Consequência para a liquidez e valor de revenda</h2>

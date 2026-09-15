@@ -7,14 +7,14 @@ description: "Análise urbanística completa do DIMPE II. Entenda o zoneamento Z
 <style>
 /* Reset básico para garantir leitura no mobile */
 p, li {
-font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
-font-size: 19px !important;
-color: #333333 !important;
-line-height: 1.6 !important;
+font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif!important;
+font-size: 19px!important;
+color: #333333!important;
+line-height: 1.6!important;
 }
 h2 {
-color: #003366 !important;
-margin-top: 30px !important;
+color: #003366!important;
+margin-top: 30px!important;
 }
 </style>
 
