@@ -1,6 +1,5 @@
 ---
 title: "Plano de Mobilidade Urbana em Indaiatuba: Como o Trânsito e as Ciclovias Redefinem Onde Morar"
-publishDate: 2026-09-14T19:30:00.000Z
 excerpt: "Novos eixos viários, ciclovias e ajustes no transporte alteram a rotina. Entenda a mobilidade de Indaiatuba antes de decidir seu endereço."
 description: "Entenda o impacto prático do plano de mobilidade urbana de Indaiatuba na sua rotina diária: corredores de fluxo, transporte coletivo e checklist de escolha."
 category: "Mobilidade e Território"

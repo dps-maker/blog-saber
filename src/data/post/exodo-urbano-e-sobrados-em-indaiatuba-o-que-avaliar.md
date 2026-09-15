@@ -1,6 +1,5 @@
 ---
 title: "Êxodo Urbano e Sobrados em Indaiatuba: O Que a Troca de Apartamento por Casa Cobra da Rotina"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Trocar o apartamento na capital por um sobrado no interior envolve mais do que quintal: a rotina de escadas, custos de manutenção e a logística diária pesam na conta."
 description: "Avalie a mudança de apartamentos em capitais para sobrados em Indaiatuba. Setorização por pavimentos, logística no entorno do Parque Ecológico e checklist."
 category: "Decisão Imobiliária"

@@ -1,6 +1,5 @@
 ---
 title: "Pets em Apartamento ou Casa com Quintal? O Que a Rotina e a Cidade Cobram do Tutor em Indaiatuba"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "Ter quintal não substitui passeios, e morar em prédio exige disciplina diária. Entenda como a tipologia do imóvel e a malha de Indaiatuba afetam seu pet."
 description: "Compare casa com quintal e apartamento para cães em Indaiatuba: gasto calórico, higiene, ruído em condomínio e checklist antes de escolher o imóvel."
 category: "Decisão Imobiliária"

@@ -1,6 +1,5 @@
 ---
 title: "Quintal de Sol Pleno em Indaiatuba: Como Montar um Jardim de Baixa Manutenção e Alta Durabilidade"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "A intensidade solar do interior pode secar plantas e inflar a conta de água. Entenda como escolher espécies resilientes que valorizam a área externa."
 description: "Guia prático de paisagismo para sol pleno em Indaiatuba: espécies resistentes à estiagem, controle de custos de irrigação e checklist de implantação."
 category: "Decisão Imobiliária"

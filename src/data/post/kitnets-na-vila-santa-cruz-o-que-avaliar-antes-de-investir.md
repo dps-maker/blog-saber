@@ -1,6 +1,5 @@
 ---
 title: "Kitnets na Vila Santa Cruz: O que Avaliar Antes de Investir para Renda em Indaiatuba"
-publishDate: 2026-09-14T19:05:00.000Z
 excerpt: "Centralidade urbana e imóveis compactos atraem investidores, mas a conta real exige verificar ocupação, padrão construtivo e despesas operacionais."
 description: "Entenda a lógica de locação compacta na Vila Santa Cruz em Indaiatuba: fatores de atratividade urbana, riscos operacionais e checklist antes de comprar."
 category: "Inteligência Imobiliária"

@@ -1,6 +1,5 @@
 ---
 title: "Acústica e Rotina no Jardim Primavera: O Que Avaliar Antes de Morar em Bairros Tradicionais de Indaiatuba"
-publishDate: 2026-09-14T19:35:00.000Z
 excerpt: "Bairros residenciais tradicionais não garantem silêncio automático para home office. Entenda a dinâmica acústica e urbana do Jardim Primavera."
 description: "Avaliação técnica do Jardim Primavera em Indaiatuba: análise de ruído diurno, comércio de apoio, recuos construtivos e checklist para home office."
 category: "Análise Urbana"

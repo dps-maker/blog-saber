@@ -1,6 +1,5 @@
 ---
 title: "Pé-direito Duplo e Grandes Vidros em Indaiatuba: Como a Orientação Solar Define o Conforto Térmico"
-publishDate: 2026-09-14T19:20:00.000Z
 excerpt: "Grandes panos de vidro e salas com pé-direito duplo trazem luz natural, mas podem criar efeito estufa se a insolação não for calculada na visita."
 description: "Entenda o impacto da orientação solar em casas com pé-direito duplo em Indaiatuba: riscos das faces Norte, Sul e Oeste e checklist antes de comprar."
 category: "Arquitetura e Conforto Térmico"

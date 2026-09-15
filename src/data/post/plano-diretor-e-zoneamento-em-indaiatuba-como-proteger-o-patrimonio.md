@@ -1,6 +1,5 @@
 ---
 title: "Plano Diretor e Zoneamento em Indaiatuba: Como as Regras de Uso do Solo Definem o Futuro do Imóvel"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Paredes e acabamentos reformam-se; o zoneamento do entorno é fixado por lei. Entenda como o Plano Diretor de Indaiatuba afeta sua privacidade e liquidez."
 description: "Descubra como o zoneamento municipal e os vetores de expansão de Indaiatuba protegem o imóvel contra torres vizinhas e tráfego desordenado. Guia prático."
 category: "Análise Urbana"

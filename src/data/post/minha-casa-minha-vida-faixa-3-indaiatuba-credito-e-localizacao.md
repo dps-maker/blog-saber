@@ -1,6 +1,5 @@
 ---
 title: "Minha Casa, Minha Vida Faixa 3 em Indaiatuba: Por Que o Crédito Pesa Mais que o Saldo Guardado"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Juntar o valor da entrada é apenas metade da equação. Entenda como o funding de crédito e a dinâmica viária definem o primeiro imóvel em Indaiatuba."
 description: "Guia prático para comprar o primeiro imóvel pelo Minha Casa, Minha Vida Faixa 3 em Indaiatuba: regras de funding, eixos viários e checklist de compra."
 category: "Inteligência Financeira"

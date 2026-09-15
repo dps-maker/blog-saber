@@ -1,6 +1,5 @@
 ---
 title: "Recreio Campestre Viracopos: O Que Pesar Antes de Trocar a Cidade por Chácara em Indaiatuba"
-publishDate: 2026-09-14T19:55:00.000Z
 excerpt: "Morar em lote amplo afasta o barulho de vizinhos, mas impõe dependência do carro e cuidados de manutenção. Entenda a dinâmica do Recreio Campestre Viracopos."
 description: "Avaliação técnica sobre viver e trabalhar no Recreio Campestre Viracopos em Indaiatuba: estabilidade de fibra óptica, logística de apoio e checklist prático."
 category: "Análise Urbana"

@@ -1,6 +1,5 @@
 ---
 title: "Permuta em Indaiatuba: A Verdade Sobre Liquidez, Torna e Avaliação Real"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "A permuta não é uma simples troca de chaves. Entenda como a liquidez do seu imóvel, o desconto de giro e a torna definem o sucesso da negociação."
 description: "Descubra como funciona a permuta de imóveis em Indaiatuba: cálculo da torna, precificação de mercado, liquidez por bairro e checklist documental."
 category: "Inteligência Imobiliária"

@@ -1,6 +1,5 @@
 ---
 title: "O Erro Logístico dos Novos Sobrados: Por Que a Entrada de Serviço Faz Falta no Dia a Dia"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Casas sem corredor lateral forçam o lixo, compras e prestadores a cruzar a sala social. Entenda o impacto funcional e a liquidez de revenda em Indaiatuba."
 description: "Entenda por que a eliminação do corredor de serviço em sobrados recentes de Indaiatuba compromete a rotina e a privacidade, e veja como avaliar a planta."
 category: "Decisão Imobiliária"

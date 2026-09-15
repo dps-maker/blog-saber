@@ -1,6 +1,5 @@
 ---
 title: "Rotina Híbrida Entre Indaiatuba e São Paulo: A Logística Real no Jardim Umuarama"
-publishDate: 2026-09-13T03:24:00.000Z
 excerpt: "Morar no interior e trabalhar em SP exige precisão de acesso rodoviário. Veja prós, limites e o checklist de visita no Jardim Umuarama."
 description: "Avaliação do Jardim Umuarama em Indaiatuba para profissionais em modelo híbrido com SP: saída para a SP-075, perfil de bairro aberto e dinâmica de rotina."
 category: "Leitura de Cidade e Bairros"

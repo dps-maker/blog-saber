@@ -1,6 +1,5 @@
 ---
 title: "Parque Ecológico de Indaiatuba: Como Funciona a Logística de Lazer e o Impacto nos Bairros Vizinhos"
-publishDate: 2026-09-14T19:55:00.000Z
 excerpt: "Com 15 km de extensão, o Parque Ecológico não é homogêneo. Entenda a dinâmica de vagas, ruído e tráfego antes de passear ou escolher onde morar."
 description: "Guia da logística do Parque Ecológico em Indaiatuba: mapa de saturação, pontos de estacionamento, rotina de eventos e impactos para quem mora no entorno."
 category: "Análise Urbana"

@@ -1,6 +1,5 @@
 ---
 title: "Casa Térrea em Condomínio Fechado: O Que Avaliar no Jardim Quintas da Terracota em Indaiatuba"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "Eliminar escadas previne reformas forçadas no futuro. Entenda a dinâmica de casas térreas, acessibilidade e conexões no Quintas da Terracota."
 description: "Avaliação técnica de casas térreas no Jardim Quintas da Terracota, em Indaiatuba: acessibilidade, conectividade para consultoria, logística e checklist."
 category: "Decisão Imobiliária"

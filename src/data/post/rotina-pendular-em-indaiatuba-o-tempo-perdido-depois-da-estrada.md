@@ -1,6 +1,5 @@
 ---
 title: "Rotina Pendular em Indaiatuba: Como Reduzir o Cansaço Entre a Rodovia e a Porta de Casa"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Viajar a trabalho e morar em Indaiatuba exige calcular a travessia interna. Entenda como a localização central reduz o tempo de volante após a rodovia."
 description: "Guia para o morador pendular em Indaiatuba: avalie o impacto do tráfego interno após a SP-075, compare moradia central com bairros afastados e veja o checklist."
 category: "Mobilidade e Território"

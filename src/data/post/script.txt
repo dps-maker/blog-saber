@@ -95,6 +95,7 @@ O QUE FAZER COM ELEMENTOS DO ORIGINAL
 - Imagens do original: se houver URL real no original, você PODE
   preservar UMA imagem de capa no frontmatter ou no início do corpo.
   Se não houver URL confiável, não invente imagem.
+- publishDate: DEIXAR EM BRANCO, PROIBIDO COLOCAR, TRATA-SE DE POSTAGENS ATEMPORAIS.
 
 ==================================================
 PADRÃO ASTRO — ARQUIVO PRONTO PARA PUBLICAR
@@ -122,7 +123,6 @@ Use exatamente este bloco, preenchendo com dados estratégicos:
 
 ---
 title: "Título reescrito aqui"
-publishDate: YYYY-MM-DDTHH:mm:ss.000Z
 excerpt: "1–2 frases claras, sem hype, até ~160 caracteres"
 description: "Meta description objetiva, otimizada para SEO local, até ~160 caracteres"
 category: "Defina uma categoria editorial inteligente e específica (ex: Guia de Bairros, Análise Urbana, Inteligência Financeira, etc.)"

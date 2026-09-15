@@ -1,6 +1,5 @@
 ---
 title: "Filhos Adolescentes e Condomínio Fechado: O Risco de Virar Motorista da Família em Indaiatuba"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "A casa dos sonhos em bolsões afastados pode sequestrar suas noites de sexta. Entenda a dinâmica de transporte por aplicativo e a autonomia jovem na cidade."
 description: "Avalie o impacto da localização do condomínio na independência dos filhos em Indaiatuba: cobertura de transporte por aplicativo, lazer e checklist prático."
 category: "Análise Urbana"

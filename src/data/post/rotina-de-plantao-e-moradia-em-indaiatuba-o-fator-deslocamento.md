@@ -1,6 +1,5 @@
 ---
 title: "Rotina de Plantão e Moradia em Indaiatuba: Quando a Proximidade Hospitalar Define a Escolha do Imóvel"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Para profissionais de saúde com escalas intensas, morar perto dos hospitais e do Parque Ecológico poupa tempo crítico e preserva o descanso."
 description: "Análise urbana para médicos e profissionais de saúde em Indaiatuba: eixos hospitalares (HAOC, Santa Ignês), isolamento acústico e checklist de moradia."
 category: "Análise Urbana"

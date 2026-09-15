@@ -1,6 +1,5 @@
 ---
 title: "Jardim Brasil em Indaiatuba: A Lógica de Morar Perto da Rodovia Sem Pagar Taxa de Condomínio"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "Morar no interior e trabalhar em SP exige calcular a saída da cidade. Entenda como o Jardim Brasil reduz o tempo até a SP-075 com casas térreas em lote aberto."
 description: "Avaliação técnica do Jardim Brasil em Indaiatuba para moradores pendulares: acesso à SP-075, casas térreas em terrenos tradicionais, custos fixos e checklist."
 category: "Mobilidade e Território"

@@ -1,6 +1,5 @@
 ---
 title: "Parque Barnabé: O Que Avaliar Antes de Investir em Imóveis Comerciais em Avenida em Indaiatuba"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Investir em áreas comerciais em avenida exige mais que visibilidade: o recuo para vagas, a manobra de carga e o zoneamento definem a viabilidade do negócio."
 description: "Estudo sobre áreas comerciais no Parque Barnabé, em Indaiatuba: zoneamento misto, logística de carga, demanda de conveniência e checklist de viabilidade."
 category: "Inteligência Imobiliária"

@@ -1,6 +1,5 @@
 ---
 title: "Kitnet para Renda em Indaiatuba: O Que Avaliar Antes de Comprar"
-publishDate: 2026-09-13T03:25:08.000Z
 excerpt: "Entenda a dinâmica de locação de imóveis compactos em Indaiatuba, os trade-offs de gestão e o checklist essencial para evitar armadilhas de manutenção."
 description: "Guia prático sobre kitnets e studios em Indaiatuba: perfil de inquilino, riscos de condomínio, manutenção predial e o checklist para avaliar a compra."
 category: "Inteligência Imobiliária"

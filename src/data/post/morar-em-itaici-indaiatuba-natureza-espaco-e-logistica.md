@@ -1,6 +1,5 @@
 ---
 title: "Morar em Itaici: O Equilíbrio Real entre Espaço, Natureza e Logística em Indaiatuba"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "Lotes amplos e atmosfera verde atraem quem busca espaço em Itaici, mas a conta real exige calcular o trajeto escolar e os custos fixos de manutenção."
 description: "Guia analítico sobre viver em condomínios fechados em Itaici, Indaiatuba. Avalie a logística viária, custos de lazer privativo e o checklist de visita."
 category: "Guia de Bairros"

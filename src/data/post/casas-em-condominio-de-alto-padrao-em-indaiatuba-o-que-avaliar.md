@@ -1,6 +1,5 @@
 ---
 title: "Casas em Condomínio de Alto Padrão em Indaiatuba: O que Avaliar Antes de Decidir a Mudança"
-publishDate: 2026-09-14T19:25:00.000Z
 excerpt: "A troca de capitais por condomínios de grandes lotes em Indaiatuba exige ponderar custos de manutenção, rotina viária e a dinâmica real de condomínio."
 description: "Guia analítico para quem avalia imóveis de alto padrão em Indaiatuba. Conheça as diferenças de lote, sistemas de segurança, logística e checklist de visita."
 category: "Decisão Imobiliária"

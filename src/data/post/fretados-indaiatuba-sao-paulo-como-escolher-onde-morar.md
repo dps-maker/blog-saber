@@ -1,6 +1,5 @@
 ---
 title: "Fretados e Executivos entre Indaiatuba e SP: Como o Deslocamento Muda a Escolha do Imóvel"
-publishDate: 2026-09-14T19:15:00.000Z
 excerpt: "Trabalhar em São Paulo e morar em Indaiatuba exige calcular o trajeto porta a porta. Veja a diferença entre carro, linhas executivas e fretamento contínuo."
 description: "Guia de deslocamento pendular Indaiatuba–São Paulo. Compare rotas de fretados, linhas rodoviárias e saiba como a logística viária afeta onde morar na cidade."
 category: "Mobilidade e Território"

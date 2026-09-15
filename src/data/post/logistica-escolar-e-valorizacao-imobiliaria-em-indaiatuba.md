@@ -1,6 +1,5 @@
 ---
 title: "Logística Escolar em Indaiatuba: Como o Horário de Pico Define a Liquidez do Imóvel"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "A proximidade de colégios dita a rotina da família e o valor do metro quadrado. Entenda o impacto do tráfego escolar na escolha do imóvel em Indaiatuba."
 description: "Descubra como os clusters educacionais e a logística pendular afetam a liquidez imobiliária em Indaiatuba. Trade-offs, dinâmica urbana e checklist prático."
 category: "Análise Urbana"

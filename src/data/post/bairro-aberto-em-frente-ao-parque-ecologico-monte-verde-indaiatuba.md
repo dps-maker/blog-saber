@@ -1,6 +1,5 @@
 ---
 title: "Bairro Aberto em Frente ao Parque Ecológico: A Conta Real do Monte Verde em Indaiatuba"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Morar em frente ao Parque Ecológico sem taxa de condomínio atrai quem busca liberdade, mas exige checar ruído nos finais de semana e segurança individual."
 description: "Entenda a dinâmica de morar em bairro aberto planejado junto ao Parque Ecológico no Jardim Monte Verde, em Indaiatuba. Trade-offs, custos e checklist prático."
 category: "Análise Urbana"

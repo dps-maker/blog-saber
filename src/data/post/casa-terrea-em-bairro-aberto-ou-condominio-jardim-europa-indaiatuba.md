@@ -1,6 +1,5 @@
 ---
 title: "Casa Térrea em Bairro Aberto ou Condomínio? O Que Avaliar no Jardim Europa em Indaiatuba"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "A escolha entre morar na rua ou em loteamento fechado envolve taxas mensais, segurança e rotas viárias. Entenda a dinâmica do Jardim Europa."
 description: "Compare casa térrea em bairro aberto tradicional com condomínio fechado em Indaiatuba. Custos fixos, dinâmica do Jardim Europa e checklist de visita."
 category: "Análise Urbana"

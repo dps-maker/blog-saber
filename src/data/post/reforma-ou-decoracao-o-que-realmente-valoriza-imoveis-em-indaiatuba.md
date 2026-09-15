@@ -1,6 +1,5 @@
 ---
 title: "Reforma ou Decoração: O Que Realmente Valoriza o Imóvel em Indaiatuba?"
-publishDate: 2026-09-14T20:00:00.000Z
 excerpt: "Pintura nova acelera a venda, mas apenas a infraestrutura sólida sustenta o preço. Entenda a diferença entre liquidez rápida e valorização patrimonial real."
 description: "Descubra quando investir em reforma estrutural ou acabamento cosmético em Indaiatuba: análise de liquidez por bairro, logística de obras e checklist prático."
 category: "Inteligência Imobiliária"

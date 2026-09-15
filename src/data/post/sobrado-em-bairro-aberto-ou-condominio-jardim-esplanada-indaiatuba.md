@@ -1,6 +1,5 @@
 ---
 title: "Sobrado de Rua no Jardim Esplanada: Quando o Bairro Aberto Ganha do Condomínio em Indaiatuba"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Fugir do trânsito da capital para um condomínio isolado pode criar dependência do carro. Entenda a dinâmica da vida a pé no Jardim Esplanada."
 description: "Avalie os trade-offs entre sobrado em bairro tradicional como o Jardim Esplanada e condomínios fechados em Indaiatuba: mobilidade, custos e checklist."
 category: "Análise Urbana"

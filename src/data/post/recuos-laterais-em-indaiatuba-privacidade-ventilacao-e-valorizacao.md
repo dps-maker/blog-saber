@@ -1,6 +1,5 @@
 ---
 title: "Recuos Laterais em Indaiatuba: Por Que o Espaço Entre as Casas Vale Mais Que a Área Construída"
-publishDate: 2026-09-14T20:00:00.000Z
 excerpt: "Casas coladas dividem ruídos, umidade e conflitos. Entenda como as regras de recuo lateral em Indaiatuba protegem a ventilação e a liquidez do imóvel."
 description: "Descubra como os recuos laterais definem a privacidade acústica e a salubridade em Indaiatuba: ventilação cruzada, manutenção autônoma e checklist de visita."
 category: "Decisão Imobiliária"

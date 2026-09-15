@@ -1,6 +1,5 @@
 ---
 title: "Estágio de Ocupação em Condomínio Fechado: O Que a Fase de Obras Cobra da Sua Rotina em Indaiatuba"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Comprar em loteamento recém-entregue impõe taxa cheia de manutenção em meio a betoneiras e caminhões. Entenda a conta real da consolidação do condomínio."
 description: "Avalie o impacto prático do estágio de ocupação em condomínios de Indaiatuba: poeira, ruído diurno, taxa associativa e checklist antes de comprar lote ou casa."
 category: "Decisão Imobiliária"

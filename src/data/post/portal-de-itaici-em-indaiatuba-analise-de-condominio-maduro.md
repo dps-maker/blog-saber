@@ -1,6 +1,5 @@
 ---
 title: "Portal de Itaici em Indaiatuba: O Que Avaliar em um Condomínio Horizontal Maduro"
-publishDate: 2026-09-14T19:50:00.000Z
 excerpt: "Condomínios consolidados eliminam o canteiro de obras, mas exigem atenção à idade das casas e acessos. Entenda a dinâmica real do Portal de Itaici."
 description: "Análise técnica do condomínio Portal de Itaici em Indaiatuba: maturação de vizinhança, logística até a SP-075, perfil de lotes e checklist de visita."
 category: "Análise Urbana"

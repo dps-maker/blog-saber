@@ -1,6 +1,5 @@
 ---
 title: "Casa para Home Office em Condomínio Fechado: O Que Exigir da Planta e do Bairro em Indaiatuba"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Trabalhar em casa exige mais do que silêncio: iluminação matinal, separação de ambientes e acústica definem se o imóvel suporta uma rotina produtiva."
 description: "Guia técnico para quem trabalha remoto em Indaiatuba: zoneamento interno da casa, insolação para escritórios, trade-offs de condomínio e checklist de visita."
 category: "Análise Urbana"

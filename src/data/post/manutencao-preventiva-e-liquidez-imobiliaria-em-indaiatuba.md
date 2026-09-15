@@ -1,6 +1,5 @@
 ---
 title: "Manutenção Preventiva e Liquidez em Indaiatuba: Como o Calendário da Casa Protege o Patrimônio"
-publishDate: 2026-09-14T19:30:00.000Z
 excerpt: "Pintura, calhas e piscinas não são apenas estética. Entenda como o cronograma climático e preventivo preserva o valor e a liquidez de venda em Indaiatuba."
 description: "Guia de gestão patrimonial em Indaiatuba: sazonalidade climática, prevenção contra depreciação no Jardim Pau Preto e Itaici, e checklist de vistoria."
 category: "Gestão Patrimonial"

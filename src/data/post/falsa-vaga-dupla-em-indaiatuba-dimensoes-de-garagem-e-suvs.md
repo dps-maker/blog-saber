@@ -1,6 +1,5 @@
 ---
 title: "A Falsa Vaga Dupla em Indaiatuba: O Conflito Entre Garagens Estreitas e SUVs"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "A vaga na planta nem sempre funciona na vida real. Entenda como testadas estreitas e pilares comprometem o desembarque em garagens de Indaiatuba."
 description: "Por que projetos recentes em Indaiatuba criam garagens disfuncionais para dois carros. Saiba como medir o vão livre e evitar atritos na rotina diária."
 category: "Decisão Imobiliária"

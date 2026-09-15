@@ -1,6 +1,5 @@
 ---
 title: "Jardim Kyoto em Indaiatuba: Quando a Logística Urbana Compensa para Morar ou Trabalhar"
-publishDate: 2026-09-14T19:10:00.000Z
 excerpt: "Acesso rápido à SP-075 e ao Distrito Industrial atrai quem foge do trânsito central, mas exige checar zoneamento, ruído e serviços de apoio."
 description: "Análise da dinâmica viária e urbana do Jardim Kyoto em Indaiatuba. Entenda prós, riscos e o que inspecionar antes de comprar ou alugar na região."
 category: "Análise Urbana"

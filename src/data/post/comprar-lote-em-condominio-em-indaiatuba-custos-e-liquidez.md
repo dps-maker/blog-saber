@@ -1,6 +1,5 @@
 ---
 title: "Comprar Lote em Condomínio em Indaiatuba: Como Avaliar Custos Ocultos e Liquidez"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Achar que a terra nua valoriza sozinha é um risco comum. Entenda a conta real do carrego, a topografia e a posição interna do lote antes de comprar."
 description: "Guia analítico para investir em lotes de condomínio em Indaiatuba: impacto da taxa de condomínio, custos de fundação, posição solar e checklist prático."
 category: "Inteligência Imobiliária"

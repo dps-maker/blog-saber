@@ -1,6 +1,5 @@
 ---
 title: "O Mapa do Ruído em Indaiatuba: Como a Topografia Define o Silêncio do Imóvel"
-publishDate: 2026-09-14T19:45:00.000Z
 excerpt: "Achar que todo o interior é silencioso é um erro comum. Entenda como a topografia, a SP-075 e o Parque Ecológico direcionam o som em Indaiatuba."
 description: "Descubra como os vetores sonoros da SP-075 e do Parque Ecológico afetam bairros em Indaiatuba. Protocolo prático de vistoria acústica antes de comprar."
 category: "Análise Urbana"

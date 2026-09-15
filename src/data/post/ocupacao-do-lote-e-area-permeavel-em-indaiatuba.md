@@ -1,6 +1,5 @@
 ---
 title: "O Fim do Quintal: Por Que a Superocupação do Lote Compromete o Conforto e a Liquidez em Indaiatuba"
-publishDate: 2026-09-14T19:40:00.000Z
 excerpt: "Construir até o limite do terreno encarece a casa e sufoca o microclima. Entenda por que a área permeável virou o verdadeiro artigo de luxo em Indaiatuba."
 description: "Avalie o impacto térmico e financeiro da taxa de ocupação do lote em Indaiatuba: ventilação cruzada, custos de reversão de piso e checklist de visita."
 category: "Decisão Imobiliária"

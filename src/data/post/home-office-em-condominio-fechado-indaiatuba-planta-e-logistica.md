@@ -1,6 +1,5 @@
 ---
 title: "Home Office em Condomínio Fechado em Indaiatuba: O Que a Planta e a Cidade Cobram de Você"
-publishDate: 2026-09-14T19:35:00.000Z
 excerpt: "Trabalhar em casa exige mais que silêncio: o isolamento acústico da planta e a distância dos serviços urbanos definem a viabilidade da rotina."
 description: "Avalie os trade-offs de morar e trabalhar remotamente em condomínio fechado em Indaiatuba: setorização interna, rotas de apoio e checklist prático."
 category: "Análise Urbana"

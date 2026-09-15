@@ -1,6 +1,5 @@
 ---
 title: "Reformas no Jardim Esplanada: O Que Realmente Valoriza o Imóvel na Revenda"
-publishDate: 2026-09-14T20:00:00.000Z
 excerpt: "Piscina nem sempre agrega valor e acabamento exótico encarece a obra sem retorno. Entenda o que o mercado busca em casas no Jardim Esplanada."
 description: "Guia técnico de reforma e retrofit no Jardim Esplanada em Indaiatuba: integração de ambientes, elétrica invisível, risco de overimprovement e checklist."
 category: "Inteligência Imobiliária"

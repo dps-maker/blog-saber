@@ -1,6 +1,5 @@
 ---
 title: "Itaici em Indaiatuba: Como o Eixo da Estanislau do Amaral Muda a Conta da Moradia"
-publishDate: 2026-09-14T19:35:00.000Z
 excerpt: "A expansão de comércio e serviços na Av. Cel. Antônio Estanislau do Amaral altera a rotina e a liquidez de quem compra em condomínios de Itaici."
 description: "Análise da dinâmica urbana de Itaici em Indaiatuba: impacto do corredor comercial da Estanislau do Amaral, trade-offs e checklist antes de comprar."
 category: "Análise Urbana"
