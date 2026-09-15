@@ -81,7 +81,7 @@ tags:
  <li><strong>Vistoria em dois turnos opostos:</strong> visite o imóvel em uma terça-feira à tarde e retorne em um domingo entre 11h e 16h para comparar a pressão sonora e o fluxo de veículos na via.</li>
  <li><strong>Distância de pontos de eventos periódicos:</strong> verifique a proximidade do lote com áreas que recebem palcos, festivais gastronômicos ou competições esportivas recorrentes.</li>
  <li><strong>Acesso e saída da garagem em horários de pico:</strong> confira se a rua permite conversões simples para a marginal ou se o acesso exige enfrentar cruzamentos semaforizados lentos[cite: 18, 22].</li>
- <li><strong>Isolamento acústico dos cômodos frontais:</strong> confira a espessura dos vidros e a vedação de janelas voltadas para a avenida principal[cite: 7].</li>
+ <li><strong>Isolamento acústico dos cômodos frontais:</strong> confira a espessura dos vidros e a vedação de janelas voltadas para a avenida principal.</li>
  <li><strong>Sombra e ventilação do trecho:</strong> analise se o trecho específico conta com arborização consolidada que refresca a fachada ou se o asfalto largo projeta calor em direção à residência.</li>
 </ol>
 
