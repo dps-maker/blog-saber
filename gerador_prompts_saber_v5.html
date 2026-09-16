@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saber Prompt Studio v5.0 — Gerador de Artigos de Elite SEO</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #070a12;
+      --card-bg: #0f1523;
+      --card-border: #1e293b;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --accent-glow: rgba(59, 130, 246, 0.28);
+      --accent-emerald: #10b981;
+      --accent-amber: #f59e0b;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --input-bg: #0a0e18;
+      --input-border: #243049;
+      --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      --success: #059669;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      line-height: 1.55;
+      padding: 20px 14px 60px;
+      min-height: 100vh;
+    }
+
+    .container { max-width: 1560px; margin: 0 auto; }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    .logo-badge { display: inline-flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .logo-badge h1 {
+      font-size: 1.5rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #60a5fa 0%, #38bdf8 50%, #a5f3fc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .version-pill {
+      font-size: 0.72rem;
+      background: linear-gradient(135deg, #1e3a5f, #0f2744);
+      color: #7dd3fc;
+      padding: 3px 10px;
+      border-radius: 9999px;
+      font-weight: 700;
+      border: 1px solid #1e40af;
+      letter-spacing: 0.03em;
+    }
+    .sub-tag {
+      font-size: 0.78rem;
+      background: #1e293b;
+      color: #93c5fd;
+      padding: 4px 11px;
+      border-radius: 9999px;
+      font-weight: 600;
+      border: 1px solid #334155;
+    }
+
+    .header-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    button {
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      font-weight: 600;
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      transition: all 0.18s ease;
+      user-select: none;
+    }
+
+    .btn-dice {
+      background: linear-gradient(135deg, #1e293b, #1e3a5f);
+      color: #e0f2fe;
+      border: 1px solid #3b82f6;
+      box-shadow: 0 0 16px rgba(59, 130, 246, 0.22);
+    }
+    .btn-dice:hover {
+      background: linear-gradient(135deg, #243447, #1e40af);
+      border-color: #60a5fa;
+      transform: translateY(-1px);
+      box-shadow: 0 0 22px rgba(59, 130, 246, 0.35);
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: white;
+      box-shadow: 0 4px 14px var(--accent-glow);
+    }
+    .btn-primary:hover { background: var(--accent-hover); transform: translateY(-1px); }
+
+    .btn-success {
+      background: var(--success);
+      color: white;
+      box-shadow: 0 4px 14px rgba(5, 150, 105, 0.25);
+    }
+    .btn-success:hover { background: #047857; transform: translateY(-1px); }
+
+    .btn-ghost {
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px solid var(--card-border);
+    }
+    .btn-ghost:hover { border-color: #475569; color: #e2e8f0; background: #1e293b; }
+
+    .workspace {
+      display: grid;
+      grid-template-columns: 1.08fr 0.92fr;
+      gap: 20px;
+    }
+    @media (max-width: 1180px) { .workspace { grid-template-columns: 1fr; } }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      border-bottom: 1px solid #1e293b;
+      padding-bottom: 11px;
+      flex-wrap: wrap;
+    }
+
+    .counter-pill {
+      font-size: 0.72rem;
+      background: rgba(56, 189, 248, 0.1);
+      color: #38bdf8;
+      border: 1px solid rgba(56, 189, 248, 0.22);
+      padding: 3px 9px;
+      border-radius: 6px;
+      font-family: var(--font-mono);
+      white-space: nowrap;
+    }
+
+    .notice-box {
+      font-size: 0.82rem;
+      background: rgba(37, 99, 235, 0.07);
+      border: 1px solid rgba(37, 99, 235, 0.18);
+      padding: 11px 14px;
+      border-radius: 8px;
+      color: #93c5fd;
+      line-height: 1.5;
+    }
+    .notice-box strong { color: #bfdbfe; }
+
+    .form-group { display: flex; flex-direction: column; gap: 5px; }
+    label {
+      font-size: 0.76rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.045em;
+    }
+
+    input, select, textarea {
+      font-family: var(--font-sans);
+      background: var(--input-bg);
+      border: 1px solid var(--input-border);
+      color: var(--text);
+      padding: 9px 12px;
+      border-radius: 7px;
+      font-size: 0.9rem;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      width: 100%;
+    }
+    input:focus, select:focus, textarea:focus {
+      outline: none;
+      border-color: #3b82f6;
+      box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.18);
+    }
+    textarea { resize: vertical; min-height: 68px; line-height: 1.5; }
+    select { cursor: pointer; }
+
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 11px; }
+    .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 11px; }
+    @media (max-width: 640px) {
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    }
+
+    .section-divider {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #64748b;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 6px;
+      padding-top: 10px;
+      border-top: 1px dashed #1e293b;
+    }
+
+    .prompt-box {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      background: #060910;
+      color: #cbd5e1;
+      border: 1px solid #1e293b;
+      border-radius: 8px;
+      padding: 16px;
+      height: 680px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      line-height: 1.55;
+    }
+
+    .stats-bar {
+      display: flex;
+      gap: 14px;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      font-family: var(--font-mono);
+      flex-wrap: wrap;
+    }
+    .stats-bar span { color: #38bdf8; }
+
+    .toast {
+      position: fixed;
+      bottom: 22px;
+      right: 22px;
+      background: var(--success);
+      color: white;
+      padding: 13px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.92rem;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.55);
+      display: none;
+      z-index: 1000;
+      max-width: 360px;
+    }
+
+    .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+    .chip {
+      font-size: 0.72rem;
+      background: #1e293b;
+      color: #94a3b8;
+      padding: 3px 8px;
+      border-radius: 5px;
+      border: 1px solid #334155;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip:hover, .chip.active {
+      background: #1e3a5f;
+      color: #7dd3fc;
+      border-color: #3b82f6;
+    }
+
+    .history-list {
+      max-height: 120px;
+      overflow-y: auto;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      font-family: var(--font-mono);
+      border: 1px solid #1e293b;
+      border-radius: 6px;
+      padding: 8px 10px;
+      background: #0a0e18;
+    }
+    .history-list div { padding: 2px 0; border-bottom: 1px solid #1e293b22; }
+    .history-list div:last-child { border-bottom: none; }
+
+    .badge-new {
+      font-size: 0.65rem;
+      background: #059669;
+      color: white;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-weight: 700;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <div class="logo-badge">
+      <h1>Saber Prompt Studio</h1>
+      <span class="version-pill">v5.0 · Elite SEO Engine</span>
+      <span class="sub-tag">Gerador de Briefings + Prompts de Alta Performance • Blog Saber Indaiatuba</span>
+    </div>
+    <div class="header-actions">
+      <button class="btn-dice" id="btnSortear" onclick="sortearNovaIdeia(true)">
+        🎲 Sortear Briefing Completo
+      </button>
+      <button class="btn-ghost" onclick="sortearNovaIdeia(false)" title="Mantém bairro/tema e revaria ângulo e controles">
+        🔄 Revariar Ângulo
+      </button>
+      <button class="btn-primary" onclick="copiarPrompt()">
+        📋 Copiar Prompt
+      </button>
+      <button class="btn-success" onclick="baixarPromptTxt()">
+        ⬇️ Baixar .txt
+      </button>
+    </div>
+  </header>
+
+  <div class="workspace">
+    <!-- COLUNA ESQUERDA -->
+    <div class="card">
+      <div class="card-title">
+        <span>Parâmetros de Briefing Editorial <span class="badge-new">v5</span></span>
+        <span class="counter-pill" id="counter_badge">🎲 Pronto</span>
+      </div>
+
+      <div class="notice-box">
+        🎯 <strong>Fluxo Elite:</strong> O sorteador combina bairro × tema × ângulo × intenção de busca × profundidade × tom. Ajuste qualquer campo e o prompt da direita atualiza em tempo real. Cole o script completo na IA para obter um .md inédito, denso e com SEO de nível mundial.
+      </div>
+
+      <!-- Controles de variação -->
+      <div class="section-divider">Controles de Variação & SEO</div>
+      <div class="grid-3">
+        <div class="form-group">
+          <label>Ângulo Editorial</label>
+          <select id="f_angulo" onchange="atualizarPrompt()">
+            <option value="analise-critica">Análise Crítica / Desmontagem</option>
+            <option value="protocolo-campo">Protocolo de Campo / Checklist</option>
+            <option value="comparativo">Comparativo Local</option>
+            <option value="custo-oculto">Custo Oculto & CAPEX</option>
+            <option value="rotina-real">Rotina Real do Morador</option>
+            <option value="mito-vs-fato">Mito vs. Fato Urbano</option>
+            <option value="decisao-familia">Decisão Familiar / Longo Prazo</option>
+            <option value="vistoria-tecnica">Vistoria Técnica Profunda</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Intenção de Busca Principal</label>
+          <select id="f_intent" onchange="atualizarPrompt()">
+            <option value="informational">Informacional (aprender)</option>
+            <option value="commercial">Comercial de Investigação</option>
+            <option value="transactional">Pré-Transacional (decisão)</option>
+            <option value="navigational-local">Local / “perto de mim”</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Profundidade / Extensão</label>
+          <select id="f_depth" onchange="atualizarPrompt()">
+            <option value="padrao">Padrão (900–1.200 palavras)</option>
+            <option value="denso">Denso (1.300–1.700 palavras)</option>
+            <option value="pillar">Pillar / Definitivo (1.800–2.400)</option>
+            <option value="rapido">Rápido & Cirúrgico (700–900)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Tom Editorial</label>
+          <select id="f_tom" onchange="atualizarPrompt()">
+            <option value="analista">Analista Urbano Independente</option>
+            <option value="mentor">Mentor Pragmático (estilo REI / HubSpot)</option>
+            <option value="investigativo">Jornalista Investigativo Local</option>
+            <option value="tecnico">Engenheiro / Arquiteto Técnico</option>
+            <option value="familia">Consultor de Família & Rotina</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Nível de Localismo</label>
+          <select id="f_localismo" onchange="atualizarPrompt()">
+            <option value="alto">Alto (citar vias, microclima, dinâmicas reais)</option>
+            <option value="medio">Médio (bairro + 1-2 eixos principais)</option>
+            <option value="contextual">Contextual Indaiatuba (menos hiperlocal)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="section-divider">Briefing da Pauta (editável)</div>
+
+      <div class="form-group">
+        <label>Pauta / Título Sugerido</label>
+        <input type="text" id="f_title" oninput="atualizarPrompt()">
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Bairro / Região</label>
+          <input type="text" id="f_bairro" oninput="atualizarPrompt()">
+        </div>
+        <div class="form-group">
+          <label>Categoria Editorial</label>
+          <input type="text" id="f_category" oninput="atualizarPrompt()">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Vias, Eixos e Referências Reais</label>
+        <input type="text" id="f_vias" oninput="atualizarPrompt()">
+      </div>
+
+      <div class="form-group">
+        <label>Dor Concreta / Ponto Cego do Comprador</label>
+        <textarea id="f_dor" rows="2" oninput="atualizarPrompt()"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Crença de Mercado a Desarmar</label>
+        <textarea id="f_crenca" rows="2" oninput="atualizarPrompt()"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Mecânica Urbana, Solo, Clima e Tráfego</label>
+        <textarea id="f_mecanica" rows="3" oninput="atualizarPrompt()"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Contraindicação Honesta (para quem NÃO serve)</label>
+        <textarea id="f_limite" rows="2" oninput="atualizarPrompt()"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Insight Único / Ângulo Diferencial (anti-genérico)</label>
+        <textarea id="f_insight" rows="2" oninput="atualizarPrompt()" placeholder="Algo que quase ninguém escreve sobre este bairro + tema..."></textarea>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Palavra-chave Primária (SEO)</label>
+          <input type="text" id="f_kw_primary" oninput="atualizarPrompt()" placeholder="ex: casa em Jardim Esplanada Indaiatuba">
+        </div>
+        <div class="form-group">
+          <label>Keywords Secundárias / LSI</label>
+          <input type="text" id="f_kw_secondary" oninput="atualizarPrompt()" placeholder="separadas por vírgula">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Tags Recomendadas (frontmatter)</label>
+        <input type="text" id="f_tags" oninput="atualizarPrompt()">
+      </div>
+
+      <div class="section-divider">Histórico de Sorteios (anti-repetição)</div>
+      <div class="history-list" id="history_list">Nenhum sorteio ainda nesta sessão.</div>
+    </div>
+
+    <!-- COLUNA DIREITA -->
+    <div class="card">
+      <div class="card-title">
+        <span>Script Completo para a IA</span>
+        <div class="stats-bar">
+          <div>Chars: <span id="char_count">0</span></div>
+          <div>Linhas: <span id="line_count">0</span></div>
+          <div>Palavras ~ <span id="word_count">0</span></div>
+        </div>
+      </div>
+
+      <div id="prompt_output" class="prompt-box"></div>
+
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:10px; margin-top:auto; flex-wrap:wrap;">
+        <button class="btn-primary" style="flex:1; min-width:180px;" onclick="copiarPrompt()">
+          📋 Copiar Script Completo
+        </button>
+        <button class="btn-success" onclick="baixarPromptTxt()">
+          ⬇️ Baixar TXT
+        </button>
+        <button class="btn-ghost" onclick="copiarSoFrontmatter()" title="Copia apenas o bloco de frontmatter YAML">
+          YAML
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast">Script copiado!</div>
+
+<script>
+/* ============================================================
+   SABER PROMPT STUDIO v5.0 — Elite SEO Engine
+   ============================================================ */
+
+const BAIRROS = [
+  { nome: 'Itaici', perfil: 'chácaras e condomínios arborizados com acesso pela Rodovia SP-075', via: 'Alameda José Amstalden e Estanislau do Amaral', caracteristica: 'microclima mais ameno, solo com lençol freático alto em alguns trechos e rotina campestre com deslocamento rodoviário ágil', clima: 'ventos de sudeste mais constantes, noites mais frescas', risco: 'alagamento pontual em pontos baixos após chuvas fortes' },
+  { nome: 'Jardim Esplanada', perfil: 'bairro nobre consolidado com ruas largas coladas ao Parque Ecológico', via: 'Avenida Engenheiro Fábio Roberto Barnabé', caracteristica: 'caminhabilidade total, proximidade com colégios tradicionais, valorização consolidada e tráfego esportivo aos domingos', clima: 'alta insolação nas faces oeste das casas de esquina', risco: 'pressão de estacionamento e ruído de lazer nos fins de semana' },
+  { nome: 'Parque Ecológico', perfil: 'eixo linear de lazer, esporte e alta densidade de serviços', via: 'Marginal do Parque Ecológico (trecho Centro-Sul)', caracteristica: 'alta insolação, ventos contínuos no vale do córrego Barnabé e disputa acirrada por estacionamento aos finais de semana', clima: 'efeito de canal de vento no vale', risco: 'ruído de eventos e fluxo intenso de pedestres/ciclistas' },
+  { nome: 'Jardim Pau Preto', perfil: 'centro histórico expandido com forte apelo para retrofits e serviços a pé', via: 'Rua Pedro de Toledo e imediações do Museu da Água', caracteristica: 'topografia suave, recuos frontais generosos de casas dos anos 70/80 e ruas arborizadas com silêncio residencial', clima: 'sombra generosa de árvores maduras', risco: 'infraestrutura antiga (água/esgoto/fiação) em trechos' },
+  { nome: 'Jardim Europa', perfil: 'casas térreas de rua com perfil familiar e padrão construtivo elevado', via: 'Avenida Presidente Kennedy e transversais', caracteristica: 'ausência de taxa de condomínio, percepção comunitária de vigilância e fácil acesso ao polo gastronômico', clima: 'ventilação boa nas transversais', risco: 'trânsito de passagem em horários de pico' },
+  { nome: 'Jardim Montreal Residence', perfil: 'condomínio fechado com lotes compactos e alta densidade inteligente', via: 'Acesso rápido ao anel viário sul', caracteristica: 'custo operacional e taxa condominial enxutos, perfil voltado a quem busca praticidade com menor manutenção de quintal', clima: 'microclima de área fechada, menos vento', risco: 'limitação de expansão futura da planta' },
+  { nome: 'Helvetia e Borda da SP-075', perfil: 'polo executivo, hípico e médico com raízes tradicionais suíças', via: 'Estrada do Helvetia e conexão Viracopos', caracteristica: 'silêncio profundo, logística executiva de 12 minutos ao aeroporto, lotes acima de 1.000m² e restrições de zoneamento rígidas', clima: 'noites muito silenciosas e frescas', risco: 'dependência total de carro e restrições de uso do solo' },
+  { nome: 'Cidade Nova', perfil: 'bairro central tradicional de alta liquidez e terrenos escassos', via: 'Rua Tuiuti, 11 de Junho e Humaitá', caracteristica: 'infraestrutura completa, comércio de bairro onde se faz tudo a pé e perfil estável de moradores de longa data', clima: 'ilha de calor urbana mais presente', risco: 'escassez de vagas e pressão de verticalização' },
+  { nome: 'Jardim Moacyr Arruda', perfil: 'enclave residencial discreto entre a zona central e o parque', via: 'Ruas sem saída e tráfego estritamente local', caracteristica: 'tranquilidade sonora acima da média, casas térreas sólidas e preservação de privacidade rara na área urbana', clima: 'sombra e umidade controlada', risco: 'poucas opções de ampliação de lote' },
+  { nome: 'Vila Suíça', perfil: 'região nobre de transição entre o centro histórico e as avenidas principais', via: 'Avenida Itororó e Rua Bernardino de Campos', caracteristica: 'casas amplas com jardins formados, árvores de grande porte e rota de fuga contra o trânsito das 18h', clima: 'cobertura arbórea densa', risco: 'manutenção de árvores grandes e possível sombra excessiva' },
+  { nome: 'Quintas da Terracota', perfil: 'loteamento fechado com ênfase em arquitetura contemporânea e lotes amplos', via: 'Acesso pela Rodovia Santos Dumont km 52', caracteristica: 'ventilação cruzada abundante pelo relevo elevado, vista desobstruída e integração total com a paisagem natural', clima: 'ventos constantes e insolação plena', risco: 'exposição ao vento e necessidade de proteção solar bem dimensionada' },
+  { nome: 'Parque Barnabé', perfil: 'corredor comercial e misto com expansão de serviços especializados', via: 'Avenida Fábio Roberto Barnabé (lado Sul)', caracteristica: 'ótima visibilidade para negócios de consultoria, clínicas e serviços de conveniência de bairro', clima: 'insolação alta nas faces norte/oeste', risco: 'ruído comercial e fluxo de veículos de serviço' },
+  { nome: 'Jardim Primavera', perfil: 'bairro residencial calmo com praças de vizinhança consolidadas', via: 'Avenida Conceição e ruas circundantes', caracteristica: 'baixa circulação de carretas, arborização histórica e excelente isolamento sonoro para home office', clima: 'microclima residencial ameno', risco: 'envelhecimento da infraestrutura em algumas quadras' },
+  { nome: 'Jardim Toscana', perfil: 'condomínio fechado contemporâneo com projetos modernos e lotes regulares', via: 'Ligação direta à Rodovia Cônego Cyriaco Scaranelo', caracteristica: 'padrão arquitetônico recente, fiação subterrânea em quadras novas e valorização acelerada', clima: 'insolação controlável por orientação de planta', risco: 'taxa condominial e regras de uso mais rígidas' },
+  { nome: 'Vila Homero', perfil: 'bairro estratégico de rápida evasão rodoviária sem pedágios urbanos', via: 'Saída expressa para Campinas e SP-075', caracteristica: 'praticidade máxima para quem atua em regime híbrido e viaja 3 vezes por semana a trabalho', clima: 'exposição a ruído de rodovia em trechos próximos', risco: 'dependência de veículo e possível pressão de expansão viária' },
+  { nome: 'Jardim Califórnia', perfil: 'bairro residencial de médio-alto padrão com boa oferta de casas de rua', via: 'Ruas transversais à Avenida Presidente Kennedy', caracteristica: 'equilíbrio entre privacidade e acesso a serviços, perfil familiar consolidado', clima: 'ventilação regular', risco: 'variação de padrão construtivo entre quadras' },
+  { nome: 'Residencial Portal dos Ipês', perfil: 'condomínio com foco em família e áreas comuns bem dimensionadas', via: 'Acesso controlado próximo ao anel viário', caracteristica: 'segurança perimetral, lazer compartilhado e menor necessidade de quintal grande', clima: 'microclima de área fechada', risco: 'regras de convivência e custo condominial' },
+  { nome: 'Jardim Morada do Sol', perfil: 'expansão residencial com mix de casas e pequenos comércios de apoio', via: 'Eixos de ligação com o centro e com a SP-075', caracteristica: 'preço de entrada mais acessível em relação aos bairros nobres consolidados', clima: 'insolação plena em lotes novos', risco: 'infraestrutura ainda em consolidação em alguns trechos' }
+];
+
+const TEMAS = [
+  {
+    tema: 'Acústica Urbana e Ventos',
+    crenca: 'Achar que muro alto de condomínio ou vidro duplo resolve qualquer ruído da cidade.',
+    dor: 'Comprar o imóvel e descobrir, na primeira noite de vento, que a curva de relevo e o alinhamento das vias canalizam o som da rodovia ou de avenidas expressas direto para a janela dos quartos.',
+    categoria: 'Análise Urbana & Acústica',
+    tags: ['Acústica Urbana', 'Indaiatuba', 'Zoneamento', 'Planejamento Residencial'],
+    insightBase: 'O ruído em Indaiatuba raramente é “volume constante”; ele é direcional e depende de vento, topografia e horário de pico escolar/comercial.'
+  },
+  {
+    tema: 'Orientação Solar e Conforto Térmico',
+    crenca: 'Achar que sol da tarde se resolve apenas instalando aparelhos potentes de ar-condicionado.',
+    dor: 'Projetar ou comprar suítes viradas para o poente com fachadas envidraçadas que acumulam calor até as 22h, elevando a conta de luz e degradando a qualidade do sono.',
+    categoria: 'Arquitetura & Conforto Térmico',
+    tags: ['Insolação', 'Orientação Solar', 'Arquitetura', 'Imóveis Indaiatuba'],
+    insightBase: 'Em Indaiatuba o sol de final de tarde (oeste/noroeste) é especialmente agressivo entre setembro e março; a solução mais barata quase sempre é projeto, não equipamento.'
+  },
+  {
+    tema: 'Casa Térrea vs. Sobrado',
+    crenca: 'Achar que o sobrado sempre oferece o melhor aproveitamento de terreno e menor custo por metro quadrado.',
+    dor: 'Ignorar a logística familiar de longo prazo: escadas que viram barreiras para crianças pequenas, pets idosos ou pós-operatórios, além do custo de manutenção de calhas e pintura externa duplicado.',
+    categoria: 'Tipologia & Planta',
+    tags: ['Casa Térrea', 'Sobrado', 'Liquidez Imobiliária', 'Acessibilidade'],
+    insightBase: 'A liquidez de uma casa térrea bem localizada em Indaiatuba costuma ser superior à de sobrados equivalentes quando o comprador final tem mais de 50 anos ou filhos pequenos.'
+  },
+  {
+    tema: 'Logística Escolar e Trânsito Pendular',
+    crenca: 'Achar que em cidade de médio porte qualquer trajeto leva menos de 5 minutos de carro.',
+    dor: 'Gastar 35–50 minutos diários no cruzamento das rotatórias centrais nos horários de pico escolar (7h10–7h40 e 17h20–18h10), anulando a sonhada paz ao migrar de São Paulo.',
+    categoria: 'Mobilidade & Rotina',
+    tags: ['Trânsito Escolar', 'Mobilidade Urbana', 'Rotina Familiar', 'Indaiatuba'],
+    insightBase: 'O gargalo real não é a distância em km, e sim a concentração de colégios e o desenho das rotatórias no eixo central em horários muito específicos.'
+  },
+  {
+    tema: 'Garagem Real vs. Dimensão de SUVs',
+    crenca: 'Achar que “duas vagas cobertas” na planta atendem qualquer veículo moderno da família.',
+    dor: 'Comprar a casa e constatar que, ao estacionar um SUV médio e outro veículo, os passageiros não conseguem abrir as portas sem bater no pilar ou no recuo lateral.',
+    categoria: 'Engenharia de Uso',
+    tags: ['Garagem', 'Planta Residencial', 'Vistorias', 'Projetos'],
+    insightBase: 'A medida útil de uma vaga “de verdade” em 2024–2026 precisa considerar abertura de porta de SUV + carrinho de bebê ou cadeirante, não só o comprimento do carro.'
+  },
+  {
+    tema: 'Topografia do Lote e Capex Oculto',
+    crenca: 'Achar que lote em declive com valor 15–25% abaixo da média compensa financeiramente a construção.',
+    dor: 'Economizar na escritura e gastar três a quatro vezes mais em muros de arrimo, sapatas profundas, drenagem reforçada e bota-fora de terra.',
+    categoria: 'Inteligência Financeira',
+    tags: ['Topografia', 'Custo de Obra', 'Terrenos em Condomínio', 'Construção'],
+    insightBase: 'Em Indaiatuba o custo de contenção e drenagem em terrenos com mais de 1,5 m de desnível costuma superar qualquer “desconto” de tabela.'
+  },
+  {
+    tema: 'Recuos Laterais e Privacidade Visual',
+    crenca: 'Achar que 1,5 metro de recuo lateral nas normas municipais resguarda a intimidade da casa.',
+    dor: 'Janelas de dormitórios alinhadas parede-com-parede com o terraço ou varanda gourmet do vizinho, obrigando ao uso de cortinas fechadas o dia inteiro.',
+    categoria: 'Planejamento e Privacidade',
+    tags: ['Privacidade', 'Recuos Obrigatórios', 'Plano Diretor', 'Qualidade de Vida'],
+    insightBase: 'O problema quase nunca é o recuo mínimo da lei; é a falta de projeto de aberturas e a ausência de vegetação ou brise no momento da compra.'
+  },
+  {
+    tema: 'Retrofit e Potencial de Casas Antigas',
+    crenca: 'Achar que reforma cosmética (pintura moderna e piso vinílico) valoriza casa antiga com segurança.',
+    dor: 'Comprar casa dos anos 80/90 sem periciar a fiação elétrica, o encanamento de cobre/ferro e a impermeabilização dos baldrames, herdando infiltrações crônicas.',
+    categoria: 'Retrofit & Valorização',
+    tags: ['Retrofit', 'Casas Antigas', 'Engenharia Diagnóstica', 'Investimento Imobiliário'],
+    insightBase: 'Em bairros como Jardim Pau Preto e Cidade Nova o potencial de retrofit é real, mas só se o diagnóstico estrutural e de instalações for feito antes da proposta.'
+  },
+  {
+    tema: 'Trabalho Híbrido SP–Indaiatuba',
+    crenca: 'Achar que a viagem pela Rodovia dos Bandeirantes ou Santos Dumont é sempre fluida e previsível.',
+    dor: 'Não computar o tempo “pós-pedágio” dentro da malha de tráfego local de Indaiatuba para chegar em casa após um dia extenuante de trabalho na capital.',
+    categoria: 'Estilo de Vida & Migração',
+    tags: ['Trabalho Híbrido', 'Migração SP', 'Rodovia SP-075', 'Vida no Interior'],
+    insightBase: 'O diferencial real não é só o tempo de rodovia; é a distância da casa até o acesso à SP-075 ou Santos Dumont em horário de pico de retorno.'
+  },
+  {
+    tema: 'Lazer Gourmet e Custos de Manutenção',
+    crenca: 'Achar que ter piscina com cascata e área gourmet imensa é puro lazer sem custo de tempo.',
+    dor: 'Transformar as manhãs de sábado em tarefas mecânicas de aspiração, controle químico de cloro e limpeza de pedras atérmicas em vez de descansar com a família.',
+    categoria: 'Custos de Posse & Rotina',
+    tags: ['Área Gourmet', 'Custo de Posse', 'Manutenção Residencial', 'Uso Real'],
+    insightBase: 'O custo real de uma área gourmet + piscina em Indaiatuba não é só financeiro; é a captura de 4–8 horas semanais de tempo do casal.'
+  },
+  {
+    tema: 'Densidade e Escala de Condomínio',
+    crenca: 'Achar que condomínio fechado sempre entrega mais segurança e qualidade de vida que rua aberta.',
+    dor: 'Descobrir que a taxa condominial, as regras de uso e a densidade de vizinhos geram mais atrito diário do que a vida em rua consolidada com boa vizinhança.',
+    categoria: 'Condomínio vs. Rua',
+    tags: ['Condomínio Fechado', 'Taxa Condominial', 'Qualidade de Vida', 'Indaiatuba'],
+    insightBase: 'Em muitos bairros de Indaiatuba a percepção de segurança de rua aberta bem consolidada é igual ou superior à de condomínios de baixa densidade, com custo mensal muito menor.'
+  },
+  {
+    tema: 'Infraestrutura de Água, Esgoto e Energia',
+    crenca: 'Achar que “água e esgoto da rua” significa zero risco de obra futura.',
+    dor: 'Comprar imóvel em área de expansão e descobrir que a rede ainda é precária ou que a capacidade de energia exige reforço caro para o padrão de consumo atual (ar, carro elétrico, home office).',
+    categoria: 'Infraestrutura & Risco',
+    tags: ['Infraestrutura', 'Rede de Água', 'Energia Elétrica', 'Risco de Obra'],
+    insightBase: 'O mapa oficial da prefeitura e o histórico de reclamações no bairro dizem mais sobre risco de infraestrutura do que o anúncio do corretor.'
+  },
+  {
+    tema: 'Home Office e Isolamento Acústico Real',
+    crenca: 'Achar que qualquer quarto extra vira escritório funcional.',
+    dor: 'Instalar o home office em cômodo com parede compartilhada com a rua ou com a área de serviço e descobrir que reuniões viram inviáveis entre 7h30 e 9h e entre 17h e 19h.',
+    categoria: 'Trabalho Remoto & Planta',
+    tags: ['Home Office', 'Isolamento Acústico', 'Planta Residencial', 'Produtividade'],
+    insightBase: 'O melhor cômodo para home office em Indaiatuba quase nunca é o que tem a “melhor vista”; é o que tem a menor exposição a ruído de rua e de área de serviço.'
+  },
+  {
+    tema: 'Valorização vs. Liquidez Real',
+    crenca: 'Achar que o bairro que mais valorizou nos últimos 5 anos é automaticamente o melhor lugar para comprar agora.',
+    dor: 'Comprar no pico de valorização de um condomínio novo e descobrir que o tempo médio de venda (liquidez) é o dobro do de um bairro consolidado equivalente.',
+    categoria: 'Inteligência de Mercado',
+    tags: ['Valorização Imobiliária', 'Liquidez', 'Mercado Imobiliário Indaiatuba', 'Decisão de Compra'],
+    insightBase: 'Em Indaiatuba, liquidez (tempo até vender) costuma ser mais importante para o patrimônio familiar do que a valorização percentual de curto prazo.'
+  },
+  {
+    tema: 'Arborização, Sombra e Manutenção',
+    crenca: 'Achar que árvore grande no terreno é sempre um ativo de qualidade de vida.',
+    dor: 'Herdar árvores de grande porte com raízes que ameaçam calçada, muro ou tubulação, e descobrir que a poda e a eventual remoção têm custo e burocracia significativos.',
+    categoria: 'Paisagismo & Manutenção',
+    tags: ['Arborização', 'Manutenção Residencial', 'Paisagismo', 'Custo de Posse'],
+    insightBase: 'A sombra de uma árvore madura em Indaiatuba é valiosa, mas só se a espécie e a localização forem compatíveis com a infraestrutura do lote.'
+  }
+];
+
+const ANGULOS = {
+  'analise-critica': {
+    label: 'Análise Crítica / Desmontagem',
+    instrucao: 'Desmonte a crença comum com evidências de campo, mecânica urbana e consequências reais na rotina. Tom analítico, sem condescendência.'
+  },
+  'protocolo-campo': {
+    label: 'Protocolo de Campo / Checklist',
+    instrucao: 'Estruture o artigo como um protocolo prático de visita e decisão. Inclua perguntas específicas, medições simples e sinais de alerta que o leitor pode aplicar sozinho.'
+  },
+  'comparativo': {
+    label: 'Comparativo Local',
+    instrucao: 'Compare implicitamente ou explicitamente este bairro/tema com 1–2 alternativas reais de Indaiatuba (sem ranking genérico). Mostre trade-offs concretos.'
+  },
+  'custo-oculto': {
+    label: 'Custo Oculto & CAPEX',
+    instrucao: 'Foque em dinheiro, tempo e risco financeiro. Quantifique ordens de grandeza quando possível (sem inventar números precisos) e ensine como o leitor valida os custos.'
+  },
+  'rotina-real': {
+    label: 'Rotina Real do Morador',
+    instrucao: 'Conte a história a partir da rotina semanal/mensal de quem já mora ou vai morar. Use horários, deslocamentos, tarefas de manutenção e momentos de atrito.'
+  },
+  'mito-vs-fato': {
+    label: 'Mito vs. Fato Urbano',
+    instrucao: 'Estruture em blocos claros de mito → realidade local → o que fazer na prática. Linguagem direta e memorável.'
+  },
+  'decisao-familia': {
+    label: 'Decisão Familiar / Longo Prazo',
+    instrucao: 'Enquadre a decisão sob a ótica de 5–15 anos: filhos, envelhecimento, mudança de rotina, liquidez futura e custo emocional.'
+  },
+  'vistoria-tecnica': {
+    label: 'Vistoria Técnica Profunda',
+    instrucao: 'Escreva como um engenheiro/arquiteto que ensina o leitor a enxergar o que o corretor não mostra. Detalhe pontos de inspeção, perguntas ao vendedor e documentos a pedir.'
+  }
+};
+
+const INTENTS = {
+  informational: 'O leitor quer entender o tema com profundidade antes de qualquer decisão de compra. Priorize clareza, exemplos locais e autoridade.',
+  commercial: 'O leitor está comparando opções e avaliando prós/contras. Ajude-o a eliminar opções ruins e a fazer perguntas melhores.',
+  transactional: 'O leitor está perto de decidir. Entregue critérios claros de “sim / não / só se…” e um protocolo de validação final.',
+  'navigational-local': 'O leitor busca informação hiperlocal (“em [bairro]”, “perto de…”). Maximize referências a vias, dinâmicas e sinais de campo reais.'
+};
+
+const DEPTHS = {
+  padrao: { palavras: '900 a 1.200', instrucao: 'Texto denso e completo, sem enrolação. Cada parágrafo deve carregar informação nova.' },
+  denso: { palavras: '1.300 a 1.700', instrucao: 'Análise profunda com mais exemplos de campo, nuances e um checklist mais completo. Ainda assim, zero filler.' },
+  pillar: { palavras: '1.800 a 2.400', instrucao: 'Artigo pillar definitivo. Cubra o tema de forma abrangente, com seções bem demarcadas, FAQ implícito e valor de referência por anos.' },
+  rapido: { palavras: '700 a 900', instrucao: 'Cirúrgico e direto. Máxima densidade informativa por parágrafo. Ideal para intenção comercial rápida.' }
+};
+
+const TONS = {
+  analista: 'Tom de analista urbano independente (estilo guia Michelin + análise de mercado honesta). Frases precisas, sem hype.',
+  mentor: 'Tom de mentor pragmático (REI / HubSpot method). Direto, útil, com “faça isso / evite aquilo”.',
+  investigativo: 'Tom de jornalista investigativo local. Revela o que não está no anúncio, com evidências de campo.',
+  tecnico: 'Tom de engenheiro/arquiteto técnico. Precisão de linguagem, foco em desempenho, normas e diagnóstico.',
+  familia: 'Tom de consultor de família e rotina. Empático, mas realista; fala de tempo, energia e qualidade de vida de longo prazo.'
+};
+
+const LOCALISMOS = {
+  alto: 'Cite vias reais, microclima, dinâmicas de tráfego, horários de pico e sinais de campo específicos do bairro. O leitor deve sentir que o texto só poderia ter sido escrito por quem conhece Indaiatuba de perto.',
+  medio: 'Mencione o bairro, 1–2 eixos principais e características urbanas relevantes. Evite excesso de nomes de rua se não agregarem.',
+  contextual: 'Mantenha o foco em Indaiatuba como cidade, usando o bairro como exemplo principal sem hiperlocalismo excessivo.'
+};
+
+// Anti-repetição de sessão
+let historicoSorteios = [];
+const MAX_HISTORICO = 40;
+
+function pick(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+function gerarTitulo(tema, bairro, anguloKey) {
+  const templates = [
+    `${tema.tema} em ${bairro.nome}: O que a Planta e o Anúncio Não Contam`,
+    `A Verdadeira Mecânica de Morar em ${bairro.nome}: Como Avaliar ${tema.tema}`,
+    `${tema.tema} em Indaiatuba: O Teste de Campo para Fazer em ${bairro.nome}`,
+    `Antes de Comprar em ${bairro.nome}: O Impacto Real de ${tema.tema} na Rotina`,
+    `A Leitura de Cidade em ${bairro.nome}: Por que ${tema.tema} Muda a Conta Final`,
+    `${bairro.nome} e ${tema.tema}: O Guia que o Corretor Não Entrega`,
+    `O Erro Mais Comum ao Avaliar ${tema.tema} em ${bairro.nome}`,
+    `${tema.tema} em ${bairro.nome}: Mito, Realidade e Protocolo de Decisão`,
+    `Por que ${tema.tema} Define se a Compra em ${bairro.nome} Compensa`,
+    `Checklist de Campo: ${tema.tema} em ${bairro.nome} (Indaiatuba)`,
+    `${bairro.nome}: Como ${tema.tema} Afeta Conforto, Custo e Liquidez`,
+    `A Decisão de Comprar em ${bairro.nome} Passa por ${tema.tema} — Veja Porquê`
+  ];
+  // Variação extra por ângulo
+  if (anguloKey === 'protocolo-campo') {
+    templates.push(`Protocolo de Vistoria: ${tema.tema} em ${bairro.nome}`);
+    templates.push(`O que Verificar em Campo sobre ${tema.tema} em ${bairro.nome}`);
+  }
+  if (anguloKey === 'custo-oculto') {
+    templates.push(`O Custo Real de Ignorar ${tema.tema} em ${bairro.nome}`);
+    templates.push(`${tema.tema} em ${bairro.nome}: Onde Está o Dinheiro Escondido`);
+  }
+  if (anguloKey === 'mito-vs-fato') {
+    templates.push(`Mito vs. Fato: ${tema.tema} em ${bairro.nome}`);
+  }
+  return pick(templates);
+}
+
+function gerarKeywordPrimaria(tema, bairro) {
+  const opts = [
+    `${tema.tema.toLowerCase()} ${bairro.nome.toLowerCase()}`,
+    `casa em ${bairro.nome.toLowerCase()} indaiatuba`,
+    `${bairro.nome.toLowerCase()} indaiatuba ${tema.tags[0].toLowerCase()}`,
+    `morar em ${bairro.nome.toLowerCase()}`,
+    `${tema.tags[0].toLowerCase()} indaiatuba`
+  ];
+  return pick(opts);
+}
+
+function gerarInsightUnico(tema, bairro) {
+  const extras = [
+    `Em ${bairro.nome}, ${bairro.caracteristica}.`,
+    `O ponto cego mais frequente em ${bairro.nome} envolve ${bairro.risco}.`,
+    `Quem já mora no bairro costuma notar primeiro: ${bairro.clima}.`,
+    tema.insightBase,
+    `A combinação de ${tema.tema.toLowerCase()} com o perfil de ${bairro.perfil} cria um cenário que raramente aparece nos anúncios.`
+  ];
+  return pick(extras) + ' ' + pick([
+    'Isso muda a forma como se avalia planta, horário de visita e proposta.',
+    'Ignorar esse detalhe costuma custar mais caro do que qualquer “desconto” de tabela.',
+    'O comprador atento usa isso como filtro antes mesmo de agendar a segunda visita.',
+    'É o tipo de informação que separa decisão informada de decisão por impulso.'
+  ]);
+}
+
+function gerarLimite(bairro, tema) {
+  const bases = [
+    `Quem exige silêncio monástico de janelas abertas 24h e não tolera a dinâmica real do bairro.`,
+    `Famílias que precisam fazer tudo a pé e não querem planejar deslocamentos mínimos de carro.`,
+    `Compradores que buscam “zero manutenção” e não aceitam nenhum trade-off de planta ou localização.`,
+    `Investidores que priorizam apenas valorização de curto prazo e ignoram liquidez e custo de posse.`,
+    `Quem não tem paciência para vistoria técnica e prefere decidir só pelo feeling do estande ou do anúncio.`
+  ];
+  return pick(bases) + ` Em ${bairro.nome}, isso se agrava quando se ignora ${tema.tema.toLowerCase()}.`;
+}
+
+function chaveSorteio(b, t, a) {
+  return `${b.nome}|${t.tema}|${a}`;
+}
+
+function sortearNovaIdeia(fullReset = true) {
+  let bairro, tema, anguloKey;
+  let tentativas = 0;
+  const maxTent = 80;
+
+  do {
+    bairro = pick(BAIRROS);
+    tema = pick(TEMAS);
+    anguloKey = fullReset ? pick(Object.keys(ANGULOS)) : document.getElementById('f_angulo').value;
+    tentativas++;
+  } while (
+    historicoSorteios.includes(chaveSorteio(bairro, tema, anguloKey)) &&
+    tentativas < maxTent &&
+    historicoSorteios.length < BAIRROS.length * TEMAS.length * 0.7
+  );
+
+  // Controles aleatórios se fullReset
+  if (fullReset) {
+    document.getElementById('f_angulo').value = anguloKey;
+    document.getElementById('f_intent').value = pick(Object.keys(INTENTS));
+    document.getElementById('f_depth').value = pick(['padrao', 'padrao', 'denso', 'rapido', 'pillar']); // viés para padrão/denso
+    document.getElementById('f_tom').value = pick(Object.keys(TONS));
+    document.getElementById('f_localismo').value = pick(['alto', 'alto', 'medio']); // viés para alto
+  } else {
+    anguloKey = document.getElementById('f_angulo').value;
+  }
+
+  const titulo = gerarTitulo(tema, bairro, anguloKey);
+  const insight = gerarInsightUnico(tema, bairro);
+  const limite = gerarLimite(bairro, tema);
+  const kwPrimary = gerarKeywordPrimaria(tema, bairro);
+  const kwSecondary = [
+    ...tema.tags.slice(0, 3),
+    bairro.nome,
+    'Indaiatuba',
+    'compra de imóvel',
+    'qualidade de vida'
+  ].filter((v, i, a) => a.indexOf(v) === i).join(', ');
+
+  document.getElementById('f_title').value = titulo;
+  document.getElementById('f_bairro').value = bairro.nome;
+  document.getElementById('f_category').value = tema.categoria;
+  document.getElementById('f_vias').value = `${bairro.via} (${bairro.perfil})`;
+  document.getElementById('f_dor').value = tema.dor;
+  document.getElementById('f_crenca').value = tema.crenca;
+  document.getElementById('f_mecanica').value = `${bairro.caracteristica}. Clima/ventos: ${bairro.clima}. Ponto de atenção: ${bairro.risco}.`;
+  document.getElementById('f_limite').value = limite;
+  document.getElementById('f_insight').value = insight;
+  document.getElementById('f_kw_primary').value = kwPrimary;
+  document.getElementById('f_kw_secondary').value = kwSecondary;
+  document.getElementById('f_tags').value = [...tema.tags, bairro.nome, 'Indaiatuba'].join(', ');
+
+  // Histórico
+  const chave = chaveSorteio(bairro, tema, anguloKey);
+  historicoSorteios.unshift(chave);
+  if (historicoSorteios.length > MAX_HISTORICO) historicoSorteios.pop();
+  atualizarHistorico();
+
+  const totalComb = BAIRROS.length * TEMAS.length * Object.keys(ANGULOS).length * 4 * 5 * 3;
+  document.getElementById('counter_badge').textContent =
+    `🎲 ${totalComb.toLocaleString('pt-BR')}+ combinações · ${historicoSorteios.length} nesta sessão`;
+
+  atualizarPrompt();
+}
+
+function atualizarHistorico() {
+  const el = document.getElementById('history_list');
+  if (historicoSorteios.length === 0) {
+    el.textContent = 'Nenhum sorteio ainda nesta sessão.';
+    return;
+  }
+  el.innerHTML = historicoSorteios.slice(0, 12).map(h => {
+    const [b, t, a] = h.split('|');
+    return `<div>${b} · ${t} · ${ANGULOS[a]?.label || a}</div>`;
+  }).join('');
+}
+
+function gerarKebab(texto) {
+  if (!texto) return 'post-saber';
+  return texto
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .substring(0, 72);
+}
+
+function montarPromptParaIA() {
+  const title = document.getElementById('f_title').value.trim();
+  const bairro = document.getElementById('f_bairro').value.trim();
+  const category = document.getElementById('f_category').value.trim();
+  const vias = document.getElementById('f_vias').value.trim();
+  const dor = document.getElementById('f_dor').value.trim();
+  const crenca = document.getElementById('f_crenca').value.trim();
+  const mecanica = document.getElementById('f_mecanica').value.trim();
+  const limite = document.getElementById('f_limite').value.trim();
+  const insight = document.getElementById('f_insight').value.trim();
+  const tags = document.getElementById('f_tags').value.trim();
+  const kwPrimary = document.getElementById('f_kw_primary').value.trim();
+  const kwSecondary = document.getElementById('f_kw_secondary').value.trim();
+
+  const anguloKey = document.getElementById('f_angulo').value;
+  const intentKey = document.getElementById('f_intent').value;
+  const depthKey = document.getElementById('f_depth').value;
+  const tomKey = document.getElementById('f_tom').value;
+  const localismoKey = document.getElementById('f_localismo').value;
+
+  const angulo = ANGULOS[anguloKey] || ANGULOS['analise-critica'];
+  const intent = INTENTS[intentKey] || INTENTS.informational;
+  const depth = DEPTHS[depthKey] || DEPTHS.padrao;
+  const tom = TONS[tomKey] || TONS.analista;
+  const localismo = LOCALISMOS[localismoKey] || LOCALISMOS.alto;
+
+  const nl = '\n';
+  const kebab = gerarKebab(title);
+
+  let prompt = '';
+
+  // ========== SYSTEM ==========
+  prompt += `# SYSTEM: VOCÊ É O EDITOR-CHEFE DO BLOG DA IMOBILIÁRIA SABER (INDAIATUBA)` + nl;
+  prompt += `Sua única missão nesta tarefa é redigir UM artigo inédito, de altíssimo valor prático e SEO, sobre moradia e decisão de compra em Indaiatuba-SP. O texto deve ser publicável imediatamente no blog Astro (AstroWind / content collection) como arquivo .md.` + nl + nl;
+
+  prompt += `Você opera com o princípio **"Vender sem vender"**: autoridade geográfica real + utilidade cirúrgica + honestidade radical. O leitor deve terminar o artigo mais preparado para decidir (ou para não comprar) do que qualquer visita a estande.` + nl + nl;
+
+  // ========== DIRETRIZES ==========
+  prompt += `---` + nl;
+  prompt += `## 1. DIRETRIZES FUNDAMENTAIS (NÃO NEGOCIÁVEIS)` + nl + nl;
+
+  prompt += `### Tom e Persona` + nl;
+  prompt += `- ${tom}` + nl;
+  prompt += `- Você NÃO é corretor de estande, copywriter de lançamento nem influencer de "vida no interior".` + nl;
+  prompt += `- Você é a pessoa que o leitor gostaria de ter ao lado na vistoria: experiente, direta e sem conflito de interesse aparente.` + nl + nl;
+
+  prompt += `### Proibições Absolutas de Linguagem` + nl;
+  prompt += `É PROIBIDO usar (ou paráfrases óbvias de):` + nl;
+  prompt += `"refúgio definitivo", "porto seguro", "jogada de mestre", "sweet spot", "blindagem patrimonial", "elite paulistana", "deslumbrante", "espetacular", "venha realizar o sonho", "oportunidade única", "não perca", "exclusivo", "alto padrão incomparável", "qualidade de vida inigualável", "o melhor bairro de Indaiatuba".` + nl;
+  prompt += `Também é proibido: listas de adjetivos vazios, CTAs agressivos de venda, depoimentos inventados e qualquer forma de hype imobiliário.` + nl + nl;
+
+  prompt += `### Anti-Alucinação e Honestidade de Dados` + nl;
+  prompt += `- NÃO invente percentuais de valorização, preços médios, rankings, "dados de mercado" ou depoimentos.` + nl;
+  prompt += `- Se um número ou fato não puder ser verificado pelo leitor (cartório, prefeitura, visita de campo, concessionária), ensine COMO checar em vez de afirmar.` + nl;
+  prompt += `- Prefira ordens de grandeza honestas ("costuma custar várias vezes mais", "na prática leva 30–50 minutos") a cifras falsamente precisas.` + nl + nl;
+
+  prompt += `### SEO & Qualidade Editorial (padrão mundial)` + nl;
+  prompt += `- Escreva para humanos primeiro. O Google recompensa experiência, expertise, autoridade e confiança (E-E-A-T) + utilidade real.` + nl;
+  prompt += `- Intenção de busca prioritária desta pauta: **${intentKey}**. ${intent}` + nl;
+  prompt += `- Palavra-chave primária a ser trabalhada de forma natural: **"${kwPrimary}"**.` + nl;
+  prompt += `- Keywords e entidades secundárias (LSI / semantic): ${kwSecondary || tags}.` + nl;
+  prompt += `- Varie estruturas de frase e aberturas de parágrafo. Evite padrões sintáticos repetitivos de IA.` + nl;
+  prompt += `- Use linguagem concreta, sensorial e local (horários, vias, sensações térmicas, sons, tempos de deslocamento).` + nl;
+  prompt += `- Inclua pelo menos uma seção que responda diretamente a uma pergunta que o leitor digitaria no Google.` + nl;
+  prompt += `- Nível de localismo exigido: ${localismo}` + nl + nl;
+
+  prompt += `### Formato Técnico do Blog` + nl;
+  prompt += `- Sem H1 no corpo do artigo (o AstroWind já renderiza o title do frontmatter como H1).` + nl;
+  prompt += `- Inicie o corpo em parágrafo de abertura forte ou em <h2>.` + nl;
+  prompt += `- Sem citações formais estilo acadêmico (CITE).` + nl;
+  prompt += `- Extensão alvo: **${depth.palavras} palavras** de análise útil. ${depth.instrucao}` + nl;
+  prompt += `- Termine o artigo EXATAMENTE com o script ConvertKit (não altere o código):` + nl;
+  prompt += `<script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>` + nl + nl;
+
+  // ========== BRIEFING ==========
+  prompt += `---` + nl;
+  prompt += `## 2. BRIEFING DA PAUTA (FONTE DA VERDADE)` + nl + nl;
+  prompt += `• **Título proposto:** ${title}` + nl;
+  prompt += `• **Bairro / Região:** ${bairro} (Indaiatuba – SP)` + nl;
+  prompt += `• **Categoria editorial:** ${category}` + nl;
+  prompt += `• **Vias e eixos reais:** ${vias}` + nl;
+  prompt += `• **Dor / ponto cego do comprador:** ${dor}` + nl;
+  prompt += `• **Crença de mercado a desarmar:** ${crenca}` + nl;
+  prompt += `• **Mecânica urbana, solo e clima:** ${mecanica}` + nl;
+  prompt += `• **Contraindicação honesta:** ${limite}` + nl;
+  prompt += `• **Insight único / ângulo diferencial (obrigatório usar):** ${insight}` + nl;
+  prompt += `• **Ângulo editorial desta geração:** ${angulo.label} — ${angulo.instrucao}` + nl;
+  prompt += `• **Tags para frontmatter:** ${tags}` + nl + nl;
+
+  // ========== ESTRUTURA ==========
+  prompt += `---` + nl;
+  prompt += `## 3. ESTRUTURA OBRIGATÓRIA DO ARTIGO (.md)` + nl + nl;
+
+  prompt += `### 3.1 Frontmatter YAML (completo e válido)` + nl;
+  prompt += `\`\`\`yaml` + nl;
+  prompt += `---` + nl;
+  prompt += `title: "${title}"` + nl;
+  prompt += `excerpt: "1–2 frases sem hype, até 160 caracteres, que façam o leitor querer continuar"` + nl;
+  prompt += `description: "Meta description objetiva para SEO local, até 160 caracteres, com a keyword primária de forma natural"` + nl;
+  prompt += `category: "${category}"` + nl;
+  prompt += `tags:` + nl;
+  prompt += `  - tag1` + nl;
+  prompt += `  - tag2` + nl;
+  prompt += `  - tag3` + nl;
+  prompt += `  - tag4` + nl;
+  prompt += `---` + nl;
+  prompt += `\`\`\`` + nl + nl;
+
+  prompt += `### 3.2 Corpo do Artigo (ordem recomendada)` + nl;
+  prompt += `1. **Abertura de vida concreta** — Comece com tempo, ruído, insolação, deslocamento, custo ou estresse real. Nada de definição de dicionário.` + nl;
+  prompt += `2. **A crença que falha** — Enuncie a crença comum e mostre por que ela desaba na rotina de Indaiatuba / deste bairro.` + nl;
+  prompt += `3. **A mecânica real** — Solo, relevo, vias, ventos, horários, infraestrutura. Cite as vias e dinâmicas do briefing.` + nl;
+  prompt += `4. **O insight diferencial** — Desenvolva o insight único fornecido. É o que torna este artigo impossível de ser genérico.` + nl;
+  prompt += `5. **Limite honesto** — "Isso NÃO serve se…". Seja específico e útil.` + nl;
+  prompt += `6. **Protocolo / Checklist de campo** — Perguntas e verificações que o leitor pode levar na próxima visita (mínimo 5–7 itens acionáveis).` + nl;
+  prompt += `7. **Consequência patrimonial sutil** — Como a escolha correta de planta, orientação, bairro ou tipologia protege tempo, dinheiro e liquidez — sem forçar venda.` + nl;
+  prompt += `8. **Fecho memorável** — Uma frase curta, precisa e humana + o script ConvertKit.` + nl + nl;
+
+  prompt += `### 3.3 Qualidade de Escrita Exigida` + nl;
+  prompt += `- Cada seção deve adicionar informação nova. Corte qualquer parágrafo que só "embelezaria".` + nl;
+  prompt += `- Prefira substantivos e verbos concretos a adjetivos.` + nl;
+  prompt += `- Varie o ritmo: frases curtas para impacto + períodos um pouco mais longos para análise.` + nl;
+  prompt += `- O texto deve parecer escrito por alguém que já andou nas vias citadas, não por modelo de linguagem genérico.` + nl + nl;
+
+  // ========== ENTREGA ==========
+  prompt += `---` + nl;
+  prompt += `## 4. FORMATO DE ENTREGA ESPERADO` + nl + nl;
+  prompt += `Entregue nesta ordem:` + nl;
+  prompt += `1. **Nome do arquivo** em kebab-case limpo: \`${kebab}.md\`` + nl;
+  prompt += `2. **O bloco Markdown completo** (frontmatter + corpo), pronto para ser salvo em \`src/data/post/\` do blog Astro.` + nl + nl;
+  prompt += `Não inclua explicações meta sobre o que você vai fazer. Vá direto ao artigo.` + nl + nl;
+  prompt += `Gere agora o artigo completo com máxima profundidade analítica, localismo real e utilidade prática:`;
+
+  return prompt;
+}
+
+function atualizarPrompt() {
+  const p = montarPromptParaIA();
+  document.getElementById('prompt_output').textContent = p;
+  document.getElementById('char_count').textContent = p.length.toLocaleString('pt-BR');
+  document.getElementById('line_count').textContent = p.split('\n').length.toLocaleString('pt-BR');
+  document.getElementById('word_count').textContent = p.split(/\s+/).filter(Boolean).length.toLocaleString('pt-BR');
+}
+
+function mostrarToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.style.display = 'block';
+  setTimeout(() => { t.style.display = 'none'; }, 3400);
+}
+
+function copiarPrompt() {
+  const p = montarPromptParaIA();
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(p).then(() => {
+      mostrarToast('✅ Prompt copiado! Cole na IA para gerar o .md');
+    }).catch(() => fallbackCopy(p));
+  } else {
+    fallbackCopy(p);
+  }
+}
+
+function fallbackCopy(text) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  document.body.appendChild(ta);
+  ta.select();
+  document.execCommand('copy');
+  document.body.removeChild(ta);
+  mostrarToast('✅ Prompt copiado com sucesso!');
+}
+
+function baixarPromptTxt() {
+  const p = montarPromptParaIA();
+  const title = document.getElementById('f_title').value.trim() || 'briefing-post-saber';
+  const filename = 'prompt-' + gerarKebab(title) + '.txt';
+  const blob = new Blob([p], { type: 'text/plain;charset=utf-8;' });
+  const link = document.createElement('a');
+  const url = URL.createObjectURL(blob);
+  link.setAttribute('href', url);
+  link.setAttribute('download', filename);
+  link.style.visibility = 'hidden';
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  URL.revokeObjectURL(url);
+  mostrarToast('⬇️ ' + filename + ' baixado');
+}
+
+function copiarSoFrontmatter() {
+  const title = document.getElementById('f_title').value.trim();
+  const category = document.getElementById('f_category').value.trim();
+  const tags = document.getElementById('f_tags').value.trim();
+  const tagList = tags.split(',').map(t => t.trim()).filter(Boolean).slice(0, 6);
+  let yaml = `---\ntitle: "${title}"\nexcerpt: ""\ndescription: ""\ncategory: "${category}"\ntags:\n`;
+  tagList.forEach(t => { yaml += `  - ${t}\n`; });
+  yaml += `---`;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(yaml).then(() => mostrarToast('YAML copiado'));
+  } else {
+    fallbackCopy(yaml);
+  }
+}
+
+window.onload = function() {
+  sortearNovaIdeia(true);
+};
+</script>
+
+</body>
+</html>
