@@ -4,7 +4,6 @@ excerpt: "Por que a busca moderna por equilíbrio fracassa quando insistimos em 
 description: "Entenda a relação entre território, neurobiologia e segurança em Indaiatuba, com foco na tranquilidade do Jardim Portal de Itaici."
 category: "Análise Urbana & Estilo de Vida"
 tags:
-  - estilo-de-vida-e-territorio
   - estilo-de-vida
   - jardim-portal-de-itaici
   - indaiatuba
