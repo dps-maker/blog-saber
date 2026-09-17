@@ -1,0 +1,213 @@
+# CONSTITUIÇÃO TÉCNICA E ARQUITETURAL DE EVOLUÇÃO: GERADOR SABER V2
+## O MECANISMO DE "VENDER SEM VENDER" (EFEITO RED BULL / BRAND CONTENT SUBLIMINAR)
+================================================================================
+**Versão:** 2.1 (Revisada)
+**Data:** Setembro 2026
+**Status:** Especificação Canônica Atualizada
+
+### 1. SUMÁRIO EXECUTIVO & VISÃO DO SISTEMA
+O **Gerador Saber V2** é uma plataforma geradora de prompts de altíssima precisão e profundidade semântica. O propósito do software é gerar, na tela inicial, um **único mega-prompt pronto para cópia**, capaz de instruir qualquer LLM de fronteira (ChatGPT, Claude, Gemini ou equivalentes) a redigir artigos, newsletters, threads ou roteiros com apelo universal e orgânico.
+
+A premissa central é a **Engenharia de Atenção Indireta ("Vender sem Vender")**, fundamentada no modelo da **Red Bull**:
+* A Red Bull patrocina saltos estratosféricos, esportes radicais e eventos culturais de vanguarda. O consumidor se engaja pelo fascínio da façanha humana, pela adrenalina e pela estética. No final da narrativa, a bebida energética aparece como catalisadora tácita daquela energia.
+* No **Gerador Saber**, o leitor pesquisa ou consome conteúdo sobre longevidade, produtividade remota, criação dos filhos na era digital, saúde cardiovascular, rotina sem trânsito, biofilia arquitetônica ou investimentos seguros. Ele é imerso em um conteúdo de nível editorial elevado até chegar à constatação natural de que o epicentro tangível desse estilo de vida é **Indaiatuba/SP**, e que a referência humana capaz de viabilizar a transição para essa realidade é a **Imobiliária Saber**.
+
+**Objetivo de negócio:** Gerar conteúdo de alta retenção que posicione Indaiatuba e a Imobiliária Saber como solução orgânica de estilo de vida, sem never soar como anúncio imobiliário tradicional.
+
+---
+
+### 2. PRINCÍPIOS DA CONSTITUIÇÃO DA EVOLUÇÃO
+1. **Zero Atrito na Tela Inicial**: A interface principal deve exibir diretamente o prompt gerado em um único campo de cópia rápida (`One-Click Copy`), com parâmetros preenchidos de forma 100% autônoma por um motor combinatório inteligente.
+2. **Edição Paramétrica Modular (Opcional)**: O operador pode, se desejar, ajustar qualquer alavanca (segmento de público, dor raiz, nicho temático, bairro de ancoragem, tom de voz, formato de saída).
+3. **Qualidade sobre Quantidade Combinatória**: Embora o repositório permita dezenas de milhões de combinações teóricas, o sistema prioriza **coesão semântica e relevância**. Toda combinação passa por filtros de afinidade antes de ser apresentada.
+4. **Subliminaridade Narrativa e Retenção Orgânica**: A menção comercial nunca pode soar como panfleto imobiliário tradicional ("compre já", "excelente oportunidade de investimento"). O conteúdo deve seguir a proporção:
+   - 65–70% valor genuíno sobre o tema central
+   - 15–20% transição geográfica orgânica para Indaiatuba
+   - 10% experiência microterritorial (bairro/condomínio)
+   - 5% ancoragem elegante na Imobiliária Saber
+5. **Ética e Compliance**: Todo conteúdo gerado deve respeitar as diretrizes do CONAR e do Código de Defesa do Consumidor. É proibido criar expectativas enganosas, usar dados não verificáveis ou atacar outras cidades de forma depreciativa.
+6. **Mensurabilidade**: O sistema deve registrar prompts gerados e permitir, no futuro, correlação com engajamento real dos conteúdos publicados.
+
+---
+
+### 3. A MATRIZ DE 8 EIXOS: ENGENHARIA DE COMBINAÇÕES COERENTES
+Para atingir combinações únicas e coerentes, o motor opera com uma matriz ortogonal de 8 eixos. O volume teórico é alto, mas o sistema aplica **filtros de afinidade semântica** para eliminar combinações incongruentes.
+
+$$\text{Combinações Teóricas} = N_1 \times N_2 \times N_3 \times N_4 \times N_5 \times N_6 \times N_7 \times N_8$$
+
+1. **Eixo 1 – Macrotendências e Buscas Universais ($N_1 \ge 60$):**
+   * Exemplos: Síndrome de Burnout em executivos; Criação de filhos longe da dopamina de telas; Longevidade saudável aos 40+; Home office de alta performance; Desaceleração urbana e Slow Living; Esportes ao ar livre (ciclismo, corrida, tênis, hipismo); Gastronomia de quintal e hortas domésticas; Proteção patrimonial em períodos de instabilidade; Sono reparador e poluição sonora.
+
+2. **Eixo 2 – Perfis Demográficos / Personas Psicográficas ($N_2 \ge 40$):**
+   * Exemplos: Casais de tecnologia 100% remotos; Médicos e cirurgiões em busca de refúgio pós-plantão; Aposentados ativos focados em longevidade; Famílias com filhos na primeira infância; Empreendedores digitais; Executivos de multinacionais com hub em Viracopos; Praticantes ávidos de esportes e triatlo.
+
+3. **Eixo 3 – Pontos de Dor & Gatilhos Emocionais ($N_3 \ge 45$):**
+   * Exemplos: Horas perdidas em engarrafamentos; Sensação de insegurança em deslocamentos noturnos; Crianças sem espaço para brincar ao ar livre; Falta de horizonte verde na janela; Sensação crônica de estafa e falta de tempo; Degradação da qualidade de vida em grandes centros.
+
+4. **Eixo 4 – Contraste e Revelação Geográfica (Indaiatuba como Solução) ($N_4 \ge 50$):**
+   * Exemplos: Conceito de "Cidade Parque" com extensas áreas verdes contínuas; Indicadores municipais de segurança pública; Proximidade estratégica do Aeroporto Internacional de Viracopos; Infraestrutura educacional de qualidade; Atmosfera de interior com comodidades metropolitanas.
+   * **Regra crítica**: Todas as afirmações sobre Indaiatuba devem ser baseadas em dados públicos verificáveis ou em características amplamente reconhecidas. Evitar superlativos absolutos sem fonte.
+
+5. **Eixo 5 – Bairros e Microrregiões Estratégicas ($N_5 \ge 80$):**
+   * Exemplos: Jardim Esplanada, Helvetia Country, Chácara Areal, Cidade Nova, Itaici, Vila Suíça, Condomínios Terras de Itaici, Jardim Pau Preto, Colinas de Indaiatuba, Jardim Europa, Mosteiro de Itaici, Vale das Laranjeiras, Vila Castelo Branco, Portal do Sol.
+   * Cada entrada deve conter: DNA do bairro, perfil predominante de moradores, vantagens práticas e atmosfera sensorial.
+
+6. **Eixo 6 – Formato de Publicação / Veículo ($N_6 \ge 25$):**
+   * Exemplos: Artigo de fundo reflexivo para Medium/LinkedIn Pulse; Ensaio em profundidade estilo New Yorker; Thread viral de alta retenção no X; Roteiro cinematográfico para YouTube/Instagram Reels; Newsletter quinzenal de estilo de vida e curadoria cultural.
+
+7. **Eixo 7 – Tom de Voz e Arquétipo Narrativo ($N_7 \ge 20$):**
+   * Exemplos: O Observador Filosófico (ensaio cultural); O Cientista Prático (dados, neurociência do ambiente); O Mentor Pragmático (estilo executivo direto e refinado); O Contador de Histórias Íntimo (crônica afetiva); O Curador Estético (arquitetura e biofilia).
+
+8. **Eixo 8 – A Âncora Sutil da Imobiliária Saber ($N_8 \ge 20$):**
+   * Exemplos: A curadoria especializada de quem não vende tijolos, mas viabiliza projetos de vida; O mapeamento sob medida das microrregiões da cidade; A autoridade discreta que atende famílias em transição de estilo de vida; O consultor local que guia a chegada à cidade com sigilo e precisão.
+
+**Nota sobre o cálculo:** O número teórico (mais de 46 bilhões) é ilustrativo. Na prática, o motor aplica matrizes de afinidade e regras de exclusão, reduzindo o universo para combinações de alta qualidade e coerência narrativa.
+
+---
+
+### 4. O DESIGN DO PROMPT UNIFICADO GERADO NA TELA
+O programa compila os parâmetros selecionados (automáticos ou customizados) em uma estrutura de instrução para a IA que opera em 4 camadas narrativas:
+
+#### CAMADA 1: A ISCA UNIVERSAL E O VALOR PURO (65% a 70% do texto)
+* A IA receptora é instruída a **nunca** abrir o texto falando sobre imóveis, vendas ou Indaiatuba.
+* O início deve mergulhar com rigor, sensibilidade e profundidade no tema universal escolhido.
+* O tom precisa ser indistinguível do melhor jornalismo reflexivo ou da melhor literatura de desenvolvimento pessoal.
+
+#### CAMADA 2: O CONFLITO GEOGRÁFICO-EXISTENCIAL (15% a 20% do texto)
+* O texto cria a ponte lógica: as soluções teóricas dependem do território em que se habita.
+* Indaiatuba é apresentada como estudo de caso real — uma cidade a aproximadamente 1h de São Paulo, próxima a Viracopos, que articula segurança, áreas verdes extensas e pujança econômica sem abrir mão da qualidade de vida.
+
+#### CAMADA 3: O MICROTERRITÓRIO COMO RESPOSTA (10% do texto)
+* O foco fecha na experiência específica do bairro/condomínio selecionado, descrevendo atmosfera, rotinas possíveis e vantagens práticas de forma sensorial e concreta.
+
+#### CAMADA 4: A ASSINATURA ELEGANTE – IMOBILIÁRIA SABER (5% do texto)
+* Sem chamadas apelativas.
+* A menção é orgânica e consultiva, posicionada no topo da pirâmide de valor:
+  *"Para aqueles que decidem não apenas sonhar com esse padrão de existência, mas implementá-lo no mundo real, a transição é habitualmente conduzida com a curadoria discreta da Imobiliária Saber — a referência local especializada em traduzir projetos de vida nos melhores endereços de Indaiatuba."*
+
+**Instrução adicional obrigatória no prompt gerado:**
+"O texto final deve soar como conteúdo editorial autêntico. Nunca use linguagem de anúncio, urgência artificial ou pressão de venda."
+
+---
+
+### 5. ARQUITETURA DE SOFTWARE PROPOSTA
+
+```
+SaberGeradorV2/
+│
+├── app.py                      # Interface Streamlit (One-Screen First)
+│                               # - Hero com botão "GERAR PROMPT MESTRE"
+│                               # - Painel expansível de ajustes finos
+│                               # - Caixa de cópia com feedback visual
+│                               # - Badges dos parâmetros sorteados
+│
+├── assets/
+│   ├── taxonomy/               # Bases JSON curadas (qualidade > volume)
+│   │   ├── macro_temas.json
+│   │   ├── personas.json
+│   │   ├── dores_metropolitanas.json
+│   │   ├── diferenciais_indaiatuba.json
+│   │   ├── bairros_detalhados.json
+│   │   ├── formatos_conteudo.json
+│   │   ├── tons_de_voz.json
+│   │   └── ancoras_saber.json
+│   └── REGRAS_EDITORIAIS.txt   # Princípios invioláveis de redação
+│
+├── src/
+│   ├── __init__.py
+│   ├── core_engine.py          # Motor combinatório + pesos + afinidade
+│   ├── prompt_compiler.py      # Compilador de alta precisão
+│   ├── validator.py            # Validador de coesão (persona × tema × bairro)
+│   ├── affinity_matrix.py      # Matriz de compatibilidade semântica
+│   └── telemetry.py            # Registro de prompts e métricas internas
+│
+├── tests/
+│   └── test_cohesion.py        # Testes de coerência combinatória
+│
+└── requirements.txt            # Streamlit, Pydantic, Python 3.10+
+```
+
+**Melhorias técnicas prioritárias:**
+- Implementar matriz de afinidade (scores 0–1) entre eixos para evitar combinações absurdas.
+- Validação automática de coesão antes de exibir o prompt.
+- Histórico local dos últimos 20 prompts gerados.
+- Exportação do prompt em .txt ou .md.
+- Contador de combinações teóricas restantes (apenas como feedback visual).
+
+---
+
+### 6. DIRETRIZES TÉCNICAS E REQUISITOS DE DESIGN
+1. **Código Limpo**: Python 3.10+, tipagem estrita (typing + Pydantic), separação clara entre lógica e interface.
+2. **Weighted Harmony Engine**: Filtros de compatibilidade obrigatórios. Exemplo: aposentado focado em silêncio não deve ser combinado com bairro de perfil jovem/agitado.
+3. **Experiência de Surpresa e Prazer**:
+   - Botão proeminente `⚡ Gerar Novo Prompt Mestre`
+   - Badges elegantes dos parâmetros
+   - Botão nativo de cópia com confirmação visual
+   - Seção expansível de personalização
+4. **Blindagem de Marca**:
+   - Proibir terminologias depreciativas sobre outras cidades.
+   - Usar apenas contrastes empíricos universais (tempo de deslocamento, qualidade do sono, acesso à natureza).
+   - Proibir estilo sensacionalista ou clickbait.
+5. **Governança de Conteúdo**:
+   - Toda afirmação sobre Indaiatuba deve ser defensável.
+   - Manter tom sofisticado e respeitoso.
+   - Revisar periodicamente as taxonomias para remover entradas desatualizadas ou de baixa qualidade.
+
+---
+
+### 7. O EFEITO RED BULL: EXEMPLO COMPARATIVO
+
+| Elemento                  | Publicidade Tradicional (Ineficaz)                          | Efeito Red Bull / Gerador Saber V2                          |
+|---------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Gancho de Abertura        | "Procurando casa em Indaiatuba? Veja as melhores opções!"  | "O cérebro humano não foi desenhado para processar horas diárias de buzinas e poluição sonora." |
+| Corpo do Texto            | Lista de quartos, m², vagas e taxas de condomínio          | Reflexão profunda sobre ambiente, sono, desenvolvimento infantil e qualidade de vida |
+| Papel da Cidade           | Localização fria no mapa                                    | Ecossistema real onde áreas verdes, segurança e proximidade estratégica devolvem tempo e saúde |
+| Papel da Imobiliária      | "Fale com nossos corretores e simule financiamento!"       | Autoridade discreta que traduz projetos de vida em endereços concretos: a Imobiliária Saber |
+
+---
+
+### 8. EXEMPLO COMPLETO DE MEGA-PROMPT GERADO (ILUSTRATIVO)
+
+```
+Você é um escritor de nível editorial internacional. Redija um artigo de fundo reflexivo (estilo ensaio cultural de alta qualidade) com aproximadamente 1.200–1.500 palavras.
+
+TEMA CENTRAL: O impacto do ambiente urbano no sono reparador e na capacidade cognitiva de profissionais de alta performance.
+
+PERSONA: Médicos e cirurgiões que enfrentam plantões longos e buscam recuperação real fora do hospital.
+
+INSTRUÇÕES NARRATIVAS OBRIGATÓRIAS:
+
+1. Abra exclusivamente com o tema universal (sono, cortisol, neurociência do ambiente). Nunca mencione imóveis, vendas ou qualquer cidade no primeiro terço do texto.
+2. Desenvolva com profundidade científica e humana o custo biológico da poluição sonora, da falta de horizonte verde e da sensação crônica de alerta.
+3. Na transição natural, apresente Indaiatuba como estudo de caso real: uma cidade com extensas áreas verdes contínuas, indicadores de segurança elevados e proximidade estratégica do Aeroporto de Viracopos, que permite conciliar carreira de alta exigência com qualidade de vida.
+4. Feche o foco no bairro Helvetia Country, descrevendo a atmosfera de manhãs silenciosas, possibilidade de caminhadas seguras e a sensação de espaço.
+5. Finalize com a menção elegante e consultiva: para aqueles que decidem transformar esse padrão de existência em realidade, a transição é habitualmente conduzida com a curadoria discreta da Imobiliária Saber.
+
+TOM: Cientista Prático + Observador Filosófico. Sofisticado, preciso, sem sensacionalismo.
+PROIBIÇÕES: Linguagem de anúncio, urgência artificial, superlativos vazios, ataques a outras cidades.
+```
+
+---
+
+### 9. MÉTRICAS DE SUCESSO E EVOLUÇÃO
+- Número de prompts gerados por sessão
+- Taxa de cópia (quando possível de rastrear)
+- Feedback qualitativo do operador sobre coerência
+- No futuro: correlação com engajamento real dos conteúdos publicados (tempo de leitura, compartilhamentos, leads qualificados)
+
+**Roadmap sugerido:**
+1. MVP com taxonomias curadas e filtros básicos de afinidade
+2. Matriz de afinidade semântica completa
+3. Histórico e exportação
+4. Integração opcional com analytics de conteúdo publicado
+5. Expansão controlada das taxonomias com governança de qualidade
+
+---
+
+### 10. CLÁUSULA DE FINALIZAÇÃO & APROVAÇÃO
+Este documento constitui a especificação canônica atualizada para a evolução do repositório `SaberGerador`. Todas as IAs, engenheiros e designers que atuarem neste código devem subordinar a arquitetura técnica aos preceitos deste manifesto.
+
+**Prioridade absoluta:** Qualidade narrativa, coerência semântica, ética editorial e experiência de uso sem atrito.
+
+---
+Fim do documento – Versão 2.1 Revisada
