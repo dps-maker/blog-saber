@@ -1,123 +1,71 @@
-# AstroWind Agent Instructions
+<!-- 
+===================================================================================
+AVISO CRÍTICO PARA A PRÓXIMA INTELIGÊNCIA ARTIFICIAL (MUITO IMPORTANTE):
+- O estilo do blog NÃO PODE ser acadêmico, rebuscado ou pedante.
+- Princípio Mestre: "Falar de coisas altas com palavras simples".
+- O leitor ideal pode ser um empresário ou investidor com muito patrimônio, mas sem
+  formação acadêmica refinada. Ele não quer teses nem jargões como "fricção cinética",
+  "amígdala cortical", "resposta simpática" ou palavras empoladas.
+- O texto precisa ser tão claro, fluido e cristalino que até uma criança de 10 a 12 anos
+  consiga entender conceitos complexos de mercado, arquitetura, dinheiro e vida.
+- Qualidade máxima significa clareza cristalina, metáforas do dia a dia e respeito
+  ao tempo de quem lê, sem enrolação e sem artificialismo.
+===================================================================================
+-->
 
-## Project Overview
+# Diretrizes para Agentes de IA - Blog SABER
 
-AstroWind is a free, open-source website template built with **Astro v7** and **Tailwind CSS v4**. It generates a fully static site optimized for performance, SEO, and accessibility.
+Este documento é a diretriz absoluta para qualquer agente ou inteligência artificial que crie, edite ou revise postagens no Blog Saber.
 
-**Stack:** Astro v7 | Tailwind CSS v4 | TypeScript 5.9 | MDX | Sharp
+## 1. Princípio Fundamental de Voz e Tom
 
-## Skills
+> **"Tratar de coisas altas com palavras simples."**
 
-Before implementing a project-specific task (disabling the blog, Open Graph images, base paths, CMS, deployments, header customisation…), check `.agents/skills/` for an existing skill and follow it.
+Muitos leitores deste blog são pessoas que venceram na vida pelo trabalho prático, construíram patrimônio sólido, mas não têm paciência nem interesse por linguajar acadêmico ou frases difíceis. Se o texto parecer um artigo científico ou um livro de sociologia, ele falhou.
 
-## Quick Reference
+### Regras de Escrita:
+1. **Linguagem Cristalina:** Escreva de modo que uma criança de 10 a 12 anos compreenda a lógica sem precisar de dicionário.
+2. **Sem Jargões Empolados:** Proibido usar termos pedantes sem necessidade (ex.: substituir "resposta adrenérgica simpática" por "ficar com o coração acelerado de preocupação"; trocar "atrito cinético urbano" por "o estresse de ficar preso no trânsito").
+3. **Profundidade sem Pedantismo:** Falar de finanças, solidez patrimonial, urbanismo, arquitetura e bem-estar em família com exemplos concretos: o portão da garagem, o café tomado na varanda, a rua onde os filhos brincam, o dinheiro que rende em paz.
+4. **Frases Diretas:** Prefira ordem direta, parágrafos respiráveis (2 a 4 linhas) e ritmo natural de conversa inteligente.
+5. **Respeito ao Leitor:** Alta qualidade não é falar difícil; alta qualidade é tornar o complexo simples e imediatamente útil.
 
-| Command           | Purpose                             |
-| ----------------- | ----------------------------------- |
-| `npm run dev`     | Start dev server at localhost:4321  |
-| `npm run build`   | Production build to `./dist/`       |
-| `npm run preview` | Preview production build locally    |
-| `npm run check`   | Run astro check + ESLint + Prettier |
-| `npm run fix`     | Auto-fix ESLint + Prettier issues   |
+---
 
-**Node.js requirement:** >= 22.22.3
+## 2. Estrutura Padrão dos Posts (`src/data/post/*.md`)
 
-## Architecture
+Cada post do blog deve seguir rigorosamente a convenção do AstroWind:
 
-### Directory Structure
+```markdown
+---
+title: "Título Chamativo, Humano e Direto"
+excerpt: "Uma frase simples e forte que resume a grande sacada do texto."
+description: "Descrição limpa para o Google e redes sociais em português natural."
+publishDate: "2026-09-25T10:00:00Z"
+category: "Vida & Imóveis"
+tags:
+  - indaiatuba
+  - estilo-de-vida
+---
 
+Introdução cativante com uma história, reflexão ou situação que qualquer pessoa já viveu...
+
+## Subtítulo que Explica a Ideia Principal
+
+Explicação clara com exemplos visíveis...
+
+## Como Isso Muda o Seu Dia a Dia
+
+A aplicação prática na vida da família e no bolso...
+
+Para quem deseja dar esse passo com segurança e tranquilidade, a equipe da Imobiliária Saber orienta cada detalhe dos melhores bairros e condomínios de Indaiatuba.
+
+<script async data-uid="d188d73e78" src="https://sabernovidades.kit.com/d188d73e78/index.js"></script>
 ```
-src/
-  assets/styles/tailwind.css   # Tailwind v4 config (themes, utilities, plugins)
-  components/
-    common/        # Shared: Image, Metadata, Analytics, ToggleTheme
-    ui/            # Primitives: Button, Form, Headline, Timeline, WidgetWrapper
-    widgets/       # Page sections: Hero, Features, Bento, Pricing, Comparison, FAQs, Team, Gallery…
-    blog/          # Blog: SinglePost, List, Pagination, Tags
-    CustomStyles.astro  # CSS variables for colors and fonts
-  content.config.ts    # Content Collections schema (Astro 5+ location)
-  data/post/           # Blog posts (.md, .mdx)
-  layouts/             # Layout.astro, PageLayout.astro, MarkdownLayout.astro
-  pages/               # File-based routing
-  utils/               # blog.ts, images.ts, permalinks.ts, frontmatter.ts
-  config.yaml          # Site configuration (loaded as virtual module)
-  navigation.ts        # Navigation structure
-  types.d.ts           # TypeScript type definitions
-vendor/integration/    # Custom Astro integration for config loading
-```
 
-### Path Aliases
+---
 
-Use `~/` to import from `src/`:
-
-```typescript
-import Image from '~/components/common/Image.astro';
-import { SITE } from 'astrowind:config';
-```
-
-### Configuration System
-
-Site config lives in `src/config.yaml` and is loaded as a Vite virtual module `astrowind:config` by the custom integration in `vendor/integration/`. Exports: `SITE`, `I18N`, `METADATA`, `APP_BLOG`, `UI`, `ANALYTICS`.
-
-## Tailwind CSS v4
-
-Configuration is CSS-first in `src/assets/styles/tailwind.css`:
-
-- **Theme tokens:** `@theme { --color-primary: var(--aw-color-primary); ... }`
-- **Custom utilities:** `@utility bg-page { ... }`
-- **Dark mode:** Class-based via `@variant dark (&:where(.dark, .dark *))`
-- **Plugins:** `@plugin "@tailwindcss/typography"`
-- **Custom variant:** `@custom-variant intersect (&:not([no-intersect]))`
-
-CSS variables for colors/fonts are defined in `src/components/CustomStyles.astro` with light/dark theme variants.
-
-The Vite plugin `@tailwindcss/vite` is configured in `astro.config.ts` (not as an Astro integration).
-
-### Class Merging
-
-Components use `twMerge` from `tailwind-merge` v3 for conditional class composition.
-
-## Content Collections
-
-Defined in `src/content.config.ts` using Astro's Content Layer API with `glob()` loader. Posts are in `src/data/post/` as `.md` or `.mdx` files.
-
-Post frontmatter: `title` (required), `publishDate`, `updateDate`, `draft`, `excerpt`, `image`, `category`, `tags`, `author`, `metadata`.
-
-## Component Patterns
-
-- Props extend interfaces from `~/types`
-- Use `class:list` for conditional classes
-- Use `twMerge()` when accepting className overrides
-- Use named slots for layout composition
-- Widget components accept standardized props (see `~/types`)
-
-## Image Handling
-
-`src/components/common/Image.astro` supports:
-
-- Local images via `astro:assets` (optimized by Sharp)
-- Remote images via Unpic CDN
-- Allowed domains (for providers Unpic can't detect, processed by Sharp): `cdn.pixabay.com`
-
-Hero images use `loading="eager"` and `fetchpriority="high"`.
-
-## Fonts
-
-Fonts are handled by Astro's native **Fonts API**, configured in `astro.config.ts` under the `fonts` key (provider, family, `cssVariable`) and injected via the `<Font />` component in `src/layouts/Layout.astro`. Astro self-hosts, subsets, preloads, and generates metric-adjusted fallbacks. To change the typeface, edit the `fonts` entry and point `--aw-font-*` in `CustomStyles.astro` at the new `cssVariable`.
-
-## Third-party Scripts (Partytown)
-
-`@astrojs/partytown` is wired as an **opt-in** in `astro.config.ts`, gated behind `const hasExternalScripts = false`. Set it to `true` to offload third-party scripts (e.g. Google Analytics via `analytics.vendors.googleAnalytics.partytown`) to a web worker. It is disabled by default so the base template ships no external scripts.
-
-## Content Security Policy
-
-Astro's native CSP is intentionally **not** enabled in this version: it is incompatible with `<ClientRouter />` view transitions (shipped on by default) and would break the arbitrary third-party scripts a template user typically adds. CSP is deferred to AstroWind v2, where the component model (and optional SSR) make it clean and opt-in.
-
-## Verification Checklist
-
-After changes, always verify:
-
-1. `npm run build` succeeds
-2. `npm run check` passes (astro check + ESLint + Prettier)
-3. Visual check in browser: homepage, blog, dark mode, mobile menu
-4. Structured data describes the site it is on: the `WebSite` / `Organization` block in `src/pages/index.astro` is built only from `config.yaml`; anything you add there must be true for your site
+## 3. Comandos Úteis do Projeto
+- `pnpm dev`: Inicia o servidor local de desenvolvimento.
+- `pnpm build`: Executa o build de produção do Astro.
+- `pnpm check`: Valida tipos e TypeScript.
