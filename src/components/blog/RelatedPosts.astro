@@ -1,7 +1,7 @@
 ---
 import { APP_BLOG } from 'astrowind:config';
 import Grid from '~/components/blog/Grid.astro';
-import { getRelatedPosts } from '~/utils/blog';
+import { fetchPosts } from '~/utils/blog';
 import type { Post } from '~/types';
 
 export interface Props {
@@ -10,17 +10,31 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const relatedPosts = post.tags ? await getRelatedPosts(post, 4) : [];
+// 1. Busca a totalidade de todas as postagens cadastradas no blog
+const allPosts = await fetchPosts();
+
+// 2. Remove o post que o usuário está lendo no momento para não se auto-recomendar
+const currentSlug = post.slug || post.permalink;
+const pool = allPosts.filter((p) => (p.slug || p.permalink) !== currentSlug);
+
+// 3. Algoritmo de embaralhamento aleatório (Fisher-Yates) sobre toda a base
+for (let i = pool.length - 1; i > 0; i--) {
+  const j = Math.floor(Math.random() * (i + 1));
+  [pool[i], pool[j]] = [pool[j], pool[i]];
+}
+
+// 4. Seleciona 3 postagens sorteadas da totalidade
+const randomPosts = pool.slice(0, 3);
 ---
 
 {
-  APP_BLOG.isRelatedPostsEnabled ? (
+  APP_BLOG.isRelatedPostsEnabled && randomPosts.length > 0 ? (
     <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <div class="border-t border-gray-200 dark:border-slate-800 pt-8">
         <h3 class="text-2xl font-bold font-heading mb-6 dark:text-slate-200">
           Outras análises recomendadas
         </h3>
-        <Grid posts={relatedPosts} />
+        <Grid posts={randomPosts} />
       </div>
     </section>
   ) : null
