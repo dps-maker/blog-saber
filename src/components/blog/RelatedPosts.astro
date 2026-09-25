@@ -1,6 +1,5 @@
 ---
 import { APP_BLOG } from 'astrowind:config';
-import Grid from '~/components/blog/Grid.astro';
 import { fetchPosts } from '~/utils/blog';
 import type { Post } from '~/types';
 
@@ -10,32 +9,83 @@ export interface Props {
 
 const { post } = Astro.props;
 
-// 1. Busca a totalidade de todas as postagens cadastradas no blog
+// Busca todos os posts do blog
 const allPosts = await fetchPosts();
 
-// 2. Remove o post que o usuário está lendo no momento para não se auto-recomendar
+// Remove o post atual para não se auto-recomendar
 const currentSlug = post.slug || post.permalink;
 const pool = allPosts.filter((p) => (p.slug || p.permalink) !== currentSlug);
 
-// 3. Algoritmo de embaralhamento aleatório (Fisher-Yates) sobre toda a base
-for (let i = pool.length - 1; i > 0; i--) {
-  const j = Math.floor(Math.random() * (i + 1));
-  [pool[i], pool[j]] = [pool[j], pool[i]];
-}
+// Prepara o payload leve para o cliente
+const postsPayload = pool.map((p) => ({
+  title: p.title,
+  slug: p.slug || p.permalink,
+}));
 
-// 4. Seleciona 3 postagens sorteadas da totalidade
-const randomPosts = pool.slice(0, 3);
+// Fallback inicial estático (caso o leitor esteja sem JS)
+const initialPosts = pool.slice(0, 3);
 ---
 
 {
-  APP_BLOG.isRelatedPostsEnabled && randomPosts.length > 0 ? (
-    <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-      <div class="border-t border-gray-200 dark:border-slate-800 pt-8">
-        <h3 class="text-2xl font-bold font-heading mb-6 dark:text-slate-200">
+  APP_BLOG.isRelatedPostsEnabled && pool.length > 0 ? (
+    <section class="mx-auto max-w-4xl px-4 pt-4 pb-6 sm:px-6">
+      <div class="border-t border-gray-200 dark:border-slate-800 pt-6">
+        <h3 class="text-xl sm:text-2xl font-bold font-heading mb-6 dark:text-slate-200 text-center">
           Outras análises recomendadas
         </h3>
-        <Grid posts={randomPosts} />
+        
+        <div class="grid gap-4 sm:gap-6 md:grid-cols-3" id="related-posts-grid">
+          {initialPosts.map((item) => (
+            <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-center text-center">
+              <h4 class="text-base sm:text-lg font-bold leading-snug font-heading dark:text-slate-200">
+                <a
+                  href={`/blog/${item.slug}`}
+                  class="hover:text-primary dark:hover:text-blue-400 transition duration-200"
+                >
+                  {item.title}
+                </a>
+              </h4>
+            </div>
+          ))}
+        </div>
       </div>
     </section>
   ) : null
 }
+
+{/* ROTAÇÃO ALEATÓRIA NO CLIENTE A CADA F5 / CARREGAMENTO */}
+<script is:inline define:vars={{ postsPayload }}>
+  function shuffleAndRenderRelated() {
+    if (!Array.isArray(postsPayload) || postsPayload.length < 3) return;
+
+    // Embaralhamento Fisher-Yates sobre todo o catálogo
+    const items = [...postsPayload];
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+
+    const selectedThree = items.slice(0, 3);
+    const container = document.getElementById('related-posts-grid');
+
+    if (container) {
+      container.innerHTML = selectedThree
+        .map((p) => {
+          const url = `/blog/${p.slug}`;
+          return `
+            <div class="bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-800 rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col justify-center text-center">
+              <h4 class="text-base sm:text-lg font-bold leading-snug font-heading dark:text-slate-200">
+                <a href="${url}" class="hover:text-primary dark:hover:text-blue-400 transition duration-200">
+                  ${p.title}
+                </a>
+              </h4>
+            </div>
+          `;
+        })
+        .join('');
+    }
+  }
+
+  shuffleAndRenderRelated();
+  document.addEventListener('astro:page-load', shuffleAndRenderRelated);
+</script>
